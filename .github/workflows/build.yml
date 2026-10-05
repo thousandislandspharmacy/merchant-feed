@@ -1,0 +1,32 @@
+name: Rebuild Merchant Center supplemental feed
+
+on:
+  schedule:
+    - cron: "15 9 * * *"   # daily 09:15 UTC (~05:15 Toronto)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build feed from the storefront
+        run: python build_feed.py price-tiers.txt
+      - name: Commit if changed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          if git diff --quiet -- price-tiers.txt; then
+            echo "no change"
+          else
+            git add price-tiers.txt
+            git commit -m "feed: rebuild $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi
