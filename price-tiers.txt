@@ -1920,7 +1920,6 @@ brd-056112	Incontinence	120plus	incontinence	recurring
 brd-056114	Incontinence	120plus	incontinence	recurring
 brd-056116	Incontinence	120plus	incontinence	recurring
 brd-056118	Incontinence	120plus	incontinence	recurring
-brd-064030	Incontinence	120plus	incontinence	recurring
 brd-120610	Incontinence	120plus	incontinence	recurring
 brd-120612	Incontinence	120plus	incontinence	recurring
 brd-120614	Incontinence	120plus	incontinence	recurring
@@ -4377,7 +4376,6 @@ djo-79-84165	Braces	under60	braces	one-off
 djo-79-84247	Braces	under60	braces	one-off
 djo-79-87113	Braces	60to119	braces	one-off
 djo-79-87481	Braces	under60	braces	one-off
-djo-7989359	Braces	60to119	braces	one-off
 djo-84015	Braces	under60	braces	one-off
 djo-84017	Braces	under60	braces	one-off
 djo-84018	Braces	under60	braces	one-off
@@ -4616,7 +4614,6 @@ dm-btr22-r	Mobility	120plus	mobility	one-off
 dm-ctox-mn02	Respiratory	120plus	respiratory	recurring
 dm-cx416adda-sf	Mobility	120plus	mobility	one-off
 dm-cx416addaelr	Mobility	120plus	mobility	one-off
-dm-cx416adfa-el	Mobility	120plus	mobility	one-off
 dm-cx416adfa-sf	Mobility	120plus	mobility	one-off
 dm-cx416adfaelr	Mobility	120plus	mobility	one-off
 dm-cx418adda-sf	Mobility	120plus	mobility	one-off
@@ -4806,7 +4803,6 @@ dm-ssp218dfa-sf	Mobility	120plus	mobility	one-off
 dm-ssp218dfaelr	Mobility	120plus	mobility	one-off
 dm-ssp218fa-elr	Mobility	120plus	mobility	one-off
 dm-ssp218fa-sf	Mobility	120plus	mobility	one-off
-dm-ssp220dda-el	Mobility	120plus	mobility	one-off
 dm-ssp220dda-sf	Mobility	120plus	mobility	one-off
 dm-ssp220ddaelr	Mobility	120plus	mobility	one-off
 dm-ssp220dfa-sf	Mobility	120plus	mobility	one-off
@@ -4825,7 +4821,6 @@ dm-std22ecelr	Mobility	120plus	mobility	one-off
 dm-std24dda-elr	Mobility	120plus	mobility	one-off
 dm-std24dda-sf	Mobility	120plus	mobility	one-off
 dm-std24ecddasf	Mobility	120plus	mobility	one-off
-dm-std24ecdfa-s	Mobility	120plus	mobility	one-off
 dm-std24ecdfasf	Mobility	120plus	mobility	one-off
 dm-std26ecdda	Mobility	120plus	mobility	one-off
 dm-std26ecddasf	Mobility	120plus	mobility	one-off
@@ -7133,17 +7128,12 @@ rus-ec100	Incontinence	60to119	incontinence	recurring
 rus-ec103	Incontinence	120plus	incontinence	recurring
 rus-ec105	Incontinence	60to119	incontinence	recurring
 rus-ec120	Incontinence	60to119	incontinence	recurring
-rus-ec121	Incontinence	60to119	incontinence	recurring
 rus-ec123	Incontinence	120plus	incontinence	recurring
 rus-ec125	Incontinence	60to119	incontinence	recurring
-rus-ec129	Incontinence	120plus	incontinence	recurring
-rus-ec140	Incontinence	60to119	incontinence	recurring
 rus-ec141	Incontinence	60to119	incontinence	recurring
-rus-ec143	Incontinence	120plus	incontinence	recurring
 rus-ec144	Incontinence	60to119	incontinence	recurring
 rus-ec145	Incontinence	60to119	incontinence	recurring
 rus-ec149	Incontinence	120plus	incontinence	recurring
-rus-ec160	Incontinence	60to119	incontinence	recurring
 rus-ec161	Incontinence	60to119	incontinence	recurring
 rus-ec163	Incontinence	120plus	incontinence	recurring
 rus-ec165	Incontinence	60to119	incontinence	recurring
@@ -7383,7 +7373,6 @@ snu-66060634	Wound Care	120plus	wound-care	recurring
 snu-66060635	Wound Care	120plus	wound-care	recurring
 snu-66250704	Wound Care	under60	wound-care	recurring
 snu-66250706	Wound Care	60to119	wound-care	recurring
-snu-66320703	Wound Care	under60	wound-care	recurring
 snu-66800098	Wound Care	120plus	wound-care	recurring
 snu-66800136	Wound Care	120plus	wound-care	recurring
 snu-66800137	Wound Care	120plus	wound-care	recurring
@@ -7844,7 +7833,6 @@ wa-reuse-12-1tp	Health Monitors	under60	health-monitors	one-off
 wa-reuse-12-2bv	Health Monitors	60to119	health-monitors	one-off
 wa-reuse-12-2mf	Health Monitors	under60	health-monitors	one-off
 wa-reuse-13-2bv	Health Monitors	60to119	health-monitors	one-off
-wa-reuse-9	Health Monitors	under60	health-monitors	one-off
 wa-reuse-mlt	Health Monitors	120plus	health-monitors	one-off
 was-f1103300	Wound Care	under60	wound-care	recurring
 was-f1105300	Wound Care	under60	wound-care	recurring
