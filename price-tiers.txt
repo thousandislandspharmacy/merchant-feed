@@ -6384,7 +6384,6 @@ knd-9529	Compression Socks	120plus	compression-socks	recurring
 knd-958b10	Incontinence	under60	incontinence	recurring
 knd-9789	Compression Socks	120plus	compression-socks	recurring
 knd-984	Incontinence	60to119	incontinence	recurring
-knd-988b12	Incontinence	60to119	incontinence	recurring
 knd-b10fd	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-b10ff	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-b5fd	Enteral Feeding	120plus	enteral-feeding	recurring
