@@ -2,7 +2,6 @@ id	product_type	custom_label_0	custom_label_1	custom_label_2
 000027	Candy & Confectionery	under60	candy-confectionery	one-off
 01bm3100-mo	Respiratory	120plus	respiratory	recurring
 039560	Pain Relief	under60	pain-relief	one-off
-11-0968-9-06000	Braces	120plus	braces	one-off
 3m-10019	Wound Care	120plus	wound-care	recurring
 3m-10102	Wound Care	under60	wound-care	recurring
 3m-10106	Wound Care	under60	wound-care	recurring
@@ -130,7 +129,6 @@ id	product_type	custom_label_0	custom_label_1	custom_label_2
 3m-90800n	Wound Care	60to119	wound-care	recurring
 3m-90801n	Wound Care	120plus	wound-care	recurring
 3m-90803n	Wound Care	120plus	wound-care	recurring
-3m-9105	PPE	60to119	ppe	one-off
 3m-9222c	PPE	under60	ppe	one-off
 3m-9534hp	Wound Care	60to119	wound-care	recurring
 3m-9536hp	Wound Care	120plus	wound-care	recurring
@@ -162,32 +160,19 @@ id	product_type	custom_label_0	custom_label_1	custom_label_2
 3m-tch501	Wound Care	under60	wound-care	recurring
 3m-tch502	Wound Care	60to119	wound-care	recurring
 3m-wdp3	Wound Care	60to119	wound-care	recurring
-ab-5365813	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6208813	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6231713	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6268913	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6269313	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6631213	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6890713	Enteral Feeding	120plus	enteral-feeding	recurring
-ab-6890913	Enteral Feeding	120plus	enteral-feeding	recurring
 ac-rhs98213	Respiratory	under60	respiratory	recurring
 ac-rhs98214	Respiratory	under60	respiratory	recurring
 ac-rhs98215	Respiratory	under60	respiratory	recurring
 ac-rhs98216	Respiratory	60to119	respiratory	recurring
-ac-ua001200ble	Health Monitors	120plus	health-monitors	one-off
 ac-ua00525	Health Monitors	60to119	health-monitors	one-off
 ac-ua00651ble	Health Monitors	60to119	health-monitors	one-off
 ac-ua00651cnlac	Health Monitors	60to119	health-monitors	one-off
 ac-ua00651cnsac	Health Monitors	60to119	health-monitors	one-off
-ac-ua00787ejac	Health Monitors	60to119	health-monitors	one-off
 ac-ua00789ac	Health Monitors	120plus	health-monitors	one-off
-ac-ua279	Health Monitors	under60	health-monitors	one-off
-ac-ua281	Health Monitors	under60	health-monitors	one-off
 ac-ua289a	Health Monitors	under60	health-monitors	one-off
 ac-ua290a	Health Monitors	under60	health-monitors	one-off
 ac-ua291a	Health Monitors	under60	health-monitors	one-off
 ac-ua420a	Health Monitors	under60	health-monitors	one-off
-ac-uadt105	Health Monitors	under60	health-monitors	one-off
 ac-uaup200ble-tm	Health Monitors	60to119	health-monitors	one-off
 ac-uaup200cn	Health Monitors	under60	health-monitors	one-off
 acm-8702ty	Home Healthcare	under60	home-healthcare	one-off
@@ -1056,7 +1041,6 @@ ambu-1055	Respiratory	120plus	respiratory	recurring
 ambu-520612000	Respiratory	120plus	respiratory	recurring
 amd-6660	Wound Care	under60	wound-care	recurring
 amd-a2100-ch	Wound Care	under60	wound-care	recurring
-amg-016-639	Health Monitors	120plus	health-monitors	one-off
 amg-016-648	Health Monitors	under60	health-monitors	one-off
 amg-016-649	Health Monitors	under60	health-monitors	one-off
 amg-016-662	Health Monitors	120plus	health-monitors	one-off
@@ -1106,7 +1090,6 @@ amg-118-588	Wound Care	under60	wound-care	recurring
 amg-118-589	Wound Care	120plus	wound-care	recurring
 amg-560-280	Incontinence	under60	incontinence	recurring
 amg-705-470	Respiratory	120plus	respiratory	recurring
-amg-705-472	Respiratory	under60	respiratory	recurring
 amg-705-520	Respiratory	under60	respiratory	recurring
 amg-705-530	Respiratory	under60	respiratory	recurring
 amg-705-552	Respiratory	under60	respiratory	recurring
@@ -1116,7 +1099,6 @@ amg-715-715	Pain Relief	under60	pain-relief	one-off
 amg-730-444	Mobility	under60	mobility	one-off
 amg-730-446	Mobility	under60	mobility	one-off
 amg-745-460	Incontinence	under60	incontinence	recurring
-amg-760-070	Incontinence	under60	incontinence	recurring
 amg-760-376	Incontinence	under60	incontinence	recurring
 amg-760-382	Incontinence	120plus	incontinence	recurring
 amg-760-383	Incontinence	60to119	incontinence	recurring
@@ -1405,10 +1387,7 @@ bass-hy21000	Home Healthcare	120plus	home-healthcare	one-off
 bax-001206	Respiratory	under60	respiratory	recurring
 bax-001225	Respiratory	under60	respiratory	recurring
 bax-001263	Respiratory	under60	respiratory	recurring
-bax-001325	Respiratory	under60	respiratory	recurring
-bax-001420	Respiratory	120plus	respiratory	recurring
 bax-001901a	Respiratory	under60	respiratory	recurring
-bax-002006	Respiratory	under60	respiratory	recurring
 bax-10794983	Enteral Feeding	120plus	enteral-feeding	recurring
 bax-2c9216	Respiratory	120plus	respiratory	recurring
 bax-5007p	Respiratory	120plus	respiratory	recurring
@@ -1439,7 +1418,6 @@ bd-303051	Diabetic	under60	diabetic	recurring
 bd-305018	Diabetic	under60	diabetic	recurring
 bd-305409	Diabetic	120plus	diabetic	recurring
 bd-305447	Diabetic	60to119	diabetic	recurring
-bd-305451	Diabetic	under60	diabetic	recurring
 bd-305485	Diabetic	under60	diabetic	recurring
 bd-305494	Diabetic	120plus	diabetic	recurring
 bd-305517	Diabetic	under60	diabetic	recurring
@@ -2067,7 +2045,6 @@ brd-64030	Incontinence	120plus	incontinence	recurring
 brd-64032	Incontinence	120plus	incontinence	recurring
 brd-64036	Incontinence	120plus	incontinence	recurring
 brd-70516l	Incontinence	120plus	incontinence	recurring
-brd-762415	Incontinence	120plus	incontinence	recurring
 brd-86010	Incontinence	120plus	incontinence	recurring
 brd-86012	Incontinence	120plus	incontinence	recurring
 brd-86014	Incontinence	120plus	incontinence	recurring
@@ -2113,12 +2090,6 @@ bsn-02199	Wound Care	under60	wound-care	recurring
 bsn-04412001	Wound Care	under60	wound-care	recurring
 bsn-04413001	Wound Care	120plus	wound-care	recurring
 bsn-04414001	Wound Care	120plus	wound-care	recurring
-bsn-09046	Wound Care	under60	wound-care	recurring
-bsn-101319	Compression Socks	under60	compression-socks	recurring
-bsn-101320	Compression Socks	under60	compression-socks	recurring
-bsn-101328	Compression Socks	under60	compression-socks	recurring
-bsn-101335	Compression Socks	60to119	compression-socks	recurring
-bsn-101358	Compression Socks	under60	compression-socks	recurring
 bsn-110479	Compression Socks	under60	compression-socks	recurring
 bsn-110480	Compression Socks	under60	compression-socks	recurring
 bsn-110482	Compression Socks	under60	compression-socks	recurring
@@ -2128,21 +2099,6 @@ bsn-110491	Compression Socks	60to119	compression-socks	recurring
 bsn-110529	Compression Socks	60to119	compression-socks	recurring
 bsn-110856	Compression Socks	under60	compression-socks	recurring
 bsn-110859	Compression Socks	under60	compression-socks	recurring
-bsn-111406	Compression Socks	under60	compression-socks	recurring
-bsn-111410	Compression Socks	under60	compression-socks	recurring
-bsn-111414	Compression Socks	under60	compression-socks	recurring
-bsn-111415	Compression Socks	under60	compression-socks	recurring
-bsn-111450	Compression Socks	under60	compression-socks	recurring
-bsn-111451	Compression Socks	under60	compression-socks	recurring
-bsn-111452	Compression Socks	under60	compression-socks	recurring
-bsn-111454	Compression Socks	under60	compression-socks	recurring
-bsn-111456	Compression Socks	under60	compression-socks	recurring
-bsn-111459	Compression Socks	under60	compression-socks	recurring
-bsn-111460	Compression Socks	under60	compression-socks	recurring
-bsn-111462	Compression Socks	under60	compression-socks	recurring
-bsn-111463	Compression Socks	under60	compression-socks	recurring
-bsn-111464	Compression Socks	under60	compression-socks	recurring
-bsn-111627	Compression Socks	under60	compression-socks	recurring
 bsn-114204	Compression Socks	60to119	compression-socks	recurring
 bsn-114215	Compression Socks	60to119	compression-socks	recurring
 bsn-114662	Compression Socks	60to119	compression-socks	recurring
@@ -2152,17 +2108,11 @@ bsn-114733	Compression Socks	under60	compression-socks	recurring
 bsn-114787	Compression Socks	60to119	compression-socks	recurring
 bsn-114804	Compression Socks	under60	compression-socks	recurring
 bsn-114820	Compression Socks	under60	compression-socks	recurring
-bsn-117232	Compression Socks	under60	compression-socks	recurring
 bsn-2099	Wound Care	under60	wound-care	recurring
 bsn-2100	Wound Care	under60	wound-care	recurring
 bsn-2101	Wound Care	under60	wound-care	recurring
 bsn-2102	Wound Care	under60	wound-care	recurring
 bsn-2103	Wound Care	under60	wound-care	recurring
-bsn-4010	Braces	under60	braces	one-off
-bsn-41923x	Wound Care	under60	wound-care	recurring
-bsn-41933x	Wound Care	under60	wound-care	recurring
-bsn-41943x	Wound Care	under60	wound-care	recurring
-bsn-41965x	Wound Care	under60	wound-care	recurring
 bsn-4555200	Wound Care	under60	wound-care	recurring
 bsn-4555300	Wound Care	under60	wound-care	recurring
 bsn-6039501	Compression Socks	under60	compression-socks	recurring
@@ -2266,7 +2216,6 @@ bsn-7328504	Wound Care	120plus	wound-care	recurring
 bsn-7328701	Wound Care	120plus	wound-care	recurring
 bsn-7345800	Wound Care	60to119	wound-care	recurring
 bsn-7345803	Wound Care	120plus	wound-care	recurring
-bsn-7346814	Braces	60to119	braces	one-off
 bsn-7348500	Braces	120plus	braces	one-off
 bsn-7348501	Braces	120plus	braces	one-off
 bsn-7348502	Braces	120plus	braces	one-off
@@ -2830,7 +2779,6 @@ bsn-7750009	Compression Socks	120plus	compression-socks	recurring
 bsn-7750012	Compression Socks	120plus	compression-socks	recurring
 bsn-7750013	Compression Socks	120plus	compression-socks	recurring
 bsn-7764452	Compression Socks	under60	compression-socks	recurring
-bsn-7764993	Compression Socks	60to119	compression-socks	recurring
 bsn-7768108	Compression Socks	under60	compression-socks	recurring
 bsn-7768114	Compression Socks	60to119	compression-socks	recurring
 bsn-7768119	Compression Socks	60to119	compression-socks	recurring
@@ -2840,7 +2788,6 @@ bsn-7768201	Compression Socks	under60	compression-socks	recurring
 bsn-7768202	Compression Socks	under60	compression-socks	recurring
 bsn-7768206	Compression Socks	under60	compression-socks	recurring
 bsn-7768207	Compression Socks	under60	compression-socks	recurring
-bsn-7769020	Compression Socks	60to119	compression-socks	recurring
 bsn-7769233	Compression Socks	60to119	compression-socks	recurring
 bsn-7769239	Compression Socks	60to119	compression-socks	recurring
 bsn-7769258	Compression Socks	60to119	compression-socks	recurring
@@ -3088,7 +3035,6 @@ chs-pc-dnc	Enteral Feeding	120plus	enteral-feeding	recurring
 chs-pc-enc	Enteral Feeding	120plus	enteral-feeding	recurring
 chs-pc-gnc	Enteral Feeding	120plus	enteral-feeding	recurring
 chu-comfortpan	Home Healthcare	under60	home-healthcare	one-off
-cm-g35616	Enteral Feeding	120plus	enteral-feeding	recurring
 cm-g35619	Enteral Feeding	120plus	enteral-feeding	recurring
 cmi-g02278	Incontinence	60to119	incontinence	recurring
 cmi-g02327	Incontinence	60to119	incontinence	recurring
@@ -4144,14 +4090,10 @@ col-67145	Incontinence	under60	incontinence	recurring
 col-7056	Wound Care	under60	wound-care	recurring
 col-7067	Wound Care	under60	wound-care	recurring
 col-7068	Wound Care	under60	wound-care	recurring
-col-7075	Home Healthcare	under60	home-healthcare	one-off
-col-7086	Incontinence	under60	incontinence	recurring
-col-7087	Incontinence	under60	incontinence	recurring
 col-7090	Incontinence	120plus	incontinence	recurring
 col-7094	Wound Care	under60	wound-care	recurring
 col-7223	Wound Care	under60	wound-care	recurring
 col-7224	Wound Care	under60	wound-care	recurring
-col-7233	Home Healthcare	under60	home-healthcare	one-off
 col-7300	Incontinence	under60	incontinence	recurring
 col-7301	Incontinence	under60	incontinence	recurring
 col-7565	Incontinence	120plus	incontinence	recurring
@@ -4301,7 +4243,6 @@ dc-r2910	PPE	under60	ppe	one-off
 dc-r2920	PPE	under60	ppe	one-off
 dc-r2930	PPE	under60	ppe	one-off
 dc-r2940	PPE	under60	ppe	one-off
-deb-4000000797	Wound Care	under60	wound-care	recurring
 deb-720	Wound Care	120plus	wound-care	recurring
 deb-804	PPE	under60	ppe	one-off
 deb-res100ml	Wound Care	60to119	wound-care	recurring
@@ -4464,7 +4405,6 @@ dm-13016-2	Home Healthcare	120plus	home-healthcare	one-off
 dm-13030-1sv	Aids to Daily Living	60to119	aids-to-daily-living	one-off
 dm-13031-1sv	Aids to Daily Living	60to119	aids-to-daily-living	one-off
 dm-13049sv	Home Healthcare	120plus	home-healthcare	one-off
-dm-15208bv	Home Healthcare	120plus	home-healthcare	one-off
 dm-18031	Respiratory	under60	respiratory	recurring
 dm-18111	Respiratory	60to119	respiratory	recurring
 dm-18112	Respiratory	120plus	respiratory	recurring
@@ -4627,8 +4567,6 @@ dm-cx420adfaelr	Mobility	120plus	mobility	one-off
 dm-dfl19-bl	Mobility	120plus	mobility	one-off
 dm-dfl19-blk	Mobility	120plus	mobility	one-off
 dm-dfl19-rd	Mobility	120plus	mobility	one-off
-dm-dv6hh	Respiratory	120plus	respiratory	recurring
-dm-dv6hhpd	Respiratory	120plus	respiratory	recurring
 dm-en-33	Bath Safety	under60	bath-safety	one-off
 dm-exp19ltbl	Mobility	120plus	mobility	one-off
 dm-exp19ltrd	Mobility	120plus	mobility	one-off
@@ -5305,7 +5243,6 @@ hol-14709	OSTOMY	60to119	ostomy	recurring
 hol-14802	OSTOMY	60to119	ostomy	recurring
 hol-14803	OSTOMY	60to119	ostomy	recurring
 hol-14804	OSTOMY	60to119	ostomy	recurring
-hol-14911	OSTOMY	120plus	ostomy	recurring
 hol-15102	OSTOMY	60to119	ostomy	recurring
 hol-15103	OSTOMY	60to119	ostomy	recurring
 hol-15104	OSTOMY	60to119	ostomy	recurring
@@ -5444,22 +5381,12 @@ hol-18922	OSTOMY	60to119	ostomy	recurring
 hol-18923	OSTOMY	60to119	ostomy	recurring
 hol-18924	OSTOMY	60to119	ostomy	recurring
 hol-19006	OSTOMY	120plus	ostomy	recurring
-hol-19052	OSTOMY	60to119	ostomy	recurring
 hol-19054	OSTOMY	60to119	ostomy	recurring
-hol-19056	OSTOMY	120plus	ostomy	recurring
-hol-19104	OSTOMY	120plus	ostomy	recurring
-hol-19106	OSTOMY	120plus	ostomy	recurring
-hol-19153	OSTOMY	120plus	ostomy	recurring
-hol-19156	OSTOMY	120plus	ostomy	recurring
-hol-19204	OSTOMY	120plus	ostomy	recurring
 hol-19254	OSTOMY	120plus	ostomy	recurring
 hol-19603	OSTOMY	120plus	ostomy	recurring
 hol-19604	OSTOMY	120plus	ostomy	recurring
 hol-26064b	OSTOMY	120plus	ostomy	recurring
 hol-26364	OSTOMY	120plus	ostomy	recurring
-hol-3184	OSTOMY	120plus	ostomy	recurring
-hol-3186	OSTOMY	120plus	ostomy	recurring
-hol-3323	OSTOMY	120plus	ostomy	recurring
 hol-3761	OSTOMY	under60	ostomy	recurring
 hol-3774	OSTOMY	under60	ostomy	recurring
 hol-3777	OSTOMY	120plus	ostomy	recurring
@@ -5531,7 +5458,6 @@ hol-7735	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7736	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7737	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7760	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
-hol-7766	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7800	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7801	OSTOMY ACCESSORIES	60to119	ostomy-accessories	recurring
 hol-7805	OSTOMY ACCESSORIES	60to119	ostomy-accessories	recurring
@@ -5630,7 +5556,6 @@ hol-8447	OSTOMY	120plus	ostomy	recurring
 hol-8448	OSTOMY	120plus	ostomy	recurring
 hol-8449	OSTOMY	120plus	ostomy	recurring
 hol-84490	OSTOMY	120plus	ostomy	recurring
-hol-84493	OSTOMY	120plus	ostomy	recurring
 hol-84494	OSTOMY	120plus	ostomy	recurring
 hol-84497	OSTOMY	120plus	ostomy	recurring
 hol-84498	OSTOMY	120plus	ostomy	recurring
@@ -5699,9 +5624,6 @@ hol-8538	OSTOMY	120plus	ostomy	recurring
 hol-8551	OSTOMY	120plus	ostomy	recurring
 hol-8552	OSTOMY	120plus	ostomy	recurring
 hol-8558	OSTOMY	120plus	ostomy	recurring
-hol-8588	OSTOMY	60to119	ostomy	recurring
-hol-8618	OSTOMY	60to119	ostomy	recurring
-hol-8624	OSTOMY	60to119	ostomy	recurring
 hol-8631	OSTOMY	60to119	ostomy	recurring
 hol-8632	OSTOMY	60to119	ostomy	recurring
 hol-8633	OSTOMY	60to119	ostomy	recurring
@@ -5939,7 +5861,6 @@ kf-150861	Incontinence	under60	incontinence	recurring
 knd-1050	Wound Care	under60	wound-care	recurring
 knd-1093	Incontinence	120plus	incontinence	recurring
 knd-10cfn	Respiratory	60to119	respiratory	recurring
-knd-10dic	Respiratory	60to119	respiratory	recurring
 knd-10fen	Respiratory	60to119	respiratory	recurring
 knd-1100b	Incontinence	60to119	incontinence	recurring
 knd-1110b	Incontinence	60to119	incontinence	recurring
@@ -5974,7 +5895,6 @@ knd-1903	Wound Care	under60	wound-care	recurring
 knd-1914c	Wound Care	under60	wound-care	recurring
 knd-1961	Wound Care	under60	wound-care	recurring
 knd-202020	Health Monitors	60to119	health-monitors	one-off
-knd-20339	Wound Care	under60	wound-care	recurring
 knd-20514c	Incontinence	120plus	incontinence	recurring
 knd-20516c	Incontinence	120plus	incontinence	recurring
 knd-20518c	Incontinence	120plus	incontinence	recurring
@@ -5982,15 +5902,6 @@ knd-2059	Wound Care	under60	wound-care	recurring
 knd-2132	Wound Care	under60	wound-care	recurring
 knd-2146	Wound Care	under60	wound-care	recurring
 knd-2187	Wound Care	under60	wound-care	recurring
-knd-2230	Wound Care	under60	wound-care	recurring
-knd-2231	Wound Care	under60	wound-care	recurring
-knd-2232	Wound Care	under60	wound-care	recurring
-knd-2236	Wound Care	under60	wound-care	recurring
-knd-2238	Wound Care	under60	wound-care	recurring
-knd-2239	Wound Care	under60	wound-care	recurring
-knd-2244	Wound Care	under60	wound-care	recurring
-knd-2247	Wound Care	under60	wound-care	recurring
-knd-2249	Wound Care	under60	wound-care	recurring
 knd-23246a	Incontinence	60to119	incontinence	recurring
 knd-2346	Wound Care	under60	wound-care	recurring
 knd-2419c	Wound Care	under60	wound-care	recurring
@@ -6113,7 +6024,6 @@ knd-4ic65	Respiratory	under60	respiratory	recurring
 knd-5042	Wound Care	under60	wound-care	recurring
 knd-505000	Health Monitors	120plus	health-monitors	one-off
 knd-5072	Wound Care	under60	wound-care	recurring
-knd-50pdl	Respiratory	60to119	respiratory	recurring
 knd-50xltcd	Respiratory	120plus	respiratory	recurring
 knd-50xltud	Respiratory	120plus	respiratory	recurring
 knd-50xltup	Respiratory	120plus	respiratory	recurring
@@ -6156,7 +6066,6 @@ knd-6206	Incontinence	under60	incontinence	recurring
 knd-6241	Wound Care	under60	wound-care	recurring
 knd-6242p	Wound Care	under60	wound-care	recurring
 knd-6261	Incontinence	under60	incontinence	recurring
-knd-63001	Wound Care	under60	wound-care	recurring
 knd-63073	Incontinence	120plus	incontinence	recurring
 knd-63074	Incontinence	60to119	incontinence	recurring
 knd-6308ll	Incontinence	under60	incontinence	recurring
@@ -6209,9 +6118,6 @@ knd-7115	Compression Socks	under60	compression-socks	recurring
 knd-7134	Incontinence	60to119	incontinence	recurring
 knd-7136	Incontinence	60to119	incontinence	recurring
 knd-7140c	Wound Care	under60	wound-care	recurring
-knd-714170	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-714300	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-716200	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-7174	Incontinence	120plus	incontinence	recurring
 knd-7176	Incontinence	60to119	incontinence	recurring
 knd-7197d	Wound Care	under60	wound-care	recurring
@@ -6299,7 +6205,6 @@ knd-8881676434	Diabetic	under60	diabetic	recurring
 knd-8882315032	Wound Care	120plus	wound-care	recurring
 knd-8882320032	Wound Care	120plus	wound-care	recurring
 knd-8884413605	Wound Care	120plus	wound-care	recurring
-knd-8884433205	Wound Care	120plus	wound-care	recurring
 knd-8884433301	Wound Care	60to119	wound-care	recurring
 knd-8884433500	Wound Care	60to119	wound-care	recurring
 knd-8884433605	Wound Care	120plus	wound-care	recurring
@@ -6340,7 +6245,6 @@ knd-8887664161	Incontinence	120plus	incontinence	recurring
 knd-8887665183	Incontinence	120plus	incontinence	recurring
 knd-8887665209	Incontinence	120plus	incontinence	recurring
 knd-8887689167	Incontinence	120plus	incontinence	recurring
-knd-8888266122	Enteral Feeding	under60	enteral-feeding	recurring
 knd-8888275008	Incontinence	under60	incontinence	recurring
 knd-8888284513	Respiratory	120plus	respiratory	recurring
 knd-8888301515	Respiratory	under60	respiratory	recurring
@@ -6368,7 +6272,6 @@ knd-8982crh	Diabetic	under60	diabetic	recurring
 knd-8985crh	Diabetic	under60	diabetic	recurring
 knd-8990sa	Diabetic	under60	diabetic	recurring
 knd-8cfn	Respiratory	120plus	respiratory	recurring
-knd-8dic	Respiratory	60to119	respiratory	recurring
 knd-9022	Wound Care	under60	wound-care	recurring
 knd-9023	Wound Care	under60	wound-care	recurring
 knd-9024	Wound Care	under60	wound-care	recurring
@@ -6478,7 +6381,6 @@ mdl-hcs4525	Respiratory	60to119	respiratory	recurring
 mdl-hcs4568fs	Respiratory	120plus	respiratory	recurring
 mdl-hcs4640b	Respiratory	120plus	respiratory	recurring
 mdl-hcs8725m	Respiratory	under60	respiratory	recurring
-mdl-hcsu4504s	Respiratory	under60	respiratory	recurring
 mdl-m102124c	Incontinence	under60	incontinence	recurring
 mdl-mdr440fd	Health Monitors	60to119	health-monitors	one-off
 mdl-mds032280z	Incontinence	under60	incontinence	recurring
@@ -6833,7 +6735,6 @@ mol-610200	Wound Care	60to119	wound-care	recurring
 mol-610300	Wound Care	60to119	wound-care	recurring
 mol-610400	Wound Care	120plus	wound-care	recurring
 mol-610500	Wound Care	120plus	wound-care	recurring
-mol-665000	Wound Care	under60	wound-care	recurring
 mol-665100	Wound Care	60to119	wound-care	recurring
 mol-670800-1	Wound Care	under60	wound-care	recurring
 mol-670820	Wound Care	under60	wound-care	recurring
@@ -6869,7 +6770,6 @@ nes-12586065	Enteral Feeding	60to119	enteral-feeding	recurring
 nes-12586067	Enteral Feeding	60to119	enteral-feeding	recurring
 nes-12591416	Enteral Feeding	60to119	enteral-feeding	recurring
 nes-12591431	Enteral Feeding	60to119	enteral-feeding	recurring
-nm-ba-s3eo	Enteral Feeding	120plus	enteral-feeding	recurring
 nm-ftm10-0p-nc	Enteral Feeding	120plus	enteral-feeding	recurring
 nm-pext-60nc	Enteral Feeding	120plus	enteral-feeding	recurring
 nm-pnm-s35nc	Enteral Feeding	120plus	enteral-feeding	recurring
@@ -6945,7 +6845,6 @@ plm-3412bx	Wound Care	120plus	wound-care	recurring
 plm-5712bx	Wound Care	120plus	wound-care	recurring
 plm-5824bx	Wound Care	120plus	wound-care	recurring
 pmc-081051416	Braces	60to119	braces	one-off
-png-26584	Incontinence	60to119	incontinence	recurring
 poi-19564	Incontinence	under60	incontinence	recurring
 poi-19566	Incontinence	under60	incontinence	recurring
 poi-19568	Incontinence	under60	incontinence	recurring
@@ -7006,12 +6905,7 @@ rmc-36302	Incontinence	120plus	incontinence	recurring
 rmc-38303	Incontinence	120plus	incontinence	recurring
 rmc-50614	Incontinence	120plus	incontinence	recurring
 roch10398411119	Diabetic	60to119	diabetic	recurring
-ros-ab6219713	Enteral Feeding	60to119	enteral-feeding	recurring
 ros-ab6631113	Enteral Feeding	120plus	enteral-feeding	recurring
-ros-ab6832213	Enteral Feeding	120plus	enteral-feeding	recurring
-ros-ab6891013	Enteral Feeding	120plus	enteral-feeding	recurring
-ros-ab6891113	Enteral Feeding	120plus	enteral-feeding	recurring
-ros-ab6891213	Enteral Feeding	120plus	enteral-feeding	recurring
 rus-100380025	Respiratory	60to119	respiratory	recurring
 rus-100380030	Respiratory	60to119	respiratory	recurring
 rus-111781055	Respiratory	120plus	respiratory	recurring
@@ -7178,7 +7072,6 @@ sca-54344	Incontinence	60to119	incontinence	recurring
 sca-54358	Incontinence	60to119	incontinence	recurring
 sca-54375	Incontinence	120plus	incontinence	recurring
 sca-54427	Incontinence	under60	incontinence	recurring
-sca-54441	Incontinence	under60	incontinence	recurring
 sca-57173	Incontinence	120plus	incontinence	recurring
 sca-57256	Incontinence	60to119	incontinence	recurring
 sca-61199	Incontinence	120plus	incontinence	recurring
@@ -7247,7 +7140,6 @@ sca-73040	Incontinence	120plus	incontinence	recurring
 sca-73520	Incontinence	120plus	incontinence	recurring
 sca-73530	Incontinence	120plus	incontinence	recurring
 sca-73540	Incontinence	120plus	incontinence	recurring
-sca-740500	Incontinence	under60	incontinence	recurring
 sca-74499	Incontinence	under60	incontinence	recurring
 sca-74500	Incontinence	under60	incontinence	recurring
 sca-81780	Incontinence	120plus	incontinence	recurring
@@ -7256,7 +7148,6 @@ seca-354	Health Monitors	120plus	health-monitors	one-off
 slt-1005-0-25	Respiratory	60to119	respiratory	recurring
 slt-4707-7-7-25	Respiratory	120plus	respiratory	recurring
 sm-1125-8	Respiratory	under60	respiratory	recurring
-sm-1319	Incontinence	under60	incontinence	recurring
 sm-1321	Incontinence	under60	incontinence	recurring
 sm-1322n	Incontinence	under60	incontinence	recurring
 sm-29-32-14	Incontinence	120plus	incontinence	recurring
@@ -7471,7 +7362,6 @@ sou-comp44	Wound Care	under60	wound-care	recurring
 sou-ct20027	Mobility	under60	mobility	one-off
 sou-d12400	Incontinence	under60	incontinence	recurring
 sou-d12405	Incontinence	under60	incontinence	recurring
-sou-d15202	Incontinence	under60	incontinence	recurring
 sou-d50215	Respiratory	120plus	respiratory	recurring
 sou-dk6114	Wound Care	under60	wound-care	recurring
 sou-fm44	Wound Care	60to119	wound-care	recurring
@@ -7487,7 +7377,6 @@ sou-up3672r	Incontinence	60to119	incontinence	recurring
 sp-41-301-00	Wound Care	under60	wound-care	recurring
 spm-10-603	Wound Care	120plus	wound-care	recurring
 spx-21-1530	Respiratory	120plus	respiratory	recurring
-spx-504070	Respiratory	120plus	respiratory	recurring
 squ-168117	Wound Care	120plus	wound-care	recurring
 squ-168210	Wound Care	60to119	wound-care	recurring
 squ-168212	Wound Care	120plus	wound-care	recurring
@@ -7779,7 +7668,6 @@ vp-sbrd14	Enteral Feeding	120plus	enteral-feeding	recurring
 vrn-v20-003	Home Healthcare	60to119	home-healthcare	one-off
 vy-001363	Respiratory	120plus	respiratory	recurring
 vy-5257	Respiratory	under60	respiratory	recurring
-vy-p001210	Respiratory	under60	respiratory	recurring
 vy-p001903a	Respiratory	under60	respiratory	recurring
 vy-t260c	Respiratory	120plus	respiratory	recurring
 wa-01690-200	Health Monitors	120plus	health-monitors	one-off
