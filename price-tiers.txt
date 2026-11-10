@@ -1,7 +1,5 @@
 id	product_type	custom_label_0	custom_label_1	custom_label_2
-000027	Candy & Confectionery	under60	candy-confectionery	one-off
 01bm3100-mo	Respiratory	120plus	respiratory	recurring
-039560	Pain Relief	under60	pain-relief	one-off
 3m-10019	Wound Care	120plus	wound-care	recurring
 3m-10102	Wound Care	under60	wound-care	recurring
 3m-10106	Wound Care	under60	wound-care	recurring
