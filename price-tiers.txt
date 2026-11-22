@@ -1068,9 +1068,8 @@ amg-108-244	Health Monitors	under60	health-monitors	one-off
 amg-108-404	Health Monitors	under60	health-monitors	one-off
 amg-116-955	Health Monitors	120plus	health-monitors	one-off
 amg-116-975	Health Monitors	under60	health-monitors	one-off
-amg-118-305	Incontinence	under60	incontinence	recurring
+amg-118-305	Catheters	under60	catheters	one-off
 amg-118-311	Wound Care	under60	wound-care	recurring
-amg-118-395	Wound Care	60to119	wound-care	recurring
 amg-118-436	Home Healthcare	under60	home-healthcare	one-off
 amg-118-440	Wound Care	under60	wound-care	recurring
 amg-118-526	Wound Care	under60	wound-care	recurring
@@ -1086,7 +1085,7 @@ amg-118-586	Wound Care	under60	wound-care	recurring
 amg-118-587	Wound Care	120plus	wound-care	recurring
 amg-118-588	Wound Care	under60	wound-care	recurring
 amg-118-589	Wound Care	120plus	wound-care	recurring
-amg-560-280	Incontinence	under60	incontinence	recurring
+amg-560-280	Catheters	under60	catheters	one-off
 amg-705-470	Respiratory	120plus	respiratory	recurring
 amg-705-520	Respiratory	under60	respiratory	recurring
 amg-705-530	Respiratory	under60	respiratory	recurring
@@ -1231,54 +1230,54 @@ an-glo-xc-310-xs	PPE	under60	ppe	one-off
 arj-pnh2014ca	Home Healthcare	120plus	home-healthcare	one-off
 arj-snb7020a	Incontinence	under60	incontinence	recurring
 arj-snm9005a	Wound Care	60to119	wound-care	recurring
-as-332	Incontinence	120plus	incontinence	recurring
+as-332	Catheters	120plus	catheters	one-off
 as-362c	Respiratory	under60	respiratory	recurring
 as-363c	Respiratory	under60	respiratory	recurring
 as-364c	Respiratory	under60	respiratory	recurring
 as-365c	Respiratory	under60	respiratory	recurring
 as-366c	Respiratory	under60	respiratory	recurring
 as-367	Respiratory	under60	respiratory	recurring
-as-41012s	Incontinence	120plus	incontinence	recurring
-as-41014	Incontinence	under60	incontinence	recurring
-as-41014s	Incontinence	120plus	incontinence	recurring
-as-41016	Incontinence	under60	incontinence	recurring
-as-41018	Incontinence	under60	incontinence	recurring
-as-41018s	Incontinence	120plus	incontinence	recurring
-as-41020	Incontinence	under60	incontinence	recurring
-as-41022	Incontinence	under60	incontinence	recurring
-as-42014	Incontinence	under60	incontinence	recurring
-as-42016	Incontinence	under60	incontinence	recurring
-as-42018	Incontinence	under60	incontinence	recurring
-as-42018s	Incontinence	120plus	incontinence	recurring
-as-42020	Incontinence	under60	incontinence	recurring
-as-44016	Incontinence	120plus	incontinence	recurring
+as-41012s	Catheters	120plus	catheters	one-off
+as-41014	Catheters	under60	catheters	one-off
+as-41014s	Catheters	120plus	catheters	one-off
+as-41016	Catheters	under60	catheters	one-off
+as-41018	Catheters	under60	catheters	one-off
+as-41018s	Catheters	120plus	catheters	one-off
+as-41020	Catheters	under60	catheters	one-off
+as-41022	Catheters	under60	catheters	one-off
+as-42014	Catheters	under60	catheters	one-off
+as-42016	Catheters	under60	catheters	one-off
+as-42018	Catheters	under60	catheters	one-off
+as-42018s	Catheters	120plus	catheters	one-off
+as-42020	Catheters	under60	catheters	one-off
+as-44016	Catheters	120plus	catheters	one-off
 as-75080	Respiratory	under60	respiratory	recurring
-as-860608	Incontinence	under60	incontinence	recurring
-as-860610	Incontinence	60to119	incontinence	recurring
-as-860614	Incontinence	60to119	incontinence	recurring
-as-861610	Incontinence	60to119	incontinence	recurring
-as-861612	Incontinence	120plus	incontinence	recurring
-as-861614	Incontinence	60to119	incontinence	recurring
+as-860608	Catheters	under60	catheters	one-off
+as-860610	Catheters	60to119	catheters	one-off
+as-860614	Catheters	60to119	catheters	one-off
+as-861610	Catheters	60to119	catheters	one-off
+as-861612	Catheters	120plus	catheters	one-off
+as-861614	Catheters	60to119	catheters	one-off
 atl-918140	Wound Care	under60	wound-care	recurring
 atl-918144	Wound Care	120plus	wound-care	recurring
-atr-4001240	Incontinence	120plus	incontinence	recurring
-atr-4001440	Incontinence	120plus	incontinence	recurring
-atr-40312	Incontinence	120plus	incontinence	recurring
-atr-40314	Incontinence	120plus	incontinence	recurring
-atr-4041440	Incontinence	120plus	incontinence	recurring
-atr-40616	Incontinence	120plus	incontinence	recurring
-atr-40618	Incontinence	120plus	incontinence	recurring
-atr-410164	Incontinence	120plus	incontinence	recurring
-atr-4160850	Incontinence	120plus	incontinence	recurring
-atr-4161050	Incontinence	120plus	incontinence	recurring
-atr-4161200	Incontinence	120plus	incontinence	recurring
-atr-42012	Incontinence	120plus	incontinence	recurring
-atr-44210	Incontinence	120plus	incontinence	recurring
-atr-44212	Incontinence	120plus	incontinence	recurring
-atr-4431240	Incontinence	120plus	incontinence	recurring
-atr-4431440	Incontinence	120plus	incontinence	recurring
-atr-4441440	Incontinence	120plus	incontinence	recurring
-atr-4441640	Incontinence	120plus	incontinence	recurring
+atr-4001240	Catheters	120plus	catheters	one-off
+atr-4001440	Catheters	120plus	catheters	one-off
+atr-40312	Catheters	120plus	catheters	one-off
+atr-40314	Catheters	120plus	catheters	one-off
+atr-4041440	Catheters	120plus	catheters	one-off
+atr-40616	Catheters	120plus	catheters	one-off
+atr-40618	Catheters	120plus	catheters	one-off
+atr-410164	Catheters	120plus	catheters	one-off
+atr-4160850	Catheters	120plus	catheters	one-off
+atr-4161050	Catheters	120plus	catheters	one-off
+atr-4161200	Catheters	120plus	catheters	one-off
+atr-42012	Catheters	120plus	catheters	one-off
+atr-44210	Catheters	120plus	catheters	one-off
+atr-44212	Catheters	120plus	catheters	one-off
+atr-4431240	Catheters	120plus	catheters	one-off
+atr-4431440	Catheters	120plus	catheters	one-off
+atr-4441440	Catheters	120plus	catheters	one-off
+atr-4441640	Catheters	120plus	catheters	one-off
 att-admg20	Incontinence	60to119	incontinence	recurring
 att-adpmal	Incontinence	60to119	incontinence	recurring
 att-adpmax	Incontinence	60to119	incontinence	recurring
@@ -1386,7 +1385,6 @@ bax-001206	Respiratory	under60	respiratory	recurring
 bax-001225	Respiratory	under60	respiratory	recurring
 bax-001263	Respiratory	under60	respiratory	recurring
 bax-001901a	Respiratory	under60	respiratory	recurring
-bax-10794983	Enteral Feeding	120plus	enteral-feeding	recurring
 bax-2c9216	Respiratory	120plus	respiratory	recurring
 bax-5007p	Respiratory	120plus	respiratory	recurring
 bax-5207	Respiratory	under60	respiratory	recurring
@@ -1396,8 +1394,7 @@ bax-t60c	Respiratory	60to119	respiratory	recurring
 bayer-7322	Diabetic	120plus	diabetic	recurring
 bb-400419	Wound Care	120plus	wound-care	recurring
 bb-400431	Wound Care	under60	wound-care	recurring
-bb-474517	Enteral Feeding	120plus	enteral-feeding	recurring
-bb-9746609	Incontinence	120plus	incontinence	recurring
+bb-9746609	Catheters	120plus	catheters	one-off
 bd-300161	Diabetic	60to119	diabetic	recurring
 bd-300162	Diabetic	under60	diabetic	recurring
 bd-300434	Diabetic	under60	diabetic	recurring
@@ -1423,38 +1420,38 @@ bd-305579	Diabetic	120plus	diabetic	recurring
 bd-305647	Diabetic	120plus	diabetic	recurring
 bd-367216	Diabetic	120plus	diabetic	recurring
 bd-371603	Wound Care	60to119	wound-care	recurring
-bd-403250	Incontinence	under60	incontinence	recurring
-bd-rtu06p	Incontinence	120plus	incontinence	recurring
-bd-rtu08p	Incontinence	120plus	incontinence	recurring
-bd-rtu10f	Incontinence	120plus	incontinence	recurring
-bd-rtu10p	Incontinence	120plus	incontinence	recurring
-bd-rtu12c	Incontinence	120plus	incontinence	recurring
-bd-rtu12f	Incontinence	120plus	incontinence	recurring
-bd-rtu12m	Incontinence	120plus	incontinence	recurring
-bd-rtu14c	Incontinence	120plus	incontinence	recurring
-bd-rtu14f	Incontinence	120plus	incontinence	recurring
-bd-rtu14m	Incontinence	120plus	incontinence	recurring
-bd-rtu16c	Incontinence	120plus	incontinence	recurring
-bd-rtu16m	Incontinence	120plus	incontinence	recurring
+bd-403250	Catheters	under60	catheters	one-off
+bd-rtu06p	Catheters	120plus	catheters	one-off
+bd-rtu08p	Catheters	120plus	catheters	one-off
+bd-rtu10f	Catheters	120plus	catheters	one-off
+bd-rtu10p	Catheters	120plus	catheters	one-off
+bd-rtu12c	Catheters	120plus	catheters	one-off
+bd-rtu12f	Catheters	120plus	catheters	one-off
+bd-rtu12m	Catheters	120plus	catheters	one-off
+bd-rtu14c	Catheters	120plus	catheters	one-off
+bd-rtu14f	Catheters	120plus	catheters	one-off
+bd-rtu14m	Catheters	120plus	catheters	one-off
+bd-rtu16c	Catheters	120plus	catheters	one-off
+bd-rtu16m	Catheters	120plus	catheters	one-off
 bec-64151	Health Monitors	120plus	health-monitors	one-off
-bel-udb-4462000	Incontinence	120plus	incontinence	recurring
-bel-udb-4462010	Incontinence	under60	incontinence	recurring
-bio-21026-05ca	Incontinence	120plus	incontinence	recurring
-bio-23046-30ca	Incontinence	120plus	incontinence	recurring
-bio-51023nsnwca	Incontinence	120plus	incontinence	recurring
-bio-51023nwca	Incontinence	120plus	incontinence	recurring
-bio-51250lpnsnaca	Incontinence	120plus	incontinence	recurring
-bio-51250naca	Incontinence	120plus	incontinence	recurring
-bio-51250nsnaca	Incontinence	120plus	incontinence	recurring
-bio-51300lpnaca	Incontinence	120plus	incontinence	recurring
-bio-51300lpnsnaca	Incontinence	120plus	incontinence	recurring
-bio-51300naca	Incontinence	120plus	incontinence	recurring
-bio-51300nsnaca	Incontinence	120plus	incontinence	recurring
-bio-51301lpnaca	Incontinence	120plus	incontinence	recurring
-bio-51301lpnsnaca	Incontinence	120plus	incontinence	recurring
-bio-51301nsnaca	Incontinence	120plus	incontinence	recurring
-bio-51350naca	Incontinence	120plus	incontinence	recurring
-bio-51350nsnaca	Incontinence	120plus	incontinence	recurring
+bel-udb-4462000	Catheters	120plus	catheters	one-off
+bel-udb-4462010	Catheters	under60	catheters	one-off
+bio-21026-05ca	Catheters	120plus	catheters	one-off
+bio-23046-30ca	Catheters	120plus	catheters	one-off
+bio-51023nsnwca	Catheters	120plus	catheters	one-off
+bio-51023nwca	Catheters	120plus	catheters	one-off
+bio-51250lpnsnaca	Catheters	120plus	catheters	one-off
+bio-51250naca	Catheters	120plus	catheters	one-off
+bio-51250nsnaca	Catheters	120plus	catheters	one-off
+bio-51300lpnaca	Catheters	120plus	catheters	one-off
+bio-51300lpnsnaca	Catheters	120plus	catheters	one-off
+bio-51300naca	Catheters	120plus	catheters	one-off
+bio-51300nsnaca	Catheters	120plus	catheters	one-off
+bio-51301lpnaca	Catheters	120plus	catheters	one-off
+bio-51301lpnsnaca	Catheters	120plus	catheters	one-off
+bio-51301nsnaca	Catheters	120plus	catheters	one-off
+bio-51350naca	Catheters	120plus	catheters	one-off
+bio-51350nsnaca	Catheters	120plus	catheters	one-off
 bio-52200ca	Wound Care	under60	wound-care	recurring
 bio-52202ca	Wound Care	under60	wound-care	recurring
 bio-52300ca	Wound Care	under60	wound-care	recurring
@@ -1782,299 +1779,298 @@ bls-2025-hs-ccx	Respiratory	under60	respiratory	recurring
 bls-4010	Respiratory	under60	respiratory	recurring
 bls-4025	Respiratory	under60	respiratory	recurring
 bls-4050	Respiratory	under60	respiratory	recurring
-bm-cbelulb388	Incontinence	under60	incontinence	recurring
-bm-cbelulbt384	Incontinence	under60	incontinence	recurring
+bm-cbelulb388	Catheters	under60	catheters	one-off
+bm-cbelulbt384	Catheters	under60	catheters	one-off
 brd-004053	Incontinence	120plus	incontinence	recurring
 brd-004054	Incontinence	120plus	incontinence	recurring
 brd-0042180	Enteral Feeding	120plus	enteral-feeding	recurring
-brd-010112	Incontinence	120plus	incontinence	recurring
-brd-010114	Incontinence	120plus	incontinence	recurring
-brd-010116	Incontinence	120plus	incontinence	recurring
-brd-010118	Incontinence	120plus	incontinence	recurring
-brd-010120	Incontinence	120plus	incontinence	recurring
-brd-0102l12	Incontinence	120plus	incontinence	recurring
-brd-0102l14	Incontinence	120plus	incontinence	recurring
-brd-0102l16	Incontinence	120plus	incontinence	recurring
-brd-0102l18	Incontinence	120plus	incontinence	recurring
-brd-0102l20	Incontinence	120plus	incontinence	recurring
-brd-0102l22	Incontinence	120plus	incontinence	recurring
-brd-0102l24	Incontinence	120plus	incontinence	recurring
-brd-0102si12	Incontinence	120plus	incontinence	recurring
-brd-0102si14	Incontinence	120plus	incontinence	recurring
-brd-0102si16	Incontinence	120plus	incontinence	recurring
-brd-0102si18	Incontinence	120plus	incontinence	recurring
-brd-0102si20	Incontinence	120plus	incontinence	recurring
-brd-0102si22	Incontinence	120plus	incontinence	recurring
-brd-0102si24	Incontinence	120plus	incontinence	recurring
-brd-0103l14	Incontinence	120plus	incontinence	recurring
-brd-0103l16	Incontinence	120plus	incontinence	recurring
-brd-0103l18	Incontinence	120plus	incontinence	recurring
-brd-0103l20	Incontinence	120plus	incontinence	recurring
-brd-0103l22	Incontinence	120plus	incontinence	recurring
-brd-0103l24	Incontinence	120plus	incontinence	recurring
-brd-0119l16	Incontinence	120plus	incontinence	recurring
-brd-0119l18	Incontinence	120plus	incontinence	recurring
-brd-0119l20	Incontinence	120plus	incontinence	recurring
-brd-0119l22	Incontinence	120plus	incontinence	recurring
-brd-0119l24	Incontinence	120plus	incontinence	recurring
-brd-0119l26	Incontinence	120plus	incontinence	recurring
-brd-0119si16	Incontinence	120plus	incontinence	recurring
-brd-0165l12	Incontinence	120plus	incontinence	recurring
-brd-0165l14	Incontinence	120plus	incontinence	recurring
-brd-0165l16	Incontinence	120plus	incontinence	recurring
-brd-0165l18	Incontinence	120plus	incontinence	recurring
-brd-0165l20	Incontinence	120plus	incontinence	recurring
-brd-0165l22	Incontinence	120plus	incontinence	recurring
-brd-0165l24	Incontinence	120plus	incontinence	recurring
-brd-0165l26	Incontinence	120plus	incontinence	recurring
-brd-0165l28	Incontinence	120plus	incontinence	recurring
-brd-0165l30	Incontinence	120plus	incontinence	recurring
-brd-0165pl08	Incontinence	120plus	incontinence	recurring
-brd-0165pl10	Incontinence	120plus	incontinence	recurring
-brd-0165si10	Incontinence	120plus	incontinence	recurring
-brd-0165si12	Incontinence	120plus	incontinence	recurring
-brd-0165si14	Incontinence	120plus	incontinence	recurring
-brd-0165si16	Incontinence	120plus	incontinence	recurring
-brd-0165si18	Incontinence	120plus	incontinence	recurring
-brd-0165si20	Incontinence	120plus	incontinence	recurring
-brd-0165si22	Incontinence	120plus	incontinence	recurring
-brd-0165si24	Incontinence	120plus	incontinence	recurring
-brd-0165si26	Incontinence	120plus	incontinence	recurring
-brd-0165si28	Incontinence	120plus	incontinence	recurring
-brd-0165si30	Incontinence	120plus	incontinence	recurring
-brd-0166l14	Incontinence	120plus	incontinence	recurring
-brd-0166l16	Incontinence	120plus	incontinence	recurring
-brd-0166l18	Incontinence	120plus	incontinence	recurring
-brd-0166l20	Incontinence	120plus	incontinence	recurring
-brd-0166l22	Incontinence	120plus	incontinence	recurring
-brd-0166l24	Incontinence	120plus	incontinence	recurring
-brd-0166l26	Incontinence	120plus	incontinence	recurring
-brd-0166l28	Incontinence	120plus	incontinence	recurring
-brd-0166l30	Incontinence	120plus	incontinence	recurring
-brd-0166si14	Incontinence	120plus	incontinence	recurring
-brd-0166si16	Incontinence	120plus	incontinence	recurring
-brd-0166si18	Incontinence	120plus	incontinence	recurring
-brd-0166si20	Incontinence	120plus	incontinence	recurring
-brd-0166si22	Incontinence	120plus	incontinence	recurring
-brd-0166si24	Incontinence	120plus	incontinence	recurring
-brd-0166si26	Incontinence	120plus	incontinence	recurring
-brd-0166si28	Incontinence	120plus	incontinence	recurring
-brd-0166si30	Incontinence	120plus	incontinence	recurring
-brd-0167l16	Incontinence	120plus	incontinence	recurring
-brd-0167l18	Incontinence	120plus	incontinence	recurring
-brd-0167l20	Incontinence	120plus	incontinence	recurring
-brd-0167l22	Incontinence	120plus	incontinence	recurring
-brd-0167l24	Incontinence	120plus	incontinence	recurring
-brd-0167l26	Incontinence	120plus	incontinence	recurring
-brd-0167si16	Incontinence	120plus	incontinence	recurring
-brd-0167si18	Incontinence	120plus	incontinence	recurring
-brd-0167si20	Incontinence	120plus	incontinence	recurring
-brd-0167si22	Incontinence	120plus	incontinence	recurring
-brd-0167si24	Incontinence	120plus	incontinence	recurring
-brd-0167si26	Incontinence	120plus	incontinence	recurring
-brd-0168l12	Incontinence	120plus	incontinence	recurring
-brd-0168l14	Incontinence	120plus	incontinence	recurring
-brd-0168l16	Incontinence	120plus	incontinence	recurring
-brd-0168l18	Incontinence	120plus	incontinence	recurring
-brd-0168l20	Incontinence	120plus	incontinence	recurring
-brd-0168l22	Incontinence	120plus	incontinence	recurring
-brd-0168l24	Incontinence	120plus	incontinence	recurring
-brd-0168si16	Incontinence	120plus	incontinence	recurring
-brd-0168si18	Incontinence	120plus	incontinence	recurring
-brd-0168si20	Incontinence	120plus	incontinence	recurring
-brd-0170si14	Incontinence	120plus	incontinence	recurring
-brd-0170si16	Incontinence	120plus	incontinence	recurring
-brd-0196l16	Incontinence	120plus	incontinence	recurring
-brd-0196l18	Incontinence	120plus	incontinence	recurring
-brd-0196l20	Incontinence	120plus	incontinence	recurring
-brd-0196l22	Incontinence	120plus	incontinence	recurring
-brd-0414l	Incontinence	120plus	incontinence	recurring
-brd-0414s	Incontinence	120plus	incontinence	recurring
-brd-056108	Incontinence	120plus	incontinence	recurring
-brd-056110	Incontinence	120plus	incontinence	recurring
-brd-056112	Incontinence	120plus	incontinence	recurring
-brd-056114	Incontinence	120plus	incontinence	recurring
-brd-056116	Incontinence	120plus	incontinence	recurring
-brd-056118	Incontinence	120plus	incontinence	recurring
-brd-120610	Incontinence	120plus	incontinence	recurring
-brd-120612	Incontinence	120plus	incontinence	recurring
-brd-120614	Incontinence	120plus	incontinence	recurring
-brd-120616	Incontinence	120plus	incontinence	recurring
-brd-120618	Incontinence	120plus	incontinence	recurring
-brd-120620	Incontinence	120plus	incontinence	recurring
-brd-123418ce	Incontinence	120plus	incontinence	recurring
-brd-123420ce	Incontinence	120plus	incontinence	recurring
-brd-123422ce	Incontinence	120plus	incontinence	recurring
-brd-123424ce	Incontinence	120plus	incontinence	recurring
-brd-123512ce	Incontinence	60to119	incontinence	recurring
-brd-123514ce	Incontinence	60to119	incontinence	recurring
-brd-123516ce	Incontinence	60to119	incontinence	recurring
-brd-123518ce	Incontinence	60to119	incontinence	recurring
-brd-123522ce	Incontinence	60to119	incontinence	recurring
-brd-123524ce	Incontinence	60to119	incontinence	recurring
-brd-123612ce	Incontinence	60to119	incontinence	recurring
-brd-123614ce	Incontinence	60to119	incontinence	recurring
-brd-123616ce	Incontinence	60to119	incontinence	recurring
-brd-123618ce	Incontinence	60to119	incontinence	recurring
-brd-123620ce	Incontinence	60to119	incontinence	recurring
-brd-123622ce	Incontinence	60to119	incontinence	recurring
-brd-123624ce	Incontinence	60to119	incontinence	recurring
-brd-136404	Incontinence	120plus	incontinence	recurring
-brd-136405n	Incontinence	120plus	incontinence	recurring
-brd-136406n	Incontinence	120plus	incontinence	recurring
-brd-137904	Incontinence	120plus	incontinence	recurring
-brd-138008	Incontinence	120plus	incontinence	recurring
-brd-138010	Incontinence	120plus	incontinence	recurring
-brd-138012n	Incontinence	120plus	incontinence	recurring
-brd-140000	Incontinence	120plus	incontinence	recurring
-brd-150180n	Incontinence	under60	incontinence	recurring
-brd-150181n	Incontinence	under60	incontinence	recurring
-brd-1501l	Incontinence	under60	incontinence	recurring
-brd-1501lf	Incontinence	under60	incontinence	recurring
-brd-1501m	Incontinence	under60	incontinence	recurring
-brd-1501mf	Incontinence	under60	incontinence	recurring
-brd-150507	Incontinence	under60	incontinence	recurring
-brd-150615	Incontinence	under60	incontinence	recurring
-brd-150719	Incontinence	under60	incontinence	recurring
-brd-150732	Incontinence	under60	incontinence	recurring
-brd-153509	Incontinence	under60	incontinence	recurring
-brd-154002	Incontinence	under60	incontinence	recurring
-brd-1585	Incontinence	under60	incontinence	recurring
-brd-162110	Incontinence	under60	incontinence	recurring
-brd-162210	Incontinence	under60	incontinence	recurring
-brd-162310	Incontinence	under60	incontinence	recurring
-brd-165808	Incontinence	120plus	incontinence	recurring
-brd-165810	Incontinence	120plus	incontinence	recurring
-brd-165812	Incontinence	120plus	incontinence	recurring
-brd-165814	Incontinence	120plus	incontinence	recurring
-brd-165816	Incontinence	120plus	incontinence	recurring
-brd-165818	Incontinence	120plus	incontinence	recurring
-brd-165820	Incontinence	120plus	incontinence	recurring
-brd-165822	Incontinence	120plus	incontinence	recurring
-brd-165824	Incontinence	120plus	incontinence	recurring
-brd-166816	Incontinence	120plus	incontinence	recurring
-brd-166818	Incontinence	120plus	incontinence	recurring
-brd-166820	Incontinence	120plus	incontinence	recurring
-brd-166822	Incontinence	120plus	incontinence	recurring
-brd-166824	Incontinence	120plus	incontinence	recurring
-brd-175810	Incontinence	120plus	incontinence	recurring
-brd-175814	Incontinence	120plus	incontinence	recurring
-brd-175816	Incontinence	120plus	incontinence	recurring
-brd-175818	Incontinence	120plus	incontinence	recurring
-brd-175820	Incontinence	120plus	incontinence	recurring
-brd-175822	Incontinence	120plus	incontinence	recurring
-brd-175824	Incontinence	120plus	incontinence	recurring
-brd-1758si12	Incontinence	120plus	incontinence	recurring
-brd-1758si14	Incontinence	120plus	incontinence	recurring
-brd-1758si16	Incontinence	120plus	incontinence	recurring
-brd-1758si18	Incontinence	120plus	incontinence	recurring
-brd-1758si20	Incontinence	120plus	incontinence	recurring
-brd-1758si22	Incontinence	120plus	incontinence	recurring
-brd-1758si24	Incontinence	120plus	incontinence	recurring
-brd-176822	Incontinence	120plus	incontinence	recurring
-brd-176824	Incontinence	120plus	incontinence	recurring
-brd-1768si16	Incontinence	120plus	incontinence	recurring
-brd-1768si18	Incontinence	120plus	incontinence	recurring
-brd-1768si20	Incontinence	120plus	incontinence	recurring
-brd-1857si18	Incontinence	120plus	incontinence	recurring
-brd-226512	Incontinence	60to119	incontinence	recurring
-brd-226514	Incontinence	60to119	incontinence	recurring
-brd-226516	Incontinence	120plus	incontinence	recurring
-brd-226520	Incontinence	120plus	incontinence	recurring
-brd-226522	Incontinence	120plus	incontinence	recurring
-brd-226524	Incontinence	60to119	incontinence	recurring
-brd-226526	Incontinence	120plus	incontinence	recurring
-brd-226616	Incontinence	120plus	incontinence	recurring
-brd-226618	Incontinence	120plus	incontinence	recurring
-brd-2551h24	Incontinence	120plus	incontinence	recurring
-brd-277712	Incontinence	60to119	incontinence	recurring
-brd-277714	Incontinence	under60	incontinence	recurring
-brd-277716	Incontinence	under60	incontinence	recurring
-brd-32101	Incontinence	120plus	incontinence	recurring
-brd-32301	Incontinence	120plus	incontinence	recurring
-brd-33301	Incontinence	120plus	incontinence	recurring
-brd-33305	Incontinence	120plus	incontinence	recurring
-brd-33416	Incontinence	120plus	incontinence	recurring
-brd-33418	Incontinence	120plus	incontinence	recurring
-brd-33420	Incontinence	120plus	incontinence	recurring
-brd-33422	Incontinence	120plus	incontinence	recurring
-brd-33424	Incontinence	120plus	incontinence	recurring
-brd-33614	Incontinence	120plus	incontinence	recurring
-brd-33616	Incontinence	120plus	incontinence	recurring
-brd-33618	Incontinence	120plus	incontinence	recurring
-brd-33620	Incontinence	120plus	incontinence	recurring
-brd-33622	Incontinence	120plus	incontinence	recurring
-brd-33624	Incontinence	120plus	incontinence	recurring
-brd-35301	Incontinence	60to119	incontinence	recurring
-brd-35302	Incontinence	60to119	incontinence	recurring
-brd-35303	Incontinence	60to119	incontinence	recurring
-brd-35304	Incontinence	60to119	incontinence	recurring
-brd-35305	Incontinence	60to119	incontinence	recurring
-brd-37301	Incontinence	60to119	incontinence	recurring
-brd-37302	Incontinence	60to119	incontinence	recurring
-brd-37303	Incontinence	60to119	incontinence	recurring
-brd-37304	Incontinence	60to119	incontinence	recurring
-brd-37305	Incontinence	60to119	incontinence	recurring
-brd-39301	Incontinence	60to119	incontinence	recurring
-brd-39302	Incontinence	60to119	incontinence	recurring
-brd-39303	Incontinence	60to119	incontinence	recurring
-brd-39304	Incontinence	60to119	incontinence	recurring
-brd-39305	Incontinence	60to119	incontinence	recurring
+brd-010112	Catheters	120plus	catheters	one-off
+brd-010114	Catheters	120plus	catheters	one-off
+brd-010116	Catheters	120plus	catheters	one-off
+brd-010118	Catheters	120plus	catheters	one-off
+brd-010120	Catheters	120plus	catheters	one-off
+brd-0102l12	Catheters	120plus	catheters	one-off
+brd-0102l14	Catheters	120plus	catheters	one-off
+brd-0102l16	Catheters	120plus	catheters	one-off
+brd-0102l18	Catheters	120plus	catheters	one-off
+brd-0102l20	Catheters	120plus	catheters	one-off
+brd-0102l22	Catheters	120plus	catheters	one-off
+brd-0102l24	Catheters	120plus	catheters	one-off
+brd-0102si12	Catheters	120plus	catheters	one-off
+brd-0102si14	Catheters	120plus	catheters	one-off
+brd-0102si16	Catheters	120plus	catheters	one-off
+brd-0102si18	Catheters	120plus	catheters	one-off
+brd-0102si20	Catheters	120plus	catheters	one-off
+brd-0102si22	Catheters	120plus	catheters	one-off
+brd-0102si24	Catheters	120plus	catheters	one-off
+brd-0103l14	Catheters	120plus	catheters	one-off
+brd-0103l16	Catheters	120plus	catheters	one-off
+brd-0103l18	Catheters	120plus	catheters	one-off
+brd-0103l20	Catheters	120plus	catheters	one-off
+brd-0103l22	Catheters	120plus	catheters	one-off
+brd-0103l24	Catheters	120plus	catheters	one-off
+brd-0119l16	Catheters	120plus	catheters	one-off
+brd-0119l18	Catheters	120plus	catheters	one-off
+brd-0119l20	Catheters	120plus	catheters	one-off
+brd-0119l22	Catheters	120plus	catheters	one-off
+brd-0119l24	Catheters	120plus	catheters	one-off
+brd-0119l26	Catheters	120plus	catheters	one-off
+brd-0119si16	Catheters	120plus	catheters	one-off
+brd-0165l12	Catheters	120plus	catheters	one-off
+brd-0165l14	Catheters	120plus	catheters	one-off
+brd-0165l16	Catheters	120plus	catheters	one-off
+brd-0165l18	Catheters	120plus	catheters	one-off
+brd-0165l20	Catheters	120plus	catheters	one-off
+brd-0165l22	Catheters	120plus	catheters	one-off
+brd-0165l24	Catheters	120plus	catheters	one-off
+brd-0165l26	Catheters	120plus	catheters	one-off
+brd-0165l28	Catheters	120plus	catheters	one-off
+brd-0165l30	Catheters	120plus	catheters	one-off
+brd-0165pl08	Catheters	120plus	catheters	one-off
+brd-0165pl10	Catheters	120plus	catheters	one-off
+brd-0165si10	Catheters	120plus	catheters	one-off
+brd-0165si12	Catheters	120plus	catheters	one-off
+brd-0165si14	Catheters	120plus	catheters	one-off
+brd-0165si16	Catheters	120plus	catheters	one-off
+brd-0165si18	Catheters	120plus	catheters	one-off
+brd-0165si20	Catheters	120plus	catheters	one-off
+brd-0165si22	Catheters	120plus	catheters	one-off
+brd-0165si24	Catheters	120plus	catheters	one-off
+brd-0165si26	Catheters	120plus	catheters	one-off
+brd-0165si28	Catheters	120plus	catheters	one-off
+brd-0165si30	Catheters	120plus	catheters	one-off
+brd-0166l14	Catheters	120plus	catheters	one-off
+brd-0166l16	Catheters	120plus	catheters	one-off
+brd-0166l18	Catheters	120plus	catheters	one-off
+brd-0166l20	Catheters	120plus	catheters	one-off
+brd-0166l22	Catheters	120plus	catheters	one-off
+brd-0166l24	Catheters	120plus	catheters	one-off
+brd-0166l26	Catheters	120plus	catheters	one-off
+brd-0166l28	Catheters	120plus	catheters	one-off
+brd-0166l30	Catheters	120plus	catheters	one-off
+brd-0166si14	Catheters	120plus	catheters	one-off
+brd-0166si16	Catheters	120plus	catheters	one-off
+brd-0166si18	Catheters	120plus	catheters	one-off
+brd-0166si20	Catheters	120plus	catheters	one-off
+brd-0166si22	Catheters	120plus	catheters	one-off
+brd-0166si24	Catheters	120plus	catheters	one-off
+brd-0166si26	Catheters	120plus	catheters	one-off
+brd-0166si28	Catheters	120plus	catheters	one-off
+brd-0166si30	Catheters	120plus	catheters	one-off
+brd-0167l16	Catheters	120plus	catheters	one-off
+brd-0167l18	Catheters	120plus	catheters	one-off
+brd-0167l20	Catheters	120plus	catheters	one-off
+brd-0167l22	Catheters	120plus	catheters	one-off
+brd-0167l24	Catheters	120plus	catheters	one-off
+brd-0167l26	Catheters	120plus	catheters	one-off
+brd-0167si16	Catheters	120plus	catheters	one-off
+brd-0167si18	Catheters	120plus	catheters	one-off
+brd-0167si20	Catheters	120plus	catheters	one-off
+brd-0167si22	Catheters	120plus	catheters	one-off
+brd-0167si24	Catheters	120plus	catheters	one-off
+brd-0167si26	Catheters	120plus	catheters	one-off
+brd-0168l12	Catheters	120plus	catheters	one-off
+brd-0168l14	Catheters	120plus	catheters	one-off
+brd-0168l16	Catheters	120plus	catheters	one-off
+brd-0168l18	Catheters	120plus	catheters	one-off
+brd-0168l20	Catheters	120plus	catheters	one-off
+brd-0168l22	Catheters	120plus	catheters	one-off
+brd-0168l24	Catheters	120plus	catheters	one-off
+brd-0168si16	Catheters	120plus	catheters	one-off
+brd-0168si18	Catheters	120plus	catheters	one-off
+brd-0168si20	Catheters	120plus	catheters	one-off
+brd-0170si14	Catheters	120plus	catheters	one-off
+brd-0170si16	Catheters	120plus	catheters	one-off
+brd-0196l16	Catheters	120plus	catheters	one-off
+brd-0196l18	Catheters	120plus	catheters	one-off
+brd-0196l20	Catheters	120plus	catheters	one-off
+brd-0196l22	Catheters	120plus	catheters	one-off
+brd-0414l	Catheters	120plus	catheters	one-off
+brd-0414s	Catheters	120plus	catheters	one-off
+brd-056108	Catheters	120plus	catheters	one-off
+brd-056110	Catheters	120plus	catheters	one-off
+brd-056112	Catheters	120plus	catheters	one-off
+brd-056114	Catheters	120plus	catheters	one-off
+brd-056116	Catheters	120plus	catheters	one-off
+brd-056118	Catheters	120plus	catheters	one-off
+brd-120610	Catheters	120plus	catheters	one-off
+brd-120612	Catheters	120plus	catheters	one-off
+brd-120614	Catheters	120plus	catheters	one-off
+brd-120616	Catheters	120plus	catheters	one-off
+brd-120618	Catheters	120plus	catheters	one-off
+brd-120620	Catheters	120plus	catheters	one-off
+brd-123418ce	Catheters	120plus	catheters	one-off
+brd-123420ce	Catheters	120plus	catheters	one-off
+brd-123422ce	Catheters	120plus	catheters	one-off
+brd-123424ce	Catheters	120plus	catheters	one-off
+brd-123512ce	Catheters	60to119	catheters	one-off
+brd-123514ce	Catheters	60to119	catheters	one-off
+brd-123516ce	Catheters	60to119	catheters	one-off
+brd-123518ce	Catheters	60to119	catheters	one-off
+brd-123522ce	Catheters	60to119	catheters	one-off
+brd-123524ce	Catheters	60to119	catheters	one-off
+brd-123612ce	Catheters	60to119	catheters	one-off
+brd-123614ce	Catheters	60to119	catheters	one-off
+brd-123616ce	Catheters	60to119	catheters	one-off
+brd-123618ce	Catheters	60to119	catheters	one-off
+brd-123620ce	Catheters	60to119	catheters	one-off
+brd-123622ce	Catheters	60to119	catheters	one-off
+brd-123624ce	Catheters	60to119	catheters	one-off
+brd-136404	Catheters	120plus	catheters	one-off
+brd-136405n	Catheters	120plus	catheters	one-off
+brd-136406n	Catheters	120plus	catheters	one-off
+brd-137904	Catheters	120plus	catheters	one-off
+brd-138008	Catheters	120plus	catheters	one-off
+brd-138010	Catheters	120plus	catheters	one-off
+brd-138012n	Catheters	120plus	catheters	one-off
+brd-140000	Catheters	120plus	catheters	one-off
+brd-150180n	Catheters	under60	catheters	one-off
+brd-150181n	Catheters	under60	catheters	one-off
+brd-1501l	Catheters	under60	catheters	one-off
+brd-1501lf	Catheters	under60	catheters	one-off
+brd-1501m	Catheters	under60	catheters	one-off
+brd-1501mf	Catheters	under60	catheters	one-off
+brd-150507	Catheters	under60	catheters	one-off
+brd-150615	Catheters	under60	catheters	one-off
+brd-150719	Catheters	under60	catheters	one-off
+brd-150732	Catheters	under60	catheters	one-off
+brd-153509	Catheters	under60	catheters	one-off
+brd-154002	Catheters	under60	catheters	one-off
+brd-162110	Catheters	under60	catheters	one-off
+brd-162210	Catheters	under60	catheters	one-off
+brd-162310	Catheters	under60	catheters	one-off
+brd-165808	Catheters	120plus	catheters	one-off
+brd-165810	Catheters	120plus	catheters	one-off
+brd-165812	Catheters	120plus	catheters	one-off
+brd-165814	Catheters	120plus	catheters	one-off
+brd-165816	Catheters	120plus	catheters	one-off
+brd-165818	Catheters	120plus	catheters	one-off
+brd-165820	Catheters	120plus	catheters	one-off
+brd-165822	Catheters	120plus	catheters	one-off
+brd-165824	Catheters	120plus	catheters	one-off
+brd-166816	Catheters	120plus	catheters	one-off
+brd-166818	Catheters	120plus	catheters	one-off
+brd-166820	Catheters	120plus	catheters	one-off
+brd-166822	Catheters	120plus	catheters	one-off
+brd-166824	Catheters	120plus	catheters	one-off
+brd-175810	Catheters	120plus	catheters	one-off
+brd-175814	Catheters	120plus	catheters	one-off
+brd-175816	Catheters	120plus	catheters	one-off
+brd-175818	Catheters	120plus	catheters	one-off
+brd-175820	Catheters	120plus	catheters	one-off
+brd-175822	Catheters	120plus	catheters	one-off
+brd-175824	Catheters	120plus	catheters	one-off
+brd-1758si12	Catheters	120plus	catheters	one-off
+brd-1758si14	Catheters	120plus	catheters	one-off
+brd-1758si16	Catheters	120plus	catheters	one-off
+brd-1758si18	Catheters	120plus	catheters	one-off
+brd-1758si20	Catheters	120plus	catheters	one-off
+brd-1758si22	Catheters	120plus	catheters	one-off
+brd-1758si24	Catheters	120plus	catheters	one-off
+brd-176822	Catheters	120plus	catheters	one-off
+brd-176824	Catheters	120plus	catheters	one-off
+brd-1768si16	Catheters	120plus	catheters	one-off
+brd-1768si18	Catheters	120plus	catheters	one-off
+brd-1768si20	Catheters	120plus	catheters	one-off
+brd-1857si18	Catheters	120plus	catheters	one-off
+brd-226512	Catheters	60to119	catheters	one-off
+brd-226514	Catheters	60to119	catheters	one-off
+brd-226516	Catheters	120plus	catheters	one-off
+brd-226520	Catheters	120plus	catheters	one-off
+brd-226522	Catheters	120plus	catheters	one-off
+brd-226524	Catheters	60to119	catheters	one-off
+brd-226526	Catheters	120plus	catheters	one-off
+brd-226616	Catheters	120plus	catheters	one-off
+brd-226618	Catheters	120plus	catheters	one-off
+brd-2551h24	Catheters	120plus	catheters	one-off
+brd-277712	Catheters	60to119	catheters	one-off
+brd-277714	Catheters	under60	catheters	one-off
+brd-277716	Catheters	under60	catheters	one-off
+brd-32101	Catheters	120plus	catheters	one-off
+brd-32301	Catheters	120plus	catheters	one-off
+brd-33301	Catheters	120plus	catheters	one-off
+brd-33305	Catheters	120plus	catheters	one-off
+brd-33416	Catheters	120plus	catheters	one-off
+brd-33418	Catheters	120plus	catheters	one-off
+brd-33420	Catheters	120plus	catheters	one-off
+brd-33422	Catheters	120plus	catheters	one-off
+brd-33424	Catheters	120plus	catheters	one-off
+brd-33614	Catheters	120plus	catheters	one-off
+brd-33616	Catheters	120plus	catheters	one-off
+brd-33618	Catheters	120plus	catheters	one-off
+brd-33620	Catheters	120plus	catheters	one-off
+brd-33622	Catheters	120plus	catheters	one-off
+brd-33624	Catheters	120plus	catheters	one-off
+brd-35301	Catheters	60to119	catheters	one-off
+brd-35302	Catheters	60to119	catheters	one-off
+brd-35303	Catheters	60to119	catheters	one-off
+brd-35304	Catheters	60to119	catheters	one-off
+brd-35305	Catheters	60to119	catheters	one-off
+brd-37301	Catheters	60to119	catheters	one-off
+brd-37302	Catheters	60to119	catheters	one-off
+brd-37303	Catheters	60to119	catheters	one-off
+brd-37304	Catheters	60to119	catheters	one-off
+brd-37305	Catheters	60to119	catheters	one-off
+brd-39301	Catheters	60to119	catheters	one-off
+brd-39302	Catheters	60to119	catheters	one-off
+brd-39303	Catheters	60to119	catheters	one-off
+brd-39304	Catheters	60to119	catheters	one-off
+brd-39305	Catheters	60to119	catheters	one-off
 brd-42100	Enteral Feeding	120plus	enteral-feeding	recurring
 brd-42120	Enteral Feeding	120plus	enteral-feeding	recurring
-brd-4a4194	Incontinence	under60	incontinence	recurring
-brd-4a5144	Incontinence	under60	incontinence	recurring
-brd-4a6144	Incontinence	under60	incontinence	recurring
-brd-53614	Incontinence	120plus	incontinence	recurring
-brd-561012	Incontinence	120plus	incontinence	recurring
-brd-561016	Incontinence	120plus	incontinence	recurring
-brd-6003l22	Incontinence	120plus	incontinence	recurring
-brd-6003l24	Incontinence	120plus	incontinence	recurring
-brd-64010	Incontinence	120plus	incontinence	recurring
-brd-64012	Incontinence	120plus	incontinence	recurring
-brd-64014	Incontinence	120plus	incontinence	recurring
-brd-64016	Incontinence	120plus	incontinence	recurring
-brd-64018	Incontinence	120plus	incontinence	recurring
-brd-64022	Incontinence	120plus	incontinence	recurring
-brd-64024	Incontinence	120plus	incontinence	recurring
-brd-64026	Incontinence	120plus	incontinence	recurring
-brd-64028	Incontinence	120plus	incontinence	recurring
-brd-64030	Incontinence	120plus	incontinence	recurring
-brd-64032	Incontinence	120plus	incontinence	recurring
-brd-64036	Incontinence	120plus	incontinence	recurring
-brd-70516l	Incontinence	120plus	incontinence	recurring
-brd-86010	Incontinence	120plus	incontinence	recurring
-brd-86012	Incontinence	120plus	incontinence	recurring
-brd-86014	Incontinence	120plus	incontinence	recurring
-brd-86016	Incontinence	120plus	incontinence	recurring
-brd-86018	Incontinence	120plus	incontinence	recurring
-brd-86020	Incontinence	120plus	incontinence	recurring
-brd-86022	Incontinence	120plus	incontinence	recurring
-brd-86024	Incontinence	120plus	incontinence	recurring
-brd-86026	Incontinence	120plus	incontinence	recurring
-brd-86028	Incontinence	120plus	incontinence	recurring
-brd-86030	Incontinence	120plus	incontinence	recurring
-brd-86032	Incontinence	120plus	incontinence	recurring
-brd-86034	Incontinence	120plus	incontinence	recurring
-brd-86036	Incontinence	120plus	incontinence	recurring
-brd-86038	Incontinence	120plus	incontinence	recurring
-brd-86040	Incontinence	120plus	incontinence	recurring
-brd-882284c	Incontinence	120plus	incontinence	recurring
-brd-882286c	Incontinence	120plus	incontinence	recurring
+brd-4a4194	Catheters	under60	catheters	one-off
+brd-4a5144	Catheters	under60	catheters	one-off
+brd-4a6144	Catheters	under60	catheters	one-off
+brd-53614	Catheters	120plus	catheters	one-off
+brd-561012	Catheters	120plus	catheters	one-off
+brd-561016	Catheters	120plus	catheters	one-off
+brd-6003l22	Catheters	120plus	catheters	one-off
+brd-6003l24	Catheters	120plus	catheters	one-off
+brd-64010	Catheters	120plus	catheters	one-off
+brd-64012	Catheters	120plus	catheters	one-off
+brd-64014	Catheters	120plus	catheters	one-off
+brd-64016	Catheters	120plus	catheters	one-off
+brd-64018	Catheters	120plus	catheters	one-off
+brd-64022	Catheters	120plus	catheters	one-off
+brd-64024	Catheters	120plus	catheters	one-off
+brd-64026	Catheters	120plus	catheters	one-off
+brd-64028	Catheters	120plus	catheters	one-off
+brd-64030	Catheters	120plus	catheters	one-off
+brd-64032	Catheters	120plus	catheters	one-off
+brd-64036	Catheters	120plus	catheters	one-off
+brd-70516l	Catheters	120plus	catheters	one-off
+brd-86010	Catheters	120plus	catheters	one-off
+brd-86012	Catheters	120plus	catheters	one-off
+brd-86014	Catheters	120plus	catheters	one-off
+brd-86016	Catheters	120plus	catheters	one-off
+brd-86018	Catheters	120plus	catheters	one-off
+brd-86020	Catheters	120plus	catheters	one-off
+brd-86022	Catheters	120plus	catheters	one-off
+brd-86024	Catheters	120plus	catheters	one-off
+brd-86026	Catheters	120plus	catheters	one-off
+brd-86028	Catheters	120plus	catheters	one-off
+brd-86030	Catheters	120plus	catheters	one-off
+brd-86032	Catheters	120plus	catheters	one-off
+brd-86034	Catheters	120plus	catheters	one-off
+brd-86036	Catheters	120plus	catheters	one-off
+brd-86038	Catheters	120plus	catheters	one-off
+brd-86040	Catheters	120plus	catheters	one-off
+brd-882284c	Catheters	120plus	catheters	one-off
+brd-882286c	Catheters	120plus	catheters	one-off
 brd-92100	Enteral Feeding	120plus	enteral-feeding	recurring
 brd-92220	Enteral Feeding	120plus	enteral-feeding	recurring
 brd-92300	Enteral Feeding	120plus	enteral-feeding	recurring
-brd-a800360c	Incontinence	120plus	incontinence	recurring
-brd-a942214c	Incontinence	120plus	incontinence	recurring
-brd-bff20	Incontinence	120plus	incontinence	recurring
-brd-c226614	Incontinence	60to119	incontinence	recurring
-brd-fol0102	Incontinence	120plus	incontinence	recurring
-brd-fol0105	Incontinence	120plus	incontinence	recurring
-brd-ndb-600	Incontinence	120plus	incontinence	recurring
-brd-vupd1012	Incontinence	120plus	incontinence	recurring
-brd-vupd1214	Incontinence	120plus	incontinence	recurring
-brd-vupd1416	Incontinence	120plus	incontinence	recurring
-brd-vupd68	Incontinence	120plus	incontinence	recurring
+brd-a800360c	Catheters	120plus	catheters	one-off
+brd-a942214c	Catheters	120plus	catheters	one-off
+brd-bff20	Catheters	120plus	catheters	one-off
+brd-c226614	Catheters	60to119	catheters	one-off
+brd-fol0102	Catheters	120plus	catheters	one-off
+brd-fol0105	Catheters	120plus	catheters	one-off
+brd-ndb-600	Catheters	120plus	catheters	one-off
+brd-vupd1012	Catheters	120plus	catheters	one-off
+brd-vupd1214	Catheters	120plus	catheters	one-off
+brd-vupd1416	Catheters	120plus	catheters	one-off
+brd-vupd68	Catheters	120plus	catheters	one-off
 brm-20104	Wound Care	under60	wound-care	recurring
 brm-20105	Wound Care	60to119	wound-care	recurring
 bsn-0102600	Wound Care	under60	wound-care	recurring
@@ -3003,9 +2999,9 @@ bsn-7867705	Compression Socks	60to119	compression-socks	recurring
 bsn-7867907	Compression Socks	under60	compression-socks	recurring
 bsn-7868905	Compression Socks	under60	compression-socks	recurring
 bsx-05112	Wound Care	under60	wound-care	recurring
-bus-312-509	Incontinence	under60	incontinence	recurring
-bus-312-510	Incontinence	120plus	incontinence	recurring
-bus-312-511	Incontinence	60to119	incontinence	recurring
+bus-312-509	Catheters	under60	catheters	one-off
+bus-312-510	Catheters	120plus	catheters	one-off
+bus-312-511	Catheters	60to119	catheters	one-off
 cal-104-20	Incontinence	under60	incontinence	recurring
 cal-r10-075	Wound Care	under60	wound-care	recurring
 cal-r10-100	Wound Care	under60	wound-care	recurring
@@ -3034,9 +3030,9 @@ chs-pc-enc	Enteral Feeding	120plus	enteral-feeding	recurring
 chs-pc-gnc	Enteral Feeding	120plus	enteral-feeding	recurring
 chu-comfortpan	Home Healthcare	under60	home-healthcare	one-off
 cm-g35619	Enteral Feeding	120plus	enteral-feeding	recurring
-cmi-g02278	Incontinence	60to119	incontinence	recurring
-cmi-g02327	Incontinence	60to119	incontinence	recurring
-cmi-g14119	Incontinence	120plus	incontinence	recurring
+cmi-g02278	Catheters	60to119	catheters	one-off
+cmi-g02327	Catheters	60to119	catheters	one-off
+cmi-g14119	Catheters	120plus	catheters	one-off
 cne-00013v	Mobility	under60	mobility	one-off
 col-0421	OSTOMY	under60	ostomy	recurring
 col-0422	OSTOMY	under60	ostomy	recurring
@@ -3827,25 +3823,25 @@ col-19793	OSTOMY	60to119	ostomy	recurring
 col-19794	OSTOMY	60to119	ostomy	recurring
 col-19795	OSTOMY	60to119	ostomy	recurring
 col-2041	Wound Care	under60	wound-care	recurring
-col-21034	Incontinence	under60	incontinence	recurring
-col-21054	Incontinence	under60	incontinence	recurring
+col-21034	Catheters	under60	catheters	one-off
+col-21054	Catheters	under60	catheters	one-off
 col-2115	OSTOMY	60to119	ostomy	recurring
 col-2125	OSTOMY	120plus	ostomy	recurring
-col-21346	Incontinence	120plus	incontinence	recurring
-col-21356	Incontinence	under60	incontinence	recurring
+col-21346	Catheters	120plus	catheters	one-off
+col-21356	Catheters	under60	catheters	one-off
 col-21365	OSTOMY	120plus	ostomy	recurring
 col-2151	OSTOMY	60to119	ostomy	recurring
 col-2166	OSTOMY	120plus	ostomy	recurring
 col-2181	OSTOMY	60to119	ostomy	recurring
-col-22025	Incontinence	120plus	incontinence	recurring
-col-22028	Incontinence	120plus	incontinence	recurring
-col-22030	Incontinence	120plus	incontinence	recurring
-col-22035	Incontinence	120plus	incontinence	recurring
-col-22040	Incontinence	120plus	incontinence	recurring
-col-22121	Incontinence	120plus	incontinence	recurring
-col-22125	Incontinence	120plus	incontinence	recurring
-col-22130	Incontinence	120plus	incontinence	recurring
-col-22135	Incontinence	120plus	incontinence	recurring
+col-22025	Catheters	120plus	catheters	one-off
+col-22028	Catheters	120plus	catheters	one-off
+col-22030	Catheters	120plus	catheters	one-off
+col-22035	Catheters	120plus	catheters	one-off
+col-22040	Catheters	120plus	catheters	one-off
+col-22121	Catheters	120plus	catheters	one-off
+col-22125	Catheters	120plus	catheters	one-off
+col-22130	Catheters	120plus	catheters	one-off
+col-22135	Catheters	120plus	catheters	one-off
 col-2320	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2325	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2330	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
@@ -3854,31 +3850,31 @@ col-2350	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2490	OSTOMY	60to119	ostomy	recurring
 col-2501	OSTOMY	120plus	ostomy	recurring
 col-2520	OSTOMY	60to119	ostomy	recurring
-col-25501	Incontinence	under60	incontinence	recurring
+col-25501	Catheters	under60	catheters	one-off
 col-2650bx	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2655	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
-col-27010	Incontinence	120plus	incontinence	recurring
-col-27012	Incontinence	120plus	incontinence	recurring
-col-27014	Incontinence	120plus	incontinence	recurring
-col-27016	Incontinence	120plus	incontinence	recurring
-col-27408	Incontinence	120plus	incontinence	recurring
-col-27410	Incontinence	120plus	incontinence	recurring
-col-27412	Incontinence	120plus	incontinence	recurring
-col-27414	Incontinence	120plus	incontinence	recurring
-col-27416	Incontinence	120plus	incontinence	recurring
-col-27418	Incontinence	120plus	incontinence	recurring
-col-27490	Incontinence	120plus	incontinence	recurring
-col-27492	Incontinence	120plus	incontinence	recurring
-col-27494	Incontinence	120plus	incontinence	recurring
-col-27496	Incontinence	120plus	incontinence	recurring
-col-27508	Incontinence	120plus	incontinence	recurring
-col-27510	Incontinence	120plus	incontinence	recurring
-col-27512	Incontinence	120plus	incontinence	recurring
-col-27514	Incontinence	120plus	incontinence	recurring
-col-27516	Incontinence	120plus	incontinence	recurring
-col-27706	Incontinence	120plus	incontinence	recurring
-col-27708	Incontinence	120plus	incontinence	recurring
-col-27710	Incontinence	120plus	incontinence	recurring
+col-27010	Catheters	120plus	catheters	one-off
+col-27012	Catheters	120plus	catheters	one-off
+col-27014	Catheters	120plus	catheters	one-off
+col-27016	Catheters	120plus	catheters	one-off
+col-27408	Catheters	120plus	catheters	one-off
+col-27410	Catheters	120plus	catheters	one-off
+col-27412	Catheters	120plus	catheters	one-off
+col-27414	Catheters	120plus	catheters	one-off
+col-27416	Catheters	120plus	catheters	one-off
+col-27418	Catheters	120plus	catheters	one-off
+col-27490	Catheters	120plus	catheters	one-off
+col-27492	Catheters	120plus	catheters	one-off
+col-27494	Catheters	120plus	catheters	one-off
+col-27496	Catheters	120plus	catheters	one-off
+col-27508	Catheters	120plus	catheters	one-off
+col-27510	Catheters	120plus	catheters	one-off
+col-27512	Catheters	120plus	catheters	one-off
+col-27514	Catheters	120plus	catheters	one-off
+col-27516	Catheters	120plus	catheters	one-off
+col-27706	Catheters	120plus	catheters	one-off
+col-27708	Catheters	120plus	catheters	one-off
+col-27710	Catheters	120plus	catheters	one-off
 col-2792	OSTOMY	60to119	ostomy	recurring
 col-2793	OSTOMY	60to119	ostomy	recurring
 col-2801	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
@@ -3886,35 +3882,35 @@ col-2802	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2803	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2807	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-2808	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
-col-28110	Incontinence	120plus	incontinence	recurring
-col-28112	Incontinence	120plus	incontinence	recurring
-col-28114	Incontinence	120plus	incontinence	recurring
+col-28110	Catheters	120plus	catheters	one-off
+col-28112	Catheters	120plus	catheters	one-off
+col-28114	Catheters	120plus	catheters	one-off
 col-2831	OSTOMY	60to119	ostomy	recurring
 col-2832	OSTOMY	60to119	ostomy	recurring
 col-2833	OSTOMY	60to119	ostomy	recurring
 col-2836	OSTOMY	120plus	ostomy	recurring
 col-2837	OSTOMY	120plus	ostomy	recurring
-col-28422	Incontinence	120plus	incontinence	recurring
+col-28422	Catheters	120plus	catheters	one-off
 col-2846	OSTOMY	120plus	ostomy	recurring
 col-2847	OSTOMY	120plus	ostomy	recurring
-col-28520	Incontinence	120plus	incontinence	recurring
-col-28522	Incontinence	120plus	incontinence	recurring
-col-28524	Incontinence	120plus	incontinence	recurring
-col-28578	Incontinence	120plus	incontinence	recurring
-col-28580	Incontinence	120plus	incontinence	recurring
-col-28582	Incontinence	120plus	incontinence	recurring
-col-28584	Incontinence	120plus	incontinence	recurring
-col-28692	Incontinence	120plus	incontinence	recurring
+col-28520	Catheters	120plus	catheters	one-off
+col-28522	Catheters	120plus	catheters	one-off
+col-28524	Catheters	120plus	catheters	one-off
+col-28578	Catheters	120plus	catheters	one-off
+col-28580	Catheters	120plus	catheters	one-off
+col-28582	Catheters	120plus	catheters	one-off
+col-28584	Catheters	120plus	catheters	one-off
+col-28692	Catheters	120plus	catheters	one-off
 col-2881	OSTOMY	60to119	ostomy	recurring
-col-28810	Incontinence	120plus	incontinence	recurring
-col-28812	Incontinence	120plus	incontinence	recurring
-col-28814	Incontinence	120plus	incontinence	recurring
+col-28810	Catheters	120plus	catheters	one-off
+col-28812	Catheters	120plus	catheters	one-off
+col-28814	Catheters	120plus	catheters	one-off
 col-2882	OSTOMY	60to119	ostomy	recurring
 col-2883	OSTOMY	60to119	ostomy	recurring
-col-28916	Incontinence	120plus	incontinence	recurring
-col-28920	Incontinence	120plus	incontinence	recurring
-col-28922	Incontinence	120plus	incontinence	recurring
-col-28924	Incontinence	120plus	incontinence	recurring
+col-28916	Catheters	120plus	catheters	one-off
+col-28920	Catheters	120plus	catheters	one-off
+col-28922	Catheters	120plus	catheters	one-off
+col-28924	Catheters	120plus	catheters	one-off
 col-3210	OSTOMY ACCESSORIES	60to119	ostomy-accessories	recurring
 col-3215	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
 col-3220	OSTOMY ACCESSORIES	120plus	ostomy-accessories	recurring
@@ -3980,7 +3976,7 @@ col-3755	Wound Care	120plus	wound-care	recurring
 col-3760	Wound Care	120plus	wound-care	recurring
 col-3765	Wound Care	120plus	wound-care	recurring
 col-3780	Wound Care	120plus	wound-care	recurring
-col-383004	Incontinence	under60	incontinence	recurring
+col-383004	Catheters	under60	catheters	one-off
 col-3900	Wound Care	60to119	wound-care	recurring
 col-39000	Wound Care	120plus	wound-care	recurring
 col-39001	Wound Care	120plus	wound-care	recurring
@@ -4009,75 +4005,75 @@ col-4612	Wound Care	120plus	wound-care	recurring
 col-4615	Wound Care	120plus	wound-care	recurring
 col-4620	Wound Care	120plus	wound-care	recurring
 col-4625	Wound Care	120plus	wound-care	recurring
-col-501810	Incontinence	60to119	incontinence	recurring
-col-501820	Incontinence	60to119	incontinence	recurring
-col-501830	Incontinence	60to119	incontinence	recurring
-col-501960	Incontinence	under60	incontinence	recurring
-col-502200	Incontinence	60to119	incontinence	recurring
-col-502210	Incontinence	60to119	incontinence	recurring
-col-502730	Incontinence	120plus	incontinence	recurring
-col-502740	Incontinence	120plus	incontinence	recurring
-col-5030	Incontinence	120plus	incontinence	recurring
-col-5030h	Incontinence	120plus	incontinence	recurring
-col-5035	Incontinence	120plus	incontinence	recurring
-col-5035h	Incontinence	120plus	incontinence	recurring
-col-504400	Incontinence	60to119	incontinence	recurring
-col-504410	Incontinence	60to119	incontinence	recurring
-col-504420	Incontinence	60to119	incontinence	recurring
-col-504430	Incontinence	60to119	incontinence	recurring
-col-504500	Incontinence	60to119	incontinence	recurring
-col-504510	Incontinence	60to119	incontinence	recurring
-col-504520	Incontinence	60to119	incontinence	recurring
-col-504530	Incontinence	60to119	incontinence	recurring
-col-504540	Incontinence	60to119	incontinence	recurring
-col-504550	Incontinence	60to119	incontinence	recurring
-col-504600	Incontinence	under60	incontinence	recurring
-col-504610	Incontinence	under60	incontinence	recurring
-col-504620	Incontinence	under60	incontinence	recurring
-col-504630	Incontinence	under60	incontinence	recurring
-col-504650	Incontinence	120plus	incontinence	recurring
-col-504660	Incontinence	120plus	incontinence	recurring
-col-504670	Incontinence	120plus	incontinence	recurring
-col-504680	Incontinence	120plus	incontinence	recurring
-col-504710	Incontinence	120plus	incontinence	recurring
-col-504720	Incontinence	120plus	incontinence	recurring
-col-504730	Incontinence	120plus	incontinence	recurring
-col-504740	Incontinence	120plus	incontinence	recurring
-col-504750	Incontinence	120plus	incontinence	recurring
-col-504760	Incontinence	120plus	incontinence	recurring
-col-50501	Incontinence	120plus	incontinence	recurring
-col-506110	Incontinence	120plus	incontinence	recurring
-col-506130	Incontinence	120plus	incontinence	recurring
-col-506140	Incontinence	120plus	incontinence	recurring
-col-506150	Incontinence	120plus	incontinence	recurring
-col-5062	Incontinence	under60	incontinence	recurring
-col-506200	Incontinence	120plus	incontinence	recurring
-col-506220	Incontinence	120plus	incontinence	recurring
-col-506240	Incontinence	120plus	incontinence	recurring
-col-506260	Incontinence	120plus	incontinence	recurring
-col-5063	Incontinence	under60	incontinence	recurring
-col-5070	Incontinence	under60	incontinence	recurring
-col-507850	Incontinence	under60	incontinence	recurring
+col-501810	Catheters	60to119	catheters	one-off
+col-501820	Catheters	60to119	catheters	one-off
+col-501830	Catheters	60to119	catheters	one-off
+col-501960	Catheters	under60	catheters	one-off
+col-502200	Catheters	60to119	catheters	one-off
+col-502210	Catheters	60to119	catheters	one-off
+col-502730	Catheters	120plus	catheters	one-off
+col-502740	Catheters	120plus	catheters	one-off
+col-5030	Catheters	120plus	catheters	one-off
+col-5030h	Catheters	120plus	catheters	one-off
+col-5035	Catheters	120plus	catheters	one-off
+col-5035h	Catheters	120plus	catheters	one-off
+col-504400	Catheters	60to119	catheters	one-off
+col-504410	Catheters	60to119	catheters	one-off
+col-504420	Catheters	60to119	catheters	one-off
+col-504430	Catheters	60to119	catheters	one-off
+col-504500	Catheters	60to119	catheters	one-off
+col-504510	Catheters	60to119	catheters	one-off
+col-504520	Catheters	60to119	catheters	one-off
+col-504530	Catheters	60to119	catheters	one-off
+col-504540	Catheters	60to119	catheters	one-off
+col-504550	Catheters	60to119	catheters	one-off
+col-504600	Catheters	under60	catheters	one-off
+col-504610	Catheters	under60	catheters	one-off
+col-504620	Catheters	under60	catheters	one-off
+col-504630	Catheters	under60	catheters	one-off
+col-504650	Catheters	120plus	catheters	one-off
+col-504660	Catheters	120plus	catheters	one-off
+col-504670	Catheters	120plus	catheters	one-off
+col-504680	Catheters	120plus	catheters	one-off
+col-504710	Catheters	120plus	catheters	one-off
+col-504720	Catheters	120plus	catheters	one-off
+col-504730	Catheters	120plus	catheters	one-off
+col-504740	Catheters	120plus	catheters	one-off
+col-504750	Catheters	120plus	catheters	one-off
+col-504760	Catheters	120plus	catheters	one-off
+col-50501	Catheters	120plus	catheters	one-off
+col-506110	Catheters	120plus	catheters	one-off
+col-506130	Catheters	120plus	catheters	one-off
+col-506140	Catheters	120plus	catheters	one-off
+col-506150	Catheters	120plus	catheters	one-off
+col-5062	Catheters	under60	catheters	one-off
+col-506200	Catheters	120plus	catheters	one-off
+col-506220	Catheters	120plus	catheters	one-off
+col-506240	Catheters	120plus	catheters	one-off
+col-506260	Catheters	120plus	catheters	one-off
+col-5063	Catheters	under60	catheters	one-off
+col-5070	Catheters	under60	catheters	one-off
+col-507850	Catheters	under60	catheters	one-off
 col-5105	Wound Care	60to119	wound-care	recurring
-col-5130	Incontinence	60to119	incontinence	recurring
-col-5135	Incontinence	60to119	incontinence	recurring
-col-5161	Incontinence	under60	incontinence	recurring
-col-5163	Incontinence	under60	incontinence	recurring
-col-5167	Incontinence	under60	incontinence	recurring
-col-5170	Incontinence	under60	incontinence	recurring
-col-5174	Incontinence	under60	incontinence	recurring
-col-5200	Incontinence	120plus	incontinence	recurring
-col-5205	Incontinence	120plus	incontinence	recurring
-col-5210	Incontinence	120plus	incontinence	recurring
-col-5212	Incontinence	120plus	incontinence	recurring
-col-5215	Incontinence	120plus	incontinence	recurring
-col-5221	Incontinence	120plus	incontinence	recurring
-col-5225	Incontinence	120plus	incontinence	recurring
-col-5225h	Incontinence	120plus	incontinence	recurring
-col-5230	Incontinence	120plus	incontinence	recurring
-col-5230h	Incontinence	120plus	incontinence	recurring
-col-5235	Incontinence	120plus	incontinence	recurring
-col-5235h	Incontinence	120plus	incontinence	recurring
+col-5130	Catheters	60to119	catheters	one-off
+col-5135	Catheters	60to119	catheters	one-off
+col-5161	Catheters	under60	catheters	one-off
+col-5163	Catheters	under60	catheters	one-off
+col-5167	Catheters	under60	catheters	one-off
+col-5170	Catheters	under60	catheters	one-off
+col-5174	Catheters	under60	catheters	one-off
+col-5200	Catheters	120plus	catheters	one-off
+col-5205	Catheters	120plus	catheters	one-off
+col-5210	Catheters	120plus	catheters	one-off
+col-5212	Catheters	120plus	catheters	one-off
+col-5215	Catheters	120plus	catheters	one-off
+col-5221	Catheters	120plus	catheters	one-off
+col-5225	Catheters	120plus	catheters	one-off
+col-5225h	Catheters	120plus	catheters	one-off
+col-5230	Catheters	120plus	catheters	one-off
+col-5230h	Catheters	120plus	catheters	one-off
+col-5235	Catheters	120plus	catheters	one-off
+col-5235h	Catheters	120plus	catheters	one-off
 col-5580	OSTOMY	120plus	ostomy	recurring
 col-5585	OSTOMY	120plus	ostomy	recurring
 col-6105	Wound Care	60to119	wound-care	recurring
@@ -4109,31 +4105,31 @@ col-9622	Wound Care	120plus	wound-care	recurring
 col-9623	Wound Care	120plus	wound-care	recurring
 col-9625	Wound Care	120plus	wound-care	recurring
 col-9626	Wound Care	120plus	wound-care	recurring
-col-aa6108	Incontinence	120plus	incontinence	recurring
-col-aa6110	Incontinence	120plus	incontinence	recurring
-col-aa6112	Incontinence	60to119	incontinence	recurring
-col-aa6114	Incontinence	60to119	incontinence	recurring
-col-aa6116	Incontinence	60to119	incontinence	recurring
-col-aa6118	Incontinence	60to119	incontinence	recurring
-col-aa6120	Incontinence	60to119	incontinence	recurring
-col-aa6122	Incontinence	60to119	incontinence	recurring
-col-aa6124	Incontinence	60to119	incontinence	recurring
-col-aa6308	Incontinence	120plus	incontinence	recurring
-col-aa6310	Incontinence	120plus	incontinence	recurring
-col-aa6312	Incontinence	120plus	incontinence	recurring
-col-aa6314	Incontinence	120plus	incontinence	recurring
-col-aa6316	Incontinence	120plus	incontinence	recurring
-col-aa6318	Incontinence	120plus	incontinence	recurring
-col-aa6320	Incontinence	120plus	incontinence	recurring
-col-aa6322	Incontinence	120plus	incontinence	recurring
-col-aa6408	Incontinence	120plus	incontinence	recurring
-col-aa6410	Incontinence	120plus	incontinence	recurring
-col-aa6412	Incontinence	120plus	incontinence	recurring
-col-aa6516	Incontinence	60to119	incontinence	recurring
-col-aa6c18	Incontinence	60to119	incontinence	recurring
-col-aa6c20	Incontinence	60to119	incontinence	recurring
-col-aa6c22	Incontinence	60to119	incontinence	recurring
-col-aa6c24	Incontinence	60to119	incontinence	recurring
+col-aa6108	Catheters	120plus	catheters	one-off
+col-aa6110	Catheters	120plus	catheters	one-off
+col-aa6112	Catheters	60to119	catheters	one-off
+col-aa6114	Catheters	60to119	catheters	one-off
+col-aa6116	Catheters	60to119	catheters	one-off
+col-aa6118	Catheters	60to119	catheters	one-off
+col-aa6120	Catheters	60to119	catheters	one-off
+col-aa6122	Catheters	60to119	catheters	one-off
+col-aa6124	Catheters	60to119	catheters	one-off
+col-aa6308	Catheters	120plus	catheters	one-off
+col-aa6310	Catheters	120plus	catheters	one-off
+col-aa6312	Catheters	120plus	catheters	one-off
+col-aa6314	Catheters	120plus	catheters	one-off
+col-aa6316	Catheters	120plus	catheters	one-off
+col-aa6318	Catheters	120plus	catheters	one-off
+col-aa6320	Catheters	120plus	catheters	one-off
+col-aa6322	Catheters	120plus	catheters	one-off
+col-aa6408	Catheters	120plus	catheters	one-off
+col-aa6410	Catheters	120plus	catheters	one-off
+col-aa6412	Catheters	120plus	catheters	one-off
+col-aa6516	Catheters	60to119	catheters	one-off
+col-aa6c18	Catheters	60to119	catheters	one-off
+col-aa6c20	Catheters	60to119	catheters	one-off
+col-aa6c22	Catheters	60to119	catheters	one-off
+col-aa6c24	Catheters	60to119	catheters	one-off
 cor-20-0002	Enteral Feeding	60to119	enteral-feeding	recurring
 cor-20-1007	Enteral Feeding	120plus	enteral-feeding	recurring
 cor-20-1226	Enteral Feeding	120plus	enteral-feeding	recurring
@@ -4151,68 +4147,68 @@ cor-40-7366	Enteral Feeding	120plus	enteral-feeding	recurring
 cor-40-9368	Enteral Feeding	120plus	enteral-feeding	recurring
 cs-21470	Wound Care	120plus	wound-care	recurring
 cur-251180	Wound Care	under60	wound-care	recurring
-cure-cb10	Incontinence	under60	incontinence	recurring
-cure-cb12	Incontinence	under60	incontinence	recurring
-cure-cb14	Incontinence	under60	incontinence	recurring
-cure-cb16	Incontinence	under60	incontinence	recurring
-cure-cb8	Incontinence	under60	incontinence	recurring
-cure-f10	Incontinence	under60	incontinence	recurring
-cure-f12	Incontinence	under60	incontinence	recurring
-cure-f14	Incontinence	under60	incontinence	recurring
-cure-f14nc	Incontinence	under60	incontinence	recurring
-cure-f16	Incontinence	under60	incontinence	recurring
-cure-f18	Incontinence	under60	incontinence	recurring
-cure-f8	Incontinence	under60	incontinence	recurring
-cure-hm12	Incontinence	60to119	incontinence	recurring
-cure-hm12c	Incontinence	120plus	incontinence	recurring
-cure-hm14	Incontinence	60to119	incontinence	recurring
-cure-hm14c	Incontinence	120plus	incontinence	recurring
-cure-hm16	Incontinence	60to119	incontinence	recurring
-cure-hm16c	Incontinence	120plus	incontinence	recurring
-cure-m10	Incontinence	under60	incontinence	recurring
-cure-m10c	Incontinence	under60	incontinence	recurring
-cure-m12	Incontinence	under60	incontinence	recurring
-cure-m12c	Incontinence	under60	incontinence	recurring
-cure-m12u	Incontinence	under60	incontinence	recurring
-cure-m14	Incontinence	under60	incontinence	recurring
-cure-m14c	Incontinence	under60	incontinence	recurring
-cure-m14u	Incontinence	under60	incontinence	recurring
-cure-m16	Incontinence	under60	incontinence	recurring
-cure-m16c	Incontinence	under60	incontinence	recurring
-cure-m16u	Incontinence	under60	incontinence	recurring
-cure-m18	Incontinence	under60	incontinence	recurring
-cure-m18c	Incontinence	under60	incontinence	recurring
-cure-m8	Incontinence	under60	incontinence	recurring
-cure-p10	Incontinence	under60	incontinence	recurring
-cure-p12	Incontinence	under60	incontinence	recurring
-cure-p14	Incontinence	under60	incontinence	recurring
-cure-p8	Incontinence	under60	incontinence	recurring
-cure-t10	Incontinence	60to119	incontinence	recurring
-cure-t12	Incontinence	60to119	incontinence	recurring
-cure-t14	Incontinence	60to119	incontinence	recurring
-cure-t16	Incontinence	60to119	incontinence	recurring
-cure-t8	Incontinence	60to119	incontinence	recurring
-cure-ultra-14	Incontinence	60to119	incontinence	recurring
-cure-ultra-m10	Incontinence	60to119	incontinence	recurring
-cure-ultra-m12	Incontinence	60to119	incontinence	recurring
-cure-ultra-m12c	Incontinence	60to119	incontinence	recurring
-cure-ultra-m14	Incontinence	60to119	incontinence	recurring
-cure-ultra-m14c	Incontinence	60to119	incontinence	recurring
-cure-ultra-m16	Incontinence	60to119	incontinence	recurring
-cure-ultra-m16c	Incontinence	60to119	incontinence	recurring
-cure-ultra-m18	Incontinence	60to119	incontinence	recurring
-cure-ultra-m18c	Incontinence	60to119	incontinence	recurring
-cure-ultra-m8	Incontinence	60to119	incontinence	recurring
-cure-ultra10	Incontinence	60to119	incontinence	recurring
-cure-ultra12	Incontinence	60to119	incontinence	recurring
-cure-ultra16	Incontinence	60to119	incontinence	recurring
-cure-ultra8	Incontinence	60to119	incontinence	recurring
+cure-cb10	Catheters	under60	catheters	one-off
+cure-cb12	Catheters	under60	catheters	one-off
+cure-cb14	Catheters	under60	catheters	one-off
+cure-cb16	Catheters	under60	catheters	one-off
+cure-cb8	Catheters	under60	catheters	one-off
+cure-f10	Catheters	under60	catheters	one-off
+cure-f12	Catheters	under60	catheters	one-off
+cure-f14	Catheters	under60	catheters	one-off
+cure-f14nc	Catheters	under60	catheters	one-off
+cure-f16	Catheters	under60	catheters	one-off
+cure-f18	Catheters	under60	catheters	one-off
+cure-f8	Catheters	under60	catheters	one-off
+cure-hm12	Catheters	60to119	catheters	one-off
+cure-hm12c	Catheters	120plus	catheters	one-off
+cure-hm14	Catheters	60to119	catheters	one-off
+cure-hm14c	Catheters	120plus	catheters	one-off
+cure-hm16	Catheters	60to119	catheters	one-off
+cure-hm16c	Catheters	120plus	catheters	one-off
+cure-m10	Catheters	under60	catheters	one-off
+cure-m10c	Catheters	under60	catheters	one-off
+cure-m12	Catheters	under60	catheters	one-off
+cure-m12c	Catheters	under60	catheters	one-off
+cure-m12u	Catheters	under60	catheters	one-off
+cure-m14	Catheters	under60	catheters	one-off
+cure-m14c	Catheters	under60	catheters	one-off
+cure-m14u	Catheters	under60	catheters	one-off
+cure-m16	Catheters	under60	catheters	one-off
+cure-m16c	Catheters	under60	catheters	one-off
+cure-m16u	Catheters	under60	catheters	one-off
+cure-m18	Catheters	under60	catheters	one-off
+cure-m18c	Catheters	under60	catheters	one-off
+cure-m8	Catheters	under60	catheters	one-off
+cure-p10	Catheters	under60	catheters	one-off
+cure-p12	Catheters	under60	catheters	one-off
+cure-p14	Catheters	under60	catheters	one-off
+cure-p8	Catheters	under60	catheters	one-off
+cure-t10	Catheters	60to119	catheters	one-off
+cure-t12	Catheters	60to119	catheters	one-off
+cure-t14	Catheters	60to119	catheters	one-off
+cure-t16	Catheters	60to119	catheters	one-off
+cure-t8	Catheters	60to119	catheters	one-off
+cure-ultra-14	Catheters	60to119	catheters	one-off
+cure-ultra-m10	Catheters	60to119	catheters	one-off
+cure-ultra-m12	Catheters	60to119	catheters	one-off
+cure-ultra-m12c	Catheters	60to119	catheters	one-off
+cure-ultra-m14	Catheters	60to119	catheters	one-off
+cure-ultra-m14c	Catheters	60to119	catheters	one-off
+cure-ultra-m16	Catheters	60to119	catheters	one-off
+cure-ultra-m16c	Catheters	60to119	catheters	one-off
+cure-ultra-m18	Catheters	60to119	catheters	one-off
+cure-ultra-m18c	Catheters	60to119	catheters	one-off
+cure-ultra-m8	Catheters	60to119	catheters	one-off
+cure-ultra10	Catheters	60to119	catheters	one-off
+cure-ultra12	Catheters	60to119	catheters	one-off
+cure-ultra16	Catheters	60to119	catheters	one-off
+cure-ultra8	Catheters	60to119	catheters	one-off
 dal-160	Enteral Feeding	under60	enteral-feeding	recurring
 dal-240	Respiratory	under60	respiratory	recurring
 dal-241	Respiratory	under60	respiratory	recurring
 dal-242	Respiratory	under60	respiratory	recurring
-dal-316	Incontinence	under60	incontinence	recurring
-dal-330	Incontinence	under60	incontinence	recurring
+dal-316	Catheters	under60	catheters	one-off
+dal-330	Catheters	under60	catheters	one-off
 dal-410	Braces	60to119	braces	one-off
 dal-411	Braces	under60	braces	one-off
 dal-418	Braces	60to119	braces	one-off
@@ -4825,7 +4821,6 @@ dribblestop	Incontinence	60to119	incontinence	recurring
 dss-80-1692-0	Wound Care	120plus	wound-care	recurring
 du-704	Wound Care	under60	wound-care	recurring
 dup-11904	Wound Care	120plus	wound-care	recurring
-dup-1213	Wound Care	under60	wound-care	recurring
 dup-13-3107	Wound Care	under60	wound-care	recurring
 dup-1617033	Wound Care	under60	wound-care	recurring
 dup-1637025	Wound Care	120plus	wound-care	recurring
@@ -4914,7 +4909,7 @@ dup-94144	Wound Care	under60	wound-care	recurring
 dup-94184	Wound Care	under60	wound-care	recurring
 dup-97820	Wound Care	under60	wound-care	recurring
 dup-99208	Wound Care	under60	wound-care	recurring
-dup-cs50	Incontinence	120plus	incontinence	recurring
+dup-cs50	Catheters	120plus	catheters	one-off
 dup-dspd03	Wound Care	under60	wound-care	recurring
 dup-gl105w	Wound Care	under60	wound-care	recurring
 dup-gl219	Wound Care	under60	wound-care	recurring
@@ -4940,7 +4935,7 @@ dup-glr150w	Wound Care	under60	wound-care	recurring
 dup-glr250w	Wound Care	under60	wound-care	recurring
 dup-ng40	Wound Care	under60	wound-care	recurring
 dup-ng50	Enteral Feeding	under60	enteral-feeding	recurring
-dup-uc20	Incontinence	60to119	incontinence	recurring
+dup-uc20	Catheters	60to119	catheters	one-off
 dyn-3171	Wound Care	under60	wound-care	recurring
 dyn-3364	Wound Care	under60	wound-care	recurring
 dyn-3401	Wound Care	60to119	wound-care	recurring
@@ -4949,77 +4944,77 @@ dyn-3616	Wound Care	under60	wound-care	recurring
 dyn-4630	Diabetic	120plus	diabetic	recurring
 dyn-c0002	Diabetic	under60	diabetic	recurring
 dyn-jjh5034	Wound Care	under60	wound-care	recurring
-dync-1674	Incontinence	under60	incontinence	recurring
-dynd-10700	Incontinence	60to119	incontinence	recurring
-dynd-10701	Incontinence	under60	incontinence	recurring
-dynd-10702	Incontinence	under60	incontinence	recurring
-dynd-10703	Incontinence	under60	incontinence	recurring
-dynd-10712	Incontinence	under60	incontinence	recurring
-dynd-10713	Incontinence	under60	incontinence	recurring
-dynd-10714	Incontinence	under60	incontinence	recurring
-dynd-10721	Incontinence	under60	incontinence	recurring
-dynd-10722	Incontinence	under60	incontinence	recurring
-dynd-10723	Incontinence	under60	incontinence	recurring
-dynd-10724	Incontinence	under60	incontinence	recurring
-dynd-10725	Incontinence	under60	incontinence	recurring
-dynd-11214	Incontinence	under60	incontinence	recurring
-dynd-11218	Incontinence	under60	incontinence	recurring
-dynd-11500	Incontinence	60to119	incontinence	recurring
-dynd-11501	Incontinence	60to119	incontinence	recurring
-dynd-11502	Incontinence	60to119	incontinence	recurring
-dynd-11503	Incontinence	60to119	incontinence	recurring
-dynd-11504	Incontinence	60to119	incontinence	recurring
-dynd-11505	Incontinence	60to119	incontinence	recurring
-dynd-11506	Incontinence	60to119	incontinence	recurring
-dynd-11532	Incontinence	60to119	incontinence	recurring
-dynd-11533	Incontinence	60to119	incontinence	recurring
-dynd-11534	Incontinence	60to119	incontinence	recurring
-dynd-11535	Incontinence	60to119	incontinence	recurring
-dynd-11536	Incontinence	60to119	incontinence	recurring
-dynd-11553	Incontinence	60to119	incontinence	recurring
-dynd-11554	Incontinence	60to119	incontinence	recurring
-dynd-11572	Incontinence	120plus	incontinence	recurring
-dynd-11573	Incontinence	120plus	incontinence	recurring
-dynd-11752	Incontinence	under60	incontinence	recurring
-dynd-11754	Incontinence	under60	incontinence	recurring
-dynd-11756	Incontinence	under60	incontinence	recurring
-dynd-11758	Incontinence	under60	incontinence	recurring
-dynd-11760	Incontinence	under60	incontinence	recurring
-dynd-11762	Incontinence	under60	incontinence	recurring
-dynd-11768	Incontinence	under60	incontinence	recurring
-dynd-11772	Incontinence	under60	incontinence	recurring
-dynd-11774	Incontinence	under60	incontinence	recurring
-dynd-11776	Incontinence	under60	incontinence	recurring
-dynd-11778	Incontinence	under60	incontinence	recurring
-dynd-11780	Incontinence	under60	incontinence	recurring
-dynd-11782	Incontinence	under60	incontinence	recurring
-dynd-11784	Incontinence	under60	incontinence	recurring
-dynd-11788	Incontinence	under60	incontinence	recurring
-dynd-11790	Incontinence	under60	incontinence	recurring
-dynd-11804	Incontinence	under60	incontinence	recurring
-dynd-12200	Incontinence	under60	incontinence	recurring
-dynd-12302	Incontinence	under60	incontinence	recurring
-dynd-12550	Incontinence	under60	incontinence	recurring
-dynd-12574	Incontinence	under60	incontinence	recurring
-dynd-12578	Incontinence	under60	incontinence	recurring
-dynd-12582	Incontinence	120plus	incontinence	recurring
-dynd-12584	Incontinence	under60	incontinence	recurring
-dynd-12588	Incontinence	under60	incontinence	recurring
-dynd-13508	Incontinence	under60	incontinence	recurring
-dynd-141014	Incontinence	120plus	incontinence	recurring
-dynd-141016	Incontinence	120plus	incontinence	recurring
-dynd-141018	Incontinence	120plus	incontinence	recurring
-dynd-141216	Incontinence	120plus	incontinence	recurring
-dynd-141218	Incontinence	120plus	incontinence	recurring
-dynd-15203	Incontinence	under60	incontinence	recurring
-dynd-15203ll	Incontinence	under60	incontinence	recurring
-dynd-15205	Incontinence	under60	incontinence	recurring
-dynd-15207	Incontinence	under60	incontinence	recurring
-dynd-15210	Incontinence	under60	incontinence	recurring
-dynd-15215	Incontinence	under60	incontinence	recurring
-dynd-15405	Incontinence	under60	incontinence	recurring
-dynd-17403	Incontinence	120plus	incontinence	recurring
-dynd-17407	Incontinence	under60	incontinence	recurring
+dync-1674	Catheters	under60	catheters	one-off
+dynd-10700	Catheters	60to119	catheters	one-off
+dynd-10701	Catheters	under60	catheters	one-off
+dynd-10702	Catheters	under60	catheters	one-off
+dynd-10703	Catheters	under60	catheters	one-off
+dynd-10712	Catheters	under60	catheters	one-off
+dynd-10713	Catheters	under60	catheters	one-off
+dynd-10714	Catheters	under60	catheters	one-off
+dynd-10721	Catheters	under60	catheters	one-off
+dynd-10722	Catheters	under60	catheters	one-off
+dynd-10723	Catheters	under60	catheters	one-off
+dynd-10724	Catheters	under60	catheters	one-off
+dynd-10725	Catheters	under60	catheters	one-off
+dynd-11214	Catheters	under60	catheters	one-off
+dynd-11218	Catheters	under60	catheters	one-off
+dynd-11500	Catheters	60to119	catheters	one-off
+dynd-11501	Catheters	60to119	catheters	one-off
+dynd-11502	Catheters	60to119	catheters	one-off
+dynd-11503	Catheters	60to119	catheters	one-off
+dynd-11504	Catheters	60to119	catheters	one-off
+dynd-11505	Catheters	60to119	catheters	one-off
+dynd-11506	Catheters	60to119	catheters	one-off
+dynd-11532	Catheters	60to119	catheters	one-off
+dynd-11533	Catheters	60to119	catheters	one-off
+dynd-11534	Catheters	60to119	catheters	one-off
+dynd-11535	Catheters	60to119	catheters	one-off
+dynd-11536	Catheters	60to119	catheters	one-off
+dynd-11553	Catheters	60to119	catheters	one-off
+dynd-11554	Catheters	60to119	catheters	one-off
+dynd-11572	Catheters	120plus	catheters	one-off
+dynd-11573	Catheters	120plus	catheters	one-off
+dynd-11752	Catheters	under60	catheters	one-off
+dynd-11754	Catheters	under60	catheters	one-off
+dynd-11756	Catheters	under60	catheters	one-off
+dynd-11758	Catheters	under60	catheters	one-off
+dynd-11760	Catheters	under60	catheters	one-off
+dynd-11762	Catheters	under60	catheters	one-off
+dynd-11768	Catheters	under60	catheters	one-off
+dynd-11772	Catheters	under60	catheters	one-off
+dynd-11774	Catheters	under60	catheters	one-off
+dynd-11776	Catheters	under60	catheters	one-off
+dynd-11778	Catheters	under60	catheters	one-off
+dynd-11780	Catheters	under60	catheters	one-off
+dynd-11782	Catheters	under60	catheters	one-off
+dynd-11784	Catheters	under60	catheters	one-off
+dynd-11788	Catheters	under60	catheters	one-off
+dynd-11790	Catheters	under60	catheters	one-off
+dynd-11804	Catheters	under60	catheters	one-off
+dynd-12200	Catheters	under60	catheters	one-off
+dynd-12302	Catheters	under60	catheters	one-off
+dynd-12550	Catheters	under60	catheters	one-off
+dynd-12574	Catheters	under60	catheters	one-off
+dynd-12578	Catheters	under60	catheters	one-off
+dynd-12582	Catheters	120plus	catheters	one-off
+dynd-12584	Catheters	under60	catheters	one-off
+dynd-12588	Catheters	under60	catheters	one-off
+dynd-13508	Catheters	under60	catheters	one-off
+dynd-141014	Catheters	120plus	catheters	one-off
+dynd-141016	Catheters	120plus	catheters	one-off
+dynd-141018	Catheters	120plus	catheters	one-off
+dynd-141216	Catheters	120plus	catheters	one-off
+dynd-141218	Catheters	120plus	catheters	one-off
+dynd-15203	Catheters	under60	catheters	one-off
+dynd-15203ll	Catheters	under60	catheters	one-off
+dynd-15205	Catheters	under60	catheters	one-off
+dynd-15207	Catheters	under60	catheters	one-off
+dynd-15210	Catheters	under60	catheters	one-off
+dynd-15215	Catheters	under60	catheters	one-off
+dynd-15405	Catheters	under60	catheters	one-off
+dynd-17403	Catheters	120plus	catheters	one-off
+dynd-17407	Catheters	under60	catheters	one-off
 dynd-40920a	Respiratory	60to119	respiratory	recurring
 dynd-40922a	Respiratory	120plus	respiratory	recurring
 dynd-41901	Respiratory	60to119	respiratory	recurring
@@ -5030,7 +5025,7 @@ dynd-41908	Respiratory	60to119	respiratory	recurring
 dynd-50130	Respiratory	under60	respiratory	recurring
 dynd-50132	Respiratory	under60	respiratory	recurring
 dynd-50216	Respiratory	under60	respiratory	recurring
-dynd-50510	Incontinence	under60	incontinence	recurring
+dynd-50510	Catheters	under60	catheters	one-off
 dynd-50519	Respiratory	60to119	respiratory	recurring
 dynd-73043	Respiratory	under60	respiratory	recurring
 dynd-80235s	Incontinence	under60	incontinence	recurring
@@ -5143,7 +5138,6 @@ gjo-965124can00	PPE	under60	ppe	one-off
 gjo-965212can00	PPE	under60	ppe	one-off
 glccl300n	Diabetic	under60	diabetic	recurring
 glcql300n	Diabetic	60to119	diabetic	recurring
-glu-3glustuvst	Wound Care	120plus	wound-care	recurring
 hal-7310	Braces	120plus	braces	one-off
 hal-7312	Braces	120plus	braces	one-off
 hal-7803-c	Incontinence	under60	incontinence	recurring
@@ -5154,11 +5148,11 @@ hlm-2600kl	Health Monitors	120plus	health-monitors	one-off
 hlm-500kl	Health Monitors	120plus	health-monitors	one-off
 hlm-553kl	Health Monitors	120plus	health-monitors	one-off
 hlt-402320	Wound Care	120plus	wound-care	recurring
-hol-1061	Incontinence	under60	incontinence	recurring
-hol-10610	Incontinence	under60	incontinence	recurring
-hol-10616	Incontinence	under60	incontinence	recurring
-hol-10810	Incontinence	under60	incontinence	recurring
-hol-11016	Incontinence	under60	incontinence	recurring
+hol-1061	Catheters	under60	catheters	one-off
+hol-10610	Catheters	under60	catheters	one-off
+hol-10616	Catheters	under60	catheters	one-off
+hol-10810	Catheters	under60	catheters	one-off
+hol-11016	Catheters	under60	catheters	one-off
 hol-112013	OSTOMY	60to119	ostomy	recurring
 hol-112014	OSTOMY	60to119	ostomy	recurring
 hol-112015	OSTOMY	60to119	ostomy	recurring
@@ -5168,19 +5162,19 @@ hol-112018	OSTOMY	60to119	ostomy	recurring
 hol-11202	OSTOMY	60to119	ostomy	recurring
 hol-11203	OSTOMY	60to119	ostomy	recurring
 hol-11204	OSTOMY	60to119	ostomy	recurring
-hol-11216	Incontinence	under60	incontinence	recurring
-hol-11226	Incontinence	60to119	incontinence	recurring
+hol-11216	Catheters	under60	catheters	one-off
+hol-11226	Catheters	60to119	catheters	one-off
 hol-11402	OSTOMY	60to119	ostomy	recurring
 hol-11403	OSTOMY	60to119	ostomy	recurring
 hol-11404	OSTOMY	60to119	ostomy	recurring
-hol-11416	Incontinence	under60	incontinence	recurring
-hol-11426	Incontinence	60to119	incontinence	recurring
-hol-11446	Incontinence	under60	incontinence	recurring
+hol-11416	Catheters	under60	catheters	one-off
+hol-11426	Catheters	60to119	catheters	one-off
+hol-11446	Catheters	under60	catheters	one-off
 hol-11503	OSTOMY	60to119	ostomy	recurring
 hol-11504	OSTOMY	60to119	ostomy	recurring
 hol-11505	OSTOMY	60to119	ostomy	recurring
 hol-11506	OSTOMY	60to119	ostomy	recurring
-hol-11616	Incontinence	under60	incontinence	recurring
+hol-11616	Catheters	under60	catheters	one-off
 hol-11702	OSTOMY	60to119	ostomy	recurring
 hol-11703	OSTOMY	60to119	ostomy	recurring
 hol-11704	OSTOMY	60to119	ostomy	recurring
@@ -5405,45 +5399,45 @@ hol-529967r	Wound Care	60to119	wound-care	recurring
 hol-529968r	Wound Care	120plus	wound-care	recurring
 hol-529969r	Wound Care	60to119	wound-care	recurring
 hol-5551	OSTOMY	120plus	ostomy	recurring
-hol-7008	Incontinence	120plus	incontinence	recurring
-hol-7010	Incontinence	120plus	incontinence	recurring
-hol-7012	Incontinence	120plus	incontinence	recurring
-hol-70124	Incontinence	120plus	incontinence	recurring
-hol-7014	Incontinence	120plus	incontinence	recurring
-hol-70144	Incontinence	120plus	incontinence	recurring
-hol-70164	Incontinence	120plus	incontinence	recurring
-hol-71084	Incontinence	120plus	incontinence	recurring
-hol-71104	Incontinence	120plus	incontinence	recurring
-hol-71122	Incontinence	120plus	incontinence	recurring
-hol-71124	Incontinence	120plus	incontinence	recurring
-hol-71142	Incontinence	120plus	incontinence	recurring
-hol-71144	Incontinence	120plus	incontinence	recurring
-hol-71164	Incontinence	120plus	incontinence	recurring
-hol-72082	Incontinence	120plus	incontinence	recurring
-hol-72084	Incontinence	120plus	incontinence	recurring
-hol-72102	Incontinence	120plus	incontinence	recurring
-hol-72104	Incontinence	120plus	incontinence	recurring
-hol-72122	Incontinence	120plus	incontinence	recurring
-hol-72124	Incontinence	120plus	incontinence	recurring
-hol-72142	Incontinence	120plus	incontinence	recurring
-hol-72144	Incontinence	120plus	incontinence	recurring
-hol-72164	Incontinence	120plus	incontinence	recurring
+hol-7008	Catheters	120plus	catheters	one-off
+hol-7010	Catheters	120plus	catheters	one-off
+hol-7012	Catheters	120plus	catheters	one-off
+hol-70124	Catheters	120plus	catheters	one-off
+hol-7014	Catheters	120plus	catheters	one-off
+hol-70144	Catheters	120plus	catheters	one-off
+hol-70164	Catheters	120plus	catheters	one-off
+hol-71084	Catheters	120plus	catheters	one-off
+hol-71104	Catheters	120plus	catheters	one-off
+hol-71122	Catheters	120plus	catheters	one-off
+hol-71124	Catheters	120plus	catheters	one-off
+hol-71142	Catheters	120plus	catheters	one-off
+hol-71144	Catheters	120plus	catheters	one-off
+hol-71164	Catheters	120plus	catheters	one-off
+hol-72082	Catheters	120plus	catheters	one-off
+hol-72084	Catheters	120plus	catheters	one-off
+hol-72102	Catheters	120plus	catheters	one-off
+hol-72104	Catheters	120plus	catheters	one-off
+hol-72122	Catheters	120plus	catheters	one-off
+hol-72124	Catheters	120plus	catheters	one-off
+hol-72142	Catheters	120plus	catheters	one-off
+hol-72144	Catheters	120plus	catheters	one-off
+hol-72164	Catheters	120plus	catheters	one-off
 hol-7299	OSTOMY	under60	ostomy	recurring
 hol-7300	OSTOMY	under60	ostomy	recurring
-hol-73124	Incontinence	120plus	incontinence	recurring
-hol-73144	Incontinence	120plus	incontinence	recurring
-hol-73164	Incontinence	120plus	incontinence	recurring
+hol-73124	Catheters	120plus	catheters	one-off
+hol-73144	Catheters	120plus	catheters	one-off
+hol-73164	Catheters	120plus	catheters	one-off
 hol-7331bx	OSTOMY ACCESSORIES	60to119	ostomy-accessories	recurring
-hol-74124	Incontinence	120plus	incontinence	recurring
-hol-74144	Incontinence	120plus	incontinence	recurring
-hol-7600084	Incontinence	120plus	incontinence	recurring
-hol-7600104	Incontinence	120plus	incontinence	recurring
-hol-7600124	Incontinence	120plus	incontinence	recurring
-hol-7600144	Incontinence	120plus	incontinence	recurring
-hol-7600164	Incontinence	120plus	incontinence	recurring
+hol-74124	Catheters	120plus	catheters	one-off
+hol-74144	Catheters	120plus	catheters	one-off
+hol-7600084	Catheters	120plus	catheters	one-off
+hol-7600104	Catheters	120plus	catheters	one-off
+hol-7600124	Catheters	120plus	catheters	one-off
+hol-7600144	Catheters	120plus	catheters	one-off
+hol-7600164	Catheters	120plus	catheters	one-off
 hol-7700	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
-hol-7700124	Incontinence	120plus	incontinence	recurring
-hol-7700144	Incontinence	120plus	incontinence	recurring
+hol-7700124	Catheters	120plus	catheters	one-off
+hol-7700144	Catheters	120plus	catheters	one-off
 hol-7715	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7717	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 hol-7721	OSTOMY	60to119	ostomy	recurring
@@ -5699,90 +5693,90 @@ hol-8990	OSTOMY	60to119	ostomy	recurring
 hol-8991	OSTOMY	60to119	ostomy	recurring
 hol-8992	OSTOMY	60to119	ostomy	recurring
 hol-8993	OSTOMY	60to119	ostomy	recurring
-hol-9106	Incontinence	60to119	incontinence	recurring
-hol-9107	Incontinence	60to119	incontinence	recurring
-hol-9108	Incontinence	60to119	incontinence	recurring
-hol-9109	Incontinence	60to119	incontinence	recurring
-hol-9206	Incontinence	120plus	incontinence	recurring
-hol-9207	Incontinence	120plus	incontinence	recurring
-hol-9208	Incontinence	120plus	incontinence	recurring
-hol-9209	Incontinence	120plus	incontinence	recurring
-hol-9342	Incontinence	under60	incontinence	recurring
-hol-9343	Incontinence	under60	incontinence	recurring
-hol-9345	Incontinence	under60	incontinence	recurring
-hol-9346	Incontinence	under60	incontinence	recurring
-hol-9348	Incontinence	under60	incontinence	recurring
-hol-9349	Incontinence	under60	incontinence	recurring
-hol-94064	Incontinence	120plus	incontinence	recurring
-hol-94084	Incontinence	120plus	incontinence	recurring
-hol-94104	Incontinence	120plus	incontinence	recurring
-hol-94124	Incontinence	120plus	incontinence	recurring
-hol-94144	Incontinence	120plus	incontinence	recurring
-hol-94164	Incontinence	120plus	incontinence	recurring
-hol-94184	Incontinence	120plus	incontinence	recurring
-hol-95124	Incontinence	120plus	incontinence	recurring
-hol-95144	Incontinence	120plus	incontinence	recurring
-hol-95164	Incontinence	120plus	incontinence	recurring
-hol-96064	Incontinence	120plus	incontinence	recurring
-hol-96084	Incontinence	120plus	incontinence	recurring
-hol-96104	Incontinence	120plus	incontinence	recurring
-hol-96124	Incontinence	120plus	incontinence	recurring
-hol-96144	Incontinence	120plus	incontinence	recurring
-hol-96164	Incontinence	120plus	incontinence	recurring
-hol-96184	Incontinence	120plus	incontinence	recurring
-hol-9645	Incontinence	under60	incontinence	recurring
-hol-9655	Incontinence	under60	incontinence	recurring
-hol-97124	Incontinence	120plus	incontinence	recurring
-hol-97144	Incontinence	120plus	incontinence	recurring
-hol-97164	Incontinence	120plus	incontinence	recurring
-hol-97425	Incontinence	60to119	incontinence	recurring
-hol-97425-100	Incontinence	120plus	incontinence	recurring
-hol-97429	Incontinence	60to119	incontinence	recurring
-hol-97429-100	Incontinence	120plus	incontinence	recurring
-hol-97432	Incontinence	60to119	incontinence	recurring
-hol-97432-100	Incontinence	120plus	incontinence	recurring
-hol-97436	Incontinence	60to119	incontinence	recurring
-hol-97436-100	Incontinence	120plus	incontinence	recurring
-hol-97441	Incontinence	60to119	incontinence	recurring
-hol-97441-100	Incontinence	120plus	incontinence	recurring
-hol-97525	Incontinence	60to119	incontinence	recurring
-hol-97525-100	Incontinence	120plus	incontinence	recurring
-hol-97529	Incontinence	60to119	incontinence	recurring
-hol-97529-100	Incontinence	120plus	incontinence	recurring
-hol-97532	Incontinence	60to119	incontinence	recurring
-hol-97532-100	Incontinence	120plus	incontinence	recurring
-hol-97536	Incontinence	60to119	incontinence	recurring
-hol-97536-100	Incontinence	120plus	incontinence	recurring
-hol-97541	Incontinence	60to119	incontinence	recurring
-hol-97541-100	Incontinence	120plus	incontinence	recurring
-hol-97625	Incontinence	60to119	incontinence	recurring
-hol-97625-100	Incontinence	120plus	incontinence	recurring
-hol-97629	Incontinence	60to119	incontinence	recurring
-hol-97629-100	Incontinence	120plus	incontinence	recurring
-hol-97632	Incontinence	60to119	incontinence	recurring
-hol-97632-100	Incontinence	120plus	incontinence	recurring
-hol-97636	Incontinence	60to119	incontinence	recurring
-hol-97636-100	Incontinence	120plus	incontinence	recurring
-hol-97641	Incontinence	60to119	incontinence	recurring
-hol-97641-100	Incontinence	120plus	incontinence	recurring
+hol-9106	Catheters	60to119	catheters	one-off
+hol-9107	Catheters	60to119	catheters	one-off
+hol-9108	Catheters	60to119	catheters	one-off
+hol-9109	Catheters	60to119	catheters	one-off
+hol-9206	Catheters	120plus	catheters	one-off
+hol-9207	Catheters	120plus	catheters	one-off
+hol-9208	Catheters	120plus	catheters	one-off
+hol-9209	Catheters	120plus	catheters	one-off
+hol-9342	Catheters	under60	catheters	one-off
+hol-9343	Catheters	under60	catheters	one-off
+hol-9345	Catheters	under60	catheters	one-off
+hol-9346	Catheters	under60	catheters	one-off
+hol-9348	Catheters	under60	catheters	one-off
+hol-9349	Catheters	under60	catheters	one-off
+hol-94064	Catheters	120plus	catheters	one-off
+hol-94084	Catheters	120plus	catheters	one-off
+hol-94104	Catheters	120plus	catheters	one-off
+hol-94124	Catheters	120plus	catheters	one-off
+hol-94144	Catheters	120plus	catheters	one-off
+hol-94164	Catheters	120plus	catheters	one-off
+hol-94184	Catheters	120plus	catheters	one-off
+hol-95124	Catheters	120plus	catheters	one-off
+hol-95144	Catheters	120plus	catheters	one-off
+hol-95164	Catheters	120plus	catheters	one-off
+hol-96064	Catheters	120plus	catheters	one-off
+hol-96084	Catheters	120plus	catheters	one-off
+hol-96104	Catheters	120plus	catheters	one-off
+hol-96124	Catheters	120plus	catheters	one-off
+hol-96144	Catheters	120plus	catheters	one-off
+hol-96164	Catheters	120plus	catheters	one-off
+hol-96184	Catheters	120plus	catheters	one-off
+hol-9645	Catheters	under60	catheters	one-off
+hol-9655	Catheters	under60	catheters	one-off
+hol-97124	Catheters	120plus	catheters	one-off
+hol-97144	Catheters	120plus	catheters	one-off
+hol-97164	Catheters	120plus	catheters	one-off
+hol-97425	Catheters	60to119	catheters	one-off
+hol-97425-100	Catheters	120plus	catheters	one-off
+hol-97429	Catheters	60to119	catheters	one-off
+hol-97429-100	Catheters	120plus	catheters	one-off
+hol-97432	Catheters	60to119	catheters	one-off
+hol-97432-100	Catheters	120plus	catheters	one-off
+hol-97436	Catheters	60to119	catheters	one-off
+hol-97436-100	Catheters	120plus	catheters	one-off
+hol-97441	Catheters	60to119	catheters	one-off
+hol-97441-100	Catheters	120plus	catheters	one-off
+hol-97525	Catheters	60to119	catheters	one-off
+hol-97525-100	Catheters	120plus	catheters	one-off
+hol-97529	Catheters	60to119	catheters	one-off
+hol-97529-100	Catheters	120plus	catheters	one-off
+hol-97532	Catheters	60to119	catheters	one-off
+hol-97532-100	Catheters	120plus	catheters	one-off
+hol-97536	Catheters	60to119	catheters	one-off
+hol-97536-100	Catheters	120plus	catheters	one-off
+hol-97541	Catheters	60to119	catheters	one-off
+hol-97541-100	Catheters	120plus	catheters	one-off
+hol-97625	Catheters	60to119	catheters	one-off
+hol-97625-100	Catheters	120plus	catheters	one-off
+hol-97629	Catheters	60to119	catheters	one-off
+hol-97629-100	Catheters	120plus	catheters	one-off
+hol-97632	Catheters	60to119	catheters	one-off
+hol-97632-100	Catheters	120plus	catheters	one-off
+hol-97636	Catheters	60to119	catheters	one-off
+hol-97636-100	Catheters	120plus	catheters	one-off
+hol-97641	Catheters	60to119	catheters	one-off
+hol-97641-100	Catheters	120plus	catheters	one-off
 hol-9773	Wound Care	120plus	wound-care	recurring
 hol-9776	Wound Care	120plus	wound-care	recurring
 hol-9778	Wound Care	120plus	wound-care	recurring
-hol-9779	Incontinence	120plus	incontinence	recurring
+hol-9779	Catheters	120plus	catheters	one-off
 hol-9780	Wound Care	60to119	wound-care	recurring
 hol-9781	Wound Care	60to119	wound-care	recurring
 hol-9782	Wound Care	60to119	wound-care	recurring
 hol-9785	Respiratory	120plus	respiratory	recurring
 hol-9786	Enteral Feeding	120plus	enteral-feeding	recurring
-hol-9805	Incontinence	under60	incontinence	recurring
-hol-9811	Incontinence	60to119	incontinence	recurring
-hol-9814	Incontinence	under60	incontinence	recurring
+hol-9805	Catheters	under60	catheters	one-off
+hol-9811	Catheters	60to119	catheters	one-off
+hol-9814	Catheters	under60	catheters	one-off
 hol-9821	Incontinence	120plus	incontinence	recurring
 hol-9822	Incontinence	120plus	incontinence	recurring
 hol-9823	Incontinence	120plus	incontinence	recurring
-hol-9839	Incontinence	under60	incontinence	recurring
-hol-9840	Incontinence	120plus	incontinence	recurring
-hol-9873	Incontinence	60to119	incontinence	recurring
+hol-9839	Catheters	under60	catheters	one-off
+hol-9840	Catheters	120plus	catheters	one-off
+hol-9873	Catheters	60to119	catheters	one-off
 hol-9880	Incontinence	120plus	incontinence	recurring
 hol-hb2214	Wound Care	60to119	wound-care	recurring
 hol-hb4414	Wound Care	120plus	wound-care	recurring
@@ -5819,10 +5813,7 @@ inf-orng	Enteral Feeding	120plus	enteral-feeding	recurring
 inf-pck1003	Enteral Feeding	120plus	enteral-feeding	recurring
 inf-pck3001	Enteral Feeding	120plus	enteral-feeding	recurring
 inf-pck4001	Enteral Feeding	120plus	enteral-feeding	recurring
-jnj-1952	Wound Care	120plus	wound-care	recurring
 jnj-2981	Wound Care	120plus	wound-care	recurring
-jnj-ahv12	Wound Care	120plus	wound-care	recurring
-jnj-ahv6	Wound Care	120plus	wound-care	recurring
 jnj-cad011	Wound Care	120plus	wound-care	recurring
 jnj-cad020	Wound Care	120plus	wound-care	recurring
 jnj-cad050	Wound Care	60to119	wound-care	recurring
@@ -5841,7 +5832,6 @@ jnj-m772123	Wound Care	120plus	wound-care	recurring
 jnj-mas065	Wound Care	60to119	wound-care	recurring
 jnj-mas105	Wound Care	120plus	wound-care	recurring
 jnj-mas190	Wound Care	120plus	wound-care	recurring
-jnj-ms0005	Wound Care	120plus	wound-care	recurring
 jnj-po1481	Wound Care	60to119	wound-care	recurring
 jnj-po1512	Wound Care	60to119	wound-care	recurring
 jnj-ps2028	Wound Care	120plus	wound-care	recurring
@@ -5855,7 +5845,7 @@ kc-47359	PPE	under60	ppe	one-off
 kc-48100	PPE	under60	ppe	one-off
 kc-62114mb	PPE	120plus	ppe	one-off
 kdl-1961	Wound Care	under60	wound-care	recurring
-kf-150861	Incontinence	under60	incontinence	recurring
+kf-150861	Catheters	under60	catheters	one-off
 knd-1050	Wound Care	under60	wound-care	recurring
 knd-1093	Incontinence	120plus	incontinence	recurring
 knd-10cfn	Respiratory	60to119	respiratory	recurring
@@ -5871,21 +5861,21 @@ knd-1225	Incontinence	60to119	incontinence	recurring
 knd-1238	Wound Care	under60	wound-care	recurring
 knd-1418	Wound Care	under60	wound-care	recurring
 knd-1429	Incontinence	under60	incontinence	recurring
-knd-145514	Incontinence	under60	incontinence	recurring
-knd-145516	Incontinence	under60	incontinence	recurring
+knd-145514	Catheters	under60	catheters	one-off
+knd-145516	Catheters	under60	catheters	one-off
 knd-1522sa	Diabetic	under60	diabetic	recurring
 knd-1530	Incontinence	120plus	incontinence	recurring
 knd-155710	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-155711	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-155712	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-155713	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-1600	Incontinence	under60	incontinence	recurring
+knd-1600	Catheters	under60	catheters	one-off
 knd-1605	Incontinence	60to119	incontinence	recurring
-knd-1614	Incontinence	120plus	incontinence	recurring
+knd-1614	Catheters	120plus	catheters	one-off
 knd-1615	Incontinence	60to119	incontinence	recurring
-knd-1616	Incontinence	120plus	incontinence	recurring
-knd-1616c	Incontinence	120plus	incontinence	recurring
-knd-1622	Incontinence	120plus	incontinence	recurring
+knd-1616	Catheters	120plus	catheters	one-off
+knd-1616c	Catheters	120plus	catheters	one-off
+knd-1622	Catheters	120plus	catheters	one-off
 knd-1625	Incontinence	60to119	incontinence	recurring
 knd-1806	Wound Care	under60	wound-care	recurring
 knd-1892	Wound Care	under60	wound-care	recurring
@@ -5893,9 +5883,9 @@ knd-1903	Wound Care	under60	wound-care	recurring
 knd-1914c	Wound Care	under60	wound-care	recurring
 knd-1961	Wound Care	under60	wound-care	recurring
 knd-202020	Health Monitors	60to119	health-monitors	one-off
-knd-20514c	Incontinence	120plus	incontinence	recurring
-knd-20516c	Incontinence	120plus	incontinence	recurring
-knd-20518c	Incontinence	120plus	incontinence	recurring
+knd-20514c	Catheters	120plus	catheters	one-off
+knd-20516c	Catheters	120plus	catheters	one-off
+knd-20518c	Catheters	120plus	catheters	one-off
 knd-2059	Wound Care	under60	wound-care	recurring
 knd-2132	Wound Care	under60	wound-care	recurring
 knd-2146	Wound Care	under60	wound-care	recurring
@@ -5915,7 +5905,7 @@ knd-30066	Wound Care	120plus	wound-care	recurring
 knd-303013	Health Monitors	120plus	health-monitors	one-off
 knd-303030	Health Monitors	under60	health-monitors	one-off
 knd-3033	Wound Care	under60	wound-care	recurring
-knd-30510	Incontinence	under60	incontinence	recurring
+knd-30510	Catheters	under60	catheters	one-off
 knd-30688	Respiratory	60to119	respiratory	recurring
 knd-3071lf	Compression Socks	under60	compression-socks	recurring
 knd-30820	Respiratory	60to119	respiratory	recurring
@@ -5943,23 +5933,23 @@ knd-3331	Wound Care	under60	wound-care	recurring
 knd-3332	Wound Care	under60	wound-care	recurring
 knd-3381	Wound Care	under60	wound-care	recurring
 knd-3416lf	Compression Socks	60to119	compression-socks	recurring
-knd-3433	Incontinence	under60	incontinence	recurring
+knd-3433	Catheters	under60	catheters	one-off
 knd-3449	Compression Socks	60to119	compression-socks	recurring
 knd-3489	Wound Care	under60	wound-care	recurring
-knd-3512	Incontinence	under60	incontinence	recurring
+knd-3512	Catheters	under60	catheters	one-off
 knd-3549lf	Compression Socks	60to119	compression-socks	recurring
-knd-3558	Incontinence	under60	incontinence	recurring
-knd-3560	Incontinence	under60	incontinence	recurring
-knd-3563	Incontinence	under60	incontinence	recurring
-knd-3565	Incontinence	under60	incontinence	recurring
-knd-3570	Incontinence	under60	incontinence	recurring
-knd-3577	Incontinence	under60	incontinence	recurring
+knd-3558	Catheters	under60	catheters	one-off
+knd-3560	Catheters	under60	catheters	one-off
+knd-3563	Catheters	under60	catheters	one-off
+knd-3565	Catheters	under60	catheters	one-off
+knd-3570	Catheters	under60	catheters	one-off
+knd-3577	Catheters	under60	catheters	one-off
 knd-35es	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-3601	Incontinence	under60	incontinence	recurring
-knd-3607	Incontinence	under60	incontinence	recurring
-knd-3611	Incontinence	under60	incontinence	recurring
-knd-3614	Incontinence	under60	incontinence	recurring
-knd-3619	Incontinence	under60	incontinence	recurring
+knd-3601	Catheters	under60	catheters	one-off
+knd-3607	Catheters	under60	catheters	one-off
+knd-3611	Catheters	under60	catheters	one-off
+knd-3614	Catheters	under60	catheters	one-off
+knd-3619	Catheters	under60	catheters	one-off
 knd-3634lf	Compression Socks	under60	compression-socks	recurring
 knd-3728lf	Compression Socks	60to119	compression-socks	recurring
 knd-382492	Enteral Feeding	60to119	enteral-feeding	recurring
@@ -5972,22 +5962,22 @@ knd-385400	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-3856lf	Compression Socks	under60	compression-socks	recurring
 knd-3922	Compression Socks	60to119	compression-socks	recurring
 knd-3995	Compression Socks	60to119	compression-socks	recurring
-knd-400608	Incontinence	120plus	incontinence	recurring
-knd-400610	Incontinence	120plus	incontinence	recurring
-knd-400612	Incontinence	120plus	incontinence	recurring
-knd-400614	Incontinence	120plus	incontinence	recurring
-knd-400616	Incontinence	120plus	incontinence	recurring
-knd-400618	Incontinence	120plus	incontinence	recurring
+knd-400608	Catheters	120plus	catheters	one-off
+knd-400610	Catheters	120plus	catheters	one-off
+knd-400612	Catheters	120plus	catheters	one-off
+knd-400614	Catheters	120plus	catheters	one-off
+knd-400616	Catheters	120plus	catheters	one-off
+knd-400618	Catheters	120plus	catheters	one-off
 knd-4014	Incontinence	under60	incontinence	recurring
-knd-402712	Incontinence	120plus	incontinence	recurring
-knd-402714	Incontinence	60to119	incontinence	recurring
-knd-402716	Incontinence	60to119	incontinence	recurring
-knd-402718	Incontinence	60to119	incontinence	recurring
-knd-402720	Incontinence	60to119	incontinence	recurring
+knd-402712	Catheters	120plus	catheters	one-off
+knd-402714	Catheters	60to119	catheters	one-off
+knd-402716	Catheters	60to119	catheters	one-off
+knd-402718	Catheters	60to119	catheters	one-off
+knd-402720	Catheters	60to119	catheters	one-off
 knd-4032	Wound Care	under60	wound-care	recurring
-knd-403714	Incontinence	60to119	incontinence	recurring
-knd-403716	Incontinence	60to119	incontinence	recurring
-knd-403718	Incontinence	60to119	incontinence	recurring
+knd-403714	Catheters	60to119	catheters	one-off
+knd-403716	Catheters	60to119	catheters	one-off
+knd-403718	Catheters	60to119	catheters	one-off
 knd-42201	Respiratory	120plus	respiratory	recurring
 knd-4265	Compression Socks	under60	compression-socks	recurring
 knd-4271	Compression Socks	under60	compression-socks	recurring
@@ -6049,10 +6039,10 @@ knd-60034	Incontinence	60to119	incontinence	recurring
 knd-60035	Incontinence	60to119	incontinence	recurring
 knd-6017	Wound Care	60to119	wound-care	recurring
 knd-6040n	Incontinence	under60	incontinence	recurring
-knd-605148ic	Incontinence	120plus	incontinence	recurring
-knd-605163ic	Incontinence	120plus	incontinence	recurring
-knd-605189ic	Incontinence	120plus	incontinence	recurring
-knd-605205ic	Incontinence	120plus	incontinence	recurring
+knd-605148ic	Catheters	120plus	catheters	one-off
+knd-605163ic	Catheters	120plus	catheters	one-off
+knd-605189ic	Catheters	120plus	catheters	one-off
+knd-605205ic	Catheters	120plus	catheters	one-off
 knd-60xltcd	Respiratory	120plus	respiratory	recurring
 knd-60xltin	Respiratory	120plus	respiratory	recurring
 knd-60xltud	Respiratory	120plus	respiratory	recurring
@@ -6060,13 +6050,13 @@ knd-60xltup	Respiratory	120plus	respiratory	recurring
 knd-6112	Wound Care	under60	wound-care	recurring
 knd-6115	Wound Care	120plus	wound-care	recurring
 knd-6132	Wound Care	60to119	wound-care	recurring
-knd-6206	Incontinence	under60	incontinence	recurring
+knd-6206	Catheters	under60	catheters	one-off
 knd-6241	Wound Care	under60	wound-care	recurring
 knd-6242p	Wound Care	under60	wound-care	recurring
-knd-6261	Incontinence	under60	incontinence	recurring
+knd-6261	Catheters	under60	catheters	one-off
 knd-63073	Incontinence	120plus	incontinence	recurring
 knd-63074	Incontinence	60to119	incontinence	recurring
-knd-6308ll	Incontinence	under60	incontinence	recurring
+knd-6308ll	Catheters	under60	catheters	one-off
 knd-6309	Wound Care	under60	wound-care	recurring
 knd-6318	Wound Care	under60	wound-care	recurring
 knd-6360	Wound Care	under60	wound-care	recurring
@@ -6183,12 +6173,12 @@ knd-80xltin	Respiratory	120plus	respiratory	recurring
 knd-80xltud	Respiratory	120plus	respiratory	recurring
 knd-8190a	Wound Care	120plus	wound-care	recurring
 knd-8194a	Wound Care	120plus	wound-care	recurring
-knd-8206	Incontinence	under60	incontinence	recurring
+knd-8206	Catheters	under60	catheters	one-off
 knd-8303sa	Diabetic	under60	diabetic	recurring
-knd-8403	Incontinence	60to119	incontinence	recurring
-knd-8404	Incontinence	60to119	incontinence	recurring
-knd-8420	Incontinence	60to119	incontinence	recurring
-knd-8422	Incontinence	60to119	incontinence	recurring
+knd-8403	Catheters	60to119	catheters	one-off
+knd-8404	Catheters	60to119	catheters	one-off
+knd-8420	Catheters	60to119	catheters	one-off
+knd-8422	Catheters	60to119	catheters	one-off
 knd-8506sa	Diabetic	under60	diabetic	recurring
 knd-8506y	Diabetic	under60	diabetic	recurring
 knd-8507sa	Diabetic	under60	diabetic	recurring
@@ -6215,49 +6205,48 @@ knd-8884720205	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884721055	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884721088	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884721252	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-8884730398	Incontinence	120plus	incontinence	recurring
+knd-8884730398	Catheters	120plus	catheters	one-off
 knd-8884730766	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884730790	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-8884731900	Incontinence	under60	incontinence	recurring
-knd-8884732398	Incontinence	120plus	incontinence	recurring
+knd-8884731900	Catheters	under60	catheters	one-off
+knd-8884732398	Catheters	120plus	catheters	one-off
 knd-8884741813	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884741821	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-8884751622	Enteral Feeding	under60	enteral-feeding	recurring
 knd-8884751622e	Enteral Feeding	under60	enteral-feeding	recurring
 knd-8884752042	Enteral Feeding	under60	enteral-feeding	recurring
 knd-8884752513e	Enteral Feeding	120plus	enteral-feeding	recurring
-knd-8886803712	Wound Care	120plus	wound-care	recurring
-knd-8887600149	Incontinence	120plus	incontinence	recurring
-knd-8887605247	Incontinence	120plus	incontinence	recurring
-knd-8887624149	Incontinence	under60	incontinence	recurring
-knd-8887630163	Incontinence	120plus	incontinence	recurring
-knd-8887630260	Incontinence	120plus	incontinence	recurring
-knd-8887660085	Incontinence	60to119	incontinence	recurring
-knd-8887660101	Incontinence	60to119	incontinence	recurring
-knd-8887660127	Incontinence	60to119	incontinence	recurring
-knd-8887660143	Incontinence	120plus	incontinence	recurring
-knd-8887660168	Incontinence	60to119	incontinence	recurring
-knd-8887660184	Incontinence	60to119	incontinence	recurring
-knd-8887660903	Incontinence	120plus	incontinence	recurring
-knd-8887664161	Incontinence	120plus	incontinence	recurring
-knd-8887665183	Incontinence	120plus	incontinence	recurring
-knd-8887665209	Incontinence	120plus	incontinence	recurring
-knd-8887689167	Incontinence	120plus	incontinence	recurring
-knd-8888275008	Incontinence	under60	incontinence	recurring
+knd-8887600149	Catheters	120plus	catheters	one-off
+knd-8887605247	Catheters	120plus	catheters	one-off
+knd-8887624149	Catheters	under60	catheters	one-off
+knd-8887630163	Catheters	120plus	catheters	one-off
+knd-8887630260	Catheters	120plus	catheters	one-off
+knd-8887660085	Catheters	60to119	catheters	one-off
+knd-8887660101	Catheters	60to119	catheters	one-off
+knd-8887660127	Catheters	60to119	catheters	one-off
+knd-8887660143	Catheters	120plus	catheters	one-off
+knd-8887660168	Catheters	60to119	catheters	one-off
+knd-8887660184	Catheters	60to119	catheters	one-off
+knd-8887660903	Catheters	120plus	catheters	one-off
+knd-8887664161	Catheters	120plus	catheters	one-off
+knd-8887665183	Catheters	120plus	catheters	one-off
+knd-8887665209	Catheters	120plus	catheters	one-off
+knd-8887689167	Catheters	120plus	catheters	one-off
+knd-8888275008	Catheters	under60	catheters	one-off
 knd-8888284513	Respiratory	120plus	respiratory	recurring
 knd-8888301515	Respiratory	under60	respiratory	recurring
 knd-8888301606	Respiratory	120plus	respiratory	recurring
 knd-8888301614	Respiratory	120plus	respiratory	recurring
-knd-8888492017	Incontinence	120plus	incontinence	recurring
-knd-8888492025	Incontinence	120plus	incontinence	recurring
-knd-8888492033	Incontinence	120plus	incontinence	recurring
-knd-8888492041	Incontinence	120plus	incontinence	recurring
-knd-8888492058	Incontinence	120plus	incontinence	recurring
-knd-8888492066	Incontinence	120plus	incontinence	recurring
+knd-8888492017	Catheters	120plus	catheters	one-off
+knd-8888492025	Catheters	120plus	catheters	one-off
+knd-8888492033	Catheters	120plus	catheters	one-off
+knd-8888492041	Catheters	120plus	catheters	one-off
+knd-8888492058	Catheters	120plus	catheters	one-off
+knd-8888492066	Catheters	120plus	catheters	one-off
 knd-8888501007	Respiratory	120plus	respiratory	recurring
 knd-8888504001	Respiratory	120plus	respiratory	recurring
 knd-8890703419	Respiratory	120plus	respiratory	recurring
-knd-8890710810	Incontinence	120plus	incontinence	recurring
+knd-8890710810	Catheters	120plus	catheters	one-off
 knd-8900sa	Diabetic	under60	diabetic	recurring
 knd-8906	Diabetic	under60	diabetic	recurring
 knd-8912sa	Diabetic	under60	diabetic	recurring
@@ -6302,7 +6291,6 @@ knd-f010506	Enteral Feeding	120plus	enteral-feeding	recurring
 knd-maxp	Health Monitors	120plus	health-monitors	one-off
 knd-p2336mvp	Incontinence	120plus	incontinence	recurring
 knd-p3036mvp	Incontinence	120plus	incontinence	recurring
-knd-ss6	Wound Care	120plus	wound-care	recurring
 knd-ssv	Respiratory	120plus	respiratory	recurring
 knd-tth	Respiratory	under60	respiratory	recurring
 kut-almstand	Home Healthcare	120plus	home-healthcare	one-off
@@ -6332,28 +6320,28 @@ lsft7321br	Incontinence	120plus	incontinence	recurring
 lsft7341br	Incontinence	120plus	incontinence	recurring
 lsft7411br	Incontinence	120plus	incontinence	recurring
 lsft7421br	Incontinence	60to119	incontinence	recurring
-lub-035	Incontinence	under60	incontinence	recurring
-lub-140	Incontinence	under60	incontinence	recurring
-mar-112b	Wound Care	60to119	wound-care	recurring
+lub-035	Catheters	under60	catheters	one-off
+lub-140	Catheters	under60	catheters	one-off
+mar-112b	OSTOMY ACCESSORIES	60to119	ostomy-accessories	recurring
 mar-adptw5	Health Monitors	60to119	health-monitors	one-off
 mar-bp7100can	Health Monitors	120plus	health-monitors	one-off
 mar-bp7450can	Health Monitors	120plus	health-monitors	one-off
 mar-hem907xl	Health Monitors	120plus	health-monitors	one-off
-mar-mnd7	Incontinence	under60	incontinence	recurring
-mar-mnd73	Incontinence	under60	incontinence	recurring
-mar-mnd73r	Incontinence	under60	incontinence	recurring
-mcj-54452	Incontinence	under60	incontinence	recurring
-mcj-54453	Incontinence	under60	incontinence	recurring
-mcj-54454	Incontinence	under60	incontinence	recurring
-mcj-54456	Incontinence	under60	incontinence	recurring
+mar-mnd7	Catheters	under60	catheters	one-off
+mar-mnd73	Catheters	under60	catheters	one-off
+mar-mnd73r	Catheters	under60	catheters	one-off
+mcj-54452	Catheters	under60	catheters	one-off
+mcj-54453	Catheters	under60	catheters	one-off
+mcj-54454	Catheters	under60	catheters	one-off
+mcj-54456	Catheters	under60	catheters	one-off
 mdl-302112584tp	Health Monitors	120plus	health-monitors	one-off
 mdl-328101950	Health Monitors	120plus	health-monitors	one-off
 mdl-baribrief	Incontinence	120plus	incontinence	recurring
 mdl-cprm2216f	Respiratory	under60	respiratory	recurring
 mdl-cprm3312f	Respiratory	under60	respiratory	recurring
 mdl-cur380	PPE	under60	ppe	one-off
-mdl-dynd11593	Incontinence	120plus	incontinence	recurring
-mdl-dynd27403s	Incontinence	under60	incontinence	recurring
+mdl-dynd11593	Catheters	120plus	catheters	one-off
+mdl-dynd27403s	Catheters	under60	catheters	one-off
 mdl-dynd40928a	Respiratory	120plus	respiratory	recurring
 mdl-dynd50246	Respiratory	120plus	respiratory	recurring
 mdl-enfit1000tc	Enteral Feeding	under60	enteral-feeding	recurring
@@ -6379,9 +6367,9 @@ mdl-hcs4525	Respiratory	60to119	respiratory	recurring
 mdl-hcs4568fs	Respiratory	120plus	respiratory	recurring
 mdl-hcs4640b	Respiratory	120plus	respiratory	recurring
 mdl-hcs8725m	Respiratory	under60	respiratory	recurring
-mdl-m102124c	Incontinence	under60	incontinence	recurring
+mdl-m102124c	Catheters	under60	catheters	one-off
 mdl-mdr440fd	Health Monitors	60to119	health-monitors	one-off
-mdl-mds032280z	Incontinence	under60	incontinence	recurring
+mdl-mds032280z	Catheters	under60	catheters	one-off
 mdl-mds1012014	Wound Care	under60	wound-care	recurring
 mdl-mds137000	Pain Relief	under60	pain-relief	one-off
 mdl-mds137020	Pain Relief	60to119	pain-relief	one-off
@@ -6389,7 +6377,6 @@ mdl-mds148000	Pain Relief	under60	pain-relief	one-off
 mdl-mds149000	Pain Relief	under60	pain-relief	one-off
 mdl-mds190505	Incontinence	under60	incontinence	recurring
 mdl-mds3001	Health Monitors	60to119	health-monitors	one-off
-mdl-mds6622300	Wound Care	120plus	wound-care	recurring
 mdl-mds89664lnr	Home Healthcare	under60	home-healthcare	one-off
 mdl-mds91423	Health Monitors	under60	health-monitors	one-off
 mdl-mds926201	Health Monitors	under60	health-monitors	one-off
@@ -6511,8 +6498,8 @@ mdl-nonnet22	Wound Care	60to119	wound-care	recurring
 mdl-ort32100118	Wound Care	under60	wound-care	recurring
 mdl-ultrasoft71	Incontinence	60to119	incontinence	recurring
 mdl-ultrasorb	Incontinence	120plus	incontinence	recurring
-mdl-uro12575	Incontinence	under60	incontinence	recurring
-mdl-uro5454h	Incontinence	under60	incontinence	recurring
+mdl-uro12575	Catheters	under60	catheters	one-off
+mdl-uro5454h	Catheters	under60	catheters	one-off
 mdl-zpp301	Respiratory	under60	respiratory	recurring
 mdlmdtiu4sefhun	Incontinence	120plus	incontinence	recurring
 mds-169030	Braces	under60	braces	one-off
@@ -6537,7 +6524,6 @@ med-h990-07	Bath Safety	under60	bath-safety	one-off
 med-p150150	Wound Care	under60	wound-care	recurring
 med-q134fm75	Wound Care	under60	wound-care	recurring
 med-rs001-0512s	PPE	120plus	ppe	one-off
-medrx-10-1041	Incontinence	120plus	incontinence	recurring
 medrx-401421	Respiratory	120plus	respiratory	recurring
 medrx-50-1008	Respiratory	60to119	respiratory	recurring
 medrx-50-1010	Respiratory	60to119	respiratory	recurring
@@ -6553,34 +6539,34 @@ medrx-54-6036r	Enteral Feeding	120plus	enteral-feeding	recurring
 medrx-54-8015r	Enteral Feeding	120plus	enteral-feeding	recurring
 medrx-54-8042r	Enteral Feeding	120plus	enteral-feeding	recurring
 medrx-54-8142r	Enteral Feeding	120plus	enteral-feeding	recurring
-medrx-60-5008	Incontinence	60to119	incontinence	recurring
-medrx-60-5010	Incontinence	120plus	incontinence	recurring
-medrx-60-5012	Incontinence	120plus	incontinence	recurring
-medrx-60-5014	Incontinence	120plus	incontinence	recurring
-medrx-60-5016	Incontinence	120plus	incontinence	recurring
-medrx-60-5018	Incontinence	60to119	incontinence	recurring
-medrx-63-5008	Incontinence	60to119	incontinence	recurring
-medrx-63-5010	Incontinence	60to119	incontinence	recurring
-medrx-63-5012	Incontinence	60to119	incontinence	recurring
-medrx-63-5014	Incontinence	60to119	incontinence	recurring
-medrx-65-1234	Incontinence	120plus	incontinence	recurring
-medrx-65-5008	Incontinence	120plus	incontinence	recurring
-medrx-65-5016	Incontinence	120plus	incontinence	recurring
-medrx-65-5018	Incontinence	60to119	incontinence	recurring
-medrx-67-5108	Incontinence	120plus	incontinence	recurring
-medrx-67-5110	Incontinence	120plus	incontinence	recurring
-medrx-67-5112	Incontinence	120plus	incontinence	recurring
-medrx-67-5114	Incontinence	120plus	incontinence	recurring
-medrx-67-5116	Incontinence	120plus	incontinence	recurring
-medrx-67-5118	Incontinence	120plus	incontinence	recurring
-medrx-70-6072	Incontinence	120plus	incontinence	recurring
+medrx-60-5008	Catheters	60to119	catheters	one-off
+medrx-60-5010	Catheters	120plus	catheters	one-off
+medrx-60-5012	Catheters	120plus	catheters	one-off
+medrx-60-5014	Catheters	120plus	catheters	one-off
+medrx-60-5016	Catheters	120plus	catheters	one-off
+medrx-60-5018	Catheters	60to119	catheters	one-off
+medrx-63-5008	Catheters	60to119	catheters	one-off
+medrx-63-5010	Catheters	60to119	catheters	one-off
+medrx-63-5012	Catheters	60to119	catheters	one-off
+medrx-63-5014	Catheters	60to119	catheters	one-off
+medrx-65-1234	Catheters	120plus	catheters	one-off
+medrx-65-5008	Catheters	120plus	catheters	one-off
+medrx-65-5016	Catheters	120plus	catheters	one-off
+medrx-65-5018	Catheters	60to119	catheters	one-off
+medrx-67-5108	Catheters	120plus	catheters	one-off
+medrx-67-5110	Catheters	120plus	catheters	one-off
+medrx-67-5112	Catheters	120plus	catheters	one-off
+medrx-67-5114	Catheters	120plus	catheters	one-off
+medrx-67-5116	Catheters	120plus	catheters	one-off
+medrx-67-5118	Catheters	120plus	catheters	one-off
+medrx-70-6072	Respiratory	120plus	respiratory	recurring
 medrx-85-2001	Wound Care	under60	wound-care	recurring
 medrx-85-2002	Wound Care	under60	wound-care	recurring
 medrx-85-2008	Wound Care	under60	wound-care	recurring
 medrx-85-2011	Wound Care	under60	wound-care	recurring
-medrx-85-3000	Incontinence	under60	incontinence	recurring
-medrx-85-3001	Incontinence	under60	incontinence	recurring
-medrx-85-3002	Incontinence	under60	incontinence	recurring
+medrx-85-3000	Catheters	under60	catheters	one-off
+medrx-85-3001	Catheters	under60	catheters	one-off
+medrx-85-3002	Catheters	under60	catheters	one-off
 medrx-85-4004	Wound Care	under60	wound-care	recurring
 medrx-85-4034	Wound Care	under60	wound-care	recurring
 medrx-85-4039	Respiratory	under60	respiratory	recurring
@@ -6595,21 +6581,21 @@ medrx-85-4179	Wound Care	under60	wound-care	recurring
 medrx-85-4196	Wound Care	under60	wound-care	recurring
 medrx-85-4206	Respiratory	under60	respiratory	recurring
 medrx-85-4300	Wound Care	under60	wound-care	recurring
-medrx-85-5000	Incontinence	under60	incontinence	recurring
-medrx-85-5003	Incontinence	under60	incontinence	recurring
-medrx-85-5006	Incontinence	under60	incontinence	recurring
-medrx-85-5016	Incontinence	under60	incontinence	recurring
-medrx-85-5022	Incontinence	under60	incontinence	recurring
-medrx-85-5023	Incontinence	under60	incontinence	recurring
-medrx-85-5026	Incontinence	under60	incontinence	recurring
-medrx-85-5027	Incontinence	under60	incontinence	recurring
-medrx-85-5034	Incontinence	under60	incontinence	recurring
-medrx-85-5035	Incontinence	under60	incontinence	recurring
-medrx-85-5036	Incontinence	under60	incontinence	recurring
-medrx-85-5037	Incontinence	under60	incontinence	recurring
-medrx-85-5038	Incontinence	under60	incontinence	recurring
-medrx-85-5046b	Incontinence	under60	incontinence	recurring
-medrx-85-5050	Incontinence	under60	incontinence	recurring
+medrx-85-5000	Catheters	under60	catheters	one-off
+medrx-85-5003	Catheters	under60	catheters	one-off
+medrx-85-5006	Catheters	under60	catheters	one-off
+medrx-85-5016	Catheters	under60	catheters	one-off
+medrx-85-5022	Catheters	under60	catheters	one-off
+medrx-85-5023	Catheters	under60	catheters	one-off
+medrx-85-5026	Catheters	under60	catheters	one-off
+medrx-85-5027	Catheters	under60	catheters	one-off
+medrx-85-5034	Catheters	under60	catheters	one-off
+medrx-85-5035	Catheters	under60	catheters	one-off
+medrx-85-5036	Catheters	under60	catheters	one-off
+medrx-85-5037	Catheters	under60	catheters	one-off
+medrx-85-5038	Catheters	under60	catheters	one-off
+medrx-85-5046b	Catheters	under60	catheters	one-off
+medrx-85-5050	Catheters	under60	catheters	one-off
 mg-050069	Incontinence	60to119	incontinence	recurring
 mmsi-101-816-080	Respiratory	60to119	respiratory	recurring
 mmsi-101-816-090	Respiratory	60to119	respiratory	recurring
@@ -6783,42 +6769,42 @@ omel0000005	Wound Care	60to119	wound-care	recurring
 omel0000008	Wound Care	under60	wound-care	recurring
 omel0000009	Wound Care	under60	wound-care	recurring
 omel0000014	Wound Care	60to119	wound-care	recurring
-oos-3608	Incontinence	under60	incontinence	recurring
-oos-3610	Incontinence	under60	incontinence	recurring
-oos-3612	Incontinence	under60	incontinence	recurring
-oos-3614	Incontinence	under60	incontinence	recurring
-oos-3616	Incontinence	under60	incontinence	recurring
-oos-3908	Incontinence	under60	incontinence	recurring
-oos-3910	Incontinence	under60	incontinence	recurring
-oos-3912	Incontinence	under60	incontinence	recurring
-oos-3914	Incontinence	under60	incontinence	recurring
-oos-3916	Incontinence	under60	incontinence	recurring
-oos-5608	Incontinence	60to119	incontinence	recurring
-oos-5610	Incontinence	60to119	incontinence	recurring
-oos-5612	Incontinence	60to119	incontinence	recurring
-oos-5614	Incontinence	60to119	incontinence	recurring
-oos-5616	Incontinence	60to119	incontinence	recurring
-oos-5710	Incontinence	120plus	incontinence	recurring
-oos-5712	Incontinence	120plus	incontinence	recurring
-oos-5714	Incontinence	120plus	incontinence	recurring
-oos-5908	Incontinence	60to119	incontinence	recurring
-oos-5910	Incontinence	60to119	incontinence	recurring
-oos-5912	Incontinence	60to119	incontinence	recurring
-oos-5914	Incontinence	60to119	incontinence	recurring
-oos-5916	Incontinence	60to119	incontinence	recurring
-oos-7608	Incontinence	60to119	incontinence	recurring
-oos-7610	Incontinence	60to119	incontinence	recurring
-oos-7612	Incontinence	60to119	incontinence	recurring
-oos-7614	Incontinence	60to119	incontinence	recurring
-oos-7616	Incontinence	60to119	incontinence	recurring
-oos-7710	Incontinence	120plus	incontinence	recurring
-oos-7712	Incontinence	120plus	incontinence	recurring
-oos-7714	Incontinence	120plus	incontinence	recurring
-oos-7908	Incontinence	60to119	incontinence	recurring
-oos-7910	Incontinence	60to119	incontinence	recurring
-oos-7912	Incontinence	60to119	incontinence	recurring
-oos-7914	Incontinence	60to119	incontinence	recurring
-oos-7916	Incontinence	60to119	incontinence	recurring
+oos-3608	Catheters	under60	catheters	one-off
+oos-3610	Catheters	under60	catheters	one-off
+oos-3612	Catheters	under60	catheters	one-off
+oos-3614	Catheters	under60	catheters	one-off
+oos-3616	Catheters	under60	catheters	one-off
+oos-3908	Catheters	under60	catheters	one-off
+oos-3910	Catheters	under60	catheters	one-off
+oos-3912	Catheters	under60	catheters	one-off
+oos-3914	Catheters	under60	catheters	one-off
+oos-3916	Catheters	under60	catheters	one-off
+oos-5608	Catheters	60to119	catheters	one-off
+oos-5610	Catheters	60to119	catheters	one-off
+oos-5612	Catheters	60to119	catheters	one-off
+oos-5614	Catheters	60to119	catheters	one-off
+oos-5616	Catheters	60to119	catheters	one-off
+oos-5710	Catheters	120plus	catheters	one-off
+oos-5712	Catheters	120plus	catheters	one-off
+oos-5714	Catheters	120plus	catheters	one-off
+oos-5908	Catheters	60to119	catheters	one-off
+oos-5910	Catheters	60to119	catheters	one-off
+oos-5912	Catheters	60to119	catheters	one-off
+oos-5914	Catheters	60to119	catheters	one-off
+oos-5916	Catheters	60to119	catheters	one-off
+oos-7608	Catheters	60to119	catheters	one-off
+oos-7610	Catheters	60to119	catheters	one-off
+oos-7612	Catheters	60to119	catheters	one-off
+oos-7614	Catheters	60to119	catheters	one-off
+oos-7616	Catheters	60to119	catheters	one-off
+oos-7710	Catheters	120plus	catheters	one-off
+oos-7712	Catheters	120plus	catheters	one-off
+oos-7714	Catheters	120plus	catheters	one-off
+oos-7908	Catheters	60to119	catheters	one-off
+oos-7910	Catheters	60to119	catheters	one-off
+oos-7912	Catheters	60to119	catheters	one-off
+oos-7914	Catheters	60to119	catheters	one-off
+oos-7916	Catheters	60to119	catheters	one-off
 p-1466-03	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
 padl-16b122	Aids to Daily Living	under60	aids-to-daily-living	one-off
 padl-16g012	Bath Safety	60to119	bath-safety	one-off
@@ -6872,7 +6858,7 @@ pos-6239lp	Aids to Daily Living	under60	aids-to-daily-living	one-off
 pos-6239lr	Aids to Daily Living	under60	aids-to-daily-living	one-off
 pos-6239p	Aids to Daily Living	under60	aids-to-daily-living	one-off
 pos-6239r	Aids to Daily Living	under60	aids-to-daily-living	one-off
-pos-6550	Incontinence	60to119	incontinence	recurring
+pos-6550	Catheters	60to119	catheters	one-off
 pos-8197l	Respiratory	60to119	respiratory	recurring
 pos-8197m	Respiratory	60to119	respiratory	recurring
 pos-8197s	Respiratory	60to119	respiratory	recurring
@@ -6885,23 +6871,23 @@ rel-up2336r	Incontinence	under60	incontinence	recurring
 rel-up3654r	Incontinence	under60	incontinence	recurring
 rgr-04960523-06	Wound Care	60to119	wound-care	recurring
 rgr-3006-48	Wound Care	120plus	wound-care	recurring
-rmc-33101	Incontinence	120plus	incontinence	recurring
-rmc-33102	Incontinence	120plus	incontinence	recurring
-rmc-33103	Incontinence	120plus	incontinence	recurring
-rmc-33104	Incontinence	120plus	incontinence	recurring
-rmc-33105	Incontinence	120plus	incontinence	recurring
-rmc-33302	Incontinence	60to119	incontinence	recurring
-rmc-33303	Incontinence	120plus	incontinence	recurring
-rmc-33304	Incontinence	120plus	incontinence	recurring
-rmc-36101	Incontinence	120plus	incontinence	recurring
-rmc-36102	Incontinence	120plus	incontinence	recurring
-rmc-36103	Incontinence	120plus	incontinence	recurring
-rmc-36104	Incontinence	120plus	incontinence	recurring
-rmc-36105	Incontinence	120plus	incontinence	recurring
-rmc-36301	Incontinence	120plus	incontinence	recurring
-rmc-36302	Incontinence	120plus	incontinence	recurring
-rmc-38303	Incontinence	120plus	incontinence	recurring
-rmc-50614	Incontinence	120plus	incontinence	recurring
+rmc-33101	Catheters	120plus	catheters	one-off
+rmc-33102	Catheters	120plus	catheters	one-off
+rmc-33103	Catheters	120plus	catheters	one-off
+rmc-33104	Catheters	120plus	catheters	one-off
+rmc-33105	Catheters	120plus	catheters	one-off
+rmc-33302	Catheters	60to119	catheters	one-off
+rmc-33303	Catheters	120plus	catheters	one-off
+rmc-33304	Catheters	120plus	catheters	one-off
+rmc-36101	Catheters	120plus	catheters	one-off
+rmc-36102	Catheters	120plus	catheters	one-off
+rmc-36103	Catheters	120plus	catheters	one-off
+rmc-36104	Catheters	120plus	catheters	one-off
+rmc-36105	Catheters	120plus	catheters	one-off
+rmc-36301	Catheters	120plus	catheters	one-off
+rmc-36302	Catheters	120plus	catheters	one-off
+rmc-38303	Catheters	120plus	catheters	one-off
+rmc-50614	Catheters	120plus	catheters	one-off
 roch10398411119	Diabetic	60to119	diabetic	recurring
 ros-ab6631113	Enteral Feeding	120plus	enteral-feeding	recurring
 rus-100380025	Respiratory	60to119	respiratory	recurring
@@ -6920,130 +6906,128 @@ rus-123328	Respiratory	60to119	respiratory	recurring
 rus-123332	Respiratory	60to119	respiratory	recurring
 rus-123334	Respiratory	60to119	respiratory	recurring
 rus-123336	Respiratory	60to119	respiratory	recurring
-rus-170003060	Incontinence	120plus	incontinence	recurring
-rus-170003080	Incontinence	120plus	incontinence	recurring
-rus-170003100	Incontinence	120plus	incontinence	recurring
-rus-170605120	Incontinence	60to119	incontinence	recurring
-rus-170605140	Incontinence	60to119	incontinence	recurring
-rus-170605160	Incontinence	60to119	incontinence	recurring
-rus-170605180	Incontinence	120plus	incontinence	recurring
-rus-170605200	Incontinence	120plus	incontinence	recurring
-rus-170605220	Incontinence	120plus	incontinence	recurring
-rus-170605240	Incontinence	120plus	incontinence	recurring
-rus-170605260	Incontinence	120plus	incontinence	recurring
-rus-170630220	Incontinence	120plus	incontinence	recurring
-rus-170630240	Incontinence	120plus	incontinence	recurring
-rus-170630260	Incontinence	120plus	incontinence	recurring
+rus-170003060	Catheters	120plus	catheters	one-off
+rus-170003080	Catheters	120plus	catheters	one-off
+rus-170003100	Catheters	120plus	catheters	one-off
+rus-170605120	Catheters	60to119	catheters	one-off
+rus-170605140	Catheters	60to119	catheters	one-off
+rus-170605160	Catheters	60to119	catheters	one-off
+rus-170605180	Catheters	120plus	catheters	one-off
+rus-170605200	Catheters	120plus	catheters	one-off
+rus-170605220	Catheters	120plus	catheters	one-off
+rus-170605240	Catheters	120plus	catheters	one-off
+rus-170605260	Catheters	120plus	catheters	one-off
+rus-170630220	Catheters	120plus	catheters	one-off
+rus-170630240	Catheters	120plus	catheters	one-off
+rus-170630260	Catheters	120plus	catheters	one-off
 rus-1713	Respiratory	under60	respiratory	recurring
-rus-171305120	Incontinence	120plus	incontinence	recurring
-rus-171305140	Incontinence	120plus	incontinence	recurring
-rus-171305160	Incontinence	120plus	incontinence	recurring
-rus-171305180	Incontinence	120plus	incontinence	recurring
-rus-171305200	Incontinence	120plus	incontinence	recurring
-rus-171305220	Incontinence	120plus	incontinence	recurring
-rus-171305240	Incontinence	120plus	incontinence	recurring
-rus-173830180	Incontinence	60to119	incontinence	recurring
-rus-173830220	Incontinence	60to119	incontinence	recurring
-rus-180003080	Incontinence	60to119	incontinence	recurring
-rus-180705120	Incontinence	under60	incontinence	recurring
-rus-180705140	Incontinence	under60	incontinence	recurring
-rus-180705160	Incontinence	under60	incontinence	recurring
-rus-180705180	Incontinence	under60	incontinence	recurring
-rus-180705200	Incontinence	under60	incontinence	recurring
-rus-180705220	Incontinence	under60	incontinence	recurring
-rus-180705240	Incontinence	under60	incontinence	recurring
-rus-180730120	Incontinence	under60	incontinence	recurring
-rus-180730140	Incontinence	under60	incontinence	recurring
-rus-180730160	Incontinence	under60	incontinence	recurring
-rus-180730180	Incontinence	under60	incontinence	recurring
-rus-180730200	Incontinence	under60	incontinence	recurring
-rus-180730240	Incontinence	under60	incontinence	recurring
-rus-183405160	Incontinence	120plus	incontinence	recurring
-rus-183405180	Incontinence	120plus	incontinence	recurring
-rus-183405200	Incontinence	120plus	incontinence	recurring
-rus-183405220	Incontinence	120plus	incontinence	recurring
-rus-183430160	Incontinence	120plus	incontinence	recurring
-rus-183430180	Incontinence	120plus	incontinence	recurring
-rus-183430200	Incontinence	120plus	incontinence	recurring
-rus-183430220	Incontinence	120plus	incontinence	recurring
-rus-183430240	Incontinence	120plus	incontinence	recurring
-rus-21096100	Incontinence	120plus	incontinence	recurring
-rus-21096140	Incontinence	120plus	incontinence	recurring
-rus-221800120	Incontinence	120plus	incontinence	recurring
-rus-221800140	Incontinence	120plus	incontinence	recurring
-rus-221800160	Incontinence	120plus	incontinence	recurring
-rus-221800180	Incontinence	120plus	incontinence	recurring
-rus-221800200	Incontinence	120plus	incontinence	recurring
-rus-221800220	Incontinence	120plus	incontinence	recurring
-rus-221800240	Incontinence	120plus	incontinence	recurring
-rus-318112	Incontinence	60to119	incontinence	recurring
-rus-318114	Incontinence	60to119	incontinence	recurring
-rus-318116	Incontinence	60to119	incontinence	recurring
-rus-318118	Incontinence	60to119	incontinence	recurring
-rus-318120	Incontinence	60to119	incontinence	recurring
-rus-318122	Incontinence	120plus	incontinence	recurring
-rus-318124	Incontinence	120plus	incontinence	recurring
-rus-318312	Incontinence	120plus	incontinence	recurring
-rus-318314	Incontinence	120plus	incontinence	recurring
-rus-318316	Incontinence	120plus	incontinence	recurring
-rus-318318	Incontinence	120plus	incontinence	recurring
-rus-318320	Incontinence	120plus	incontinence	recurring
-rus-318322	Incontinence	120plus	incontinence	recurring
-rus-318324	Incontinence	120plus	incontinence	recurring
-rus-390000	Incontinence	under60	incontinence	recurring
-rus-390060	Incontinence	under60	incontinence	recurring
+rus-171305120	Catheters	120plus	catheters	one-off
+rus-171305140	Catheters	120plus	catheters	one-off
+rus-171305160	Catheters	120plus	catheters	one-off
+rus-171305180	Catheters	120plus	catheters	one-off
+rus-171305200	Catheters	120plus	catheters	one-off
+rus-171305220	Catheters	120plus	catheters	one-off
+rus-171305240	Catheters	120plus	catheters	one-off
+rus-173830180	Catheters	60to119	catheters	one-off
+rus-173830220	Catheters	60to119	catheters	one-off
+rus-180003080	Catheters	60to119	catheters	one-off
+rus-180705120	Catheters	under60	catheters	one-off
+rus-180705140	Catheters	under60	catheters	one-off
+rus-180705160	Catheters	under60	catheters	one-off
+rus-180705180	Catheters	under60	catheters	one-off
+rus-180705200	Catheters	under60	catheters	one-off
+rus-180705220	Catheters	under60	catheters	one-off
+rus-180705240	Catheters	under60	catheters	one-off
+rus-180730120	Catheters	under60	catheters	one-off
+rus-180730140	Catheters	under60	catheters	one-off
+rus-180730160	Catheters	under60	catheters	one-off
+rus-180730180	Catheters	under60	catheters	one-off
+rus-180730200	Catheters	under60	catheters	one-off
+rus-180730240	Catheters	under60	catheters	one-off
+rus-183405160	Catheters	120plus	catheters	one-off
+rus-183405180	Catheters	120plus	catheters	one-off
+rus-183405200	Catheters	120plus	catheters	one-off
+rus-183405220	Catheters	120plus	catheters	one-off
+rus-183430160	Catheters	120plus	catheters	one-off
+rus-183430180	Catheters	120plus	catheters	one-off
+rus-183430200	Catheters	120plus	catheters	one-off
+rus-183430220	Catheters	120plus	catheters	one-off
+rus-183430240	Catheters	120plus	catheters	one-off
+rus-21096100	Catheters	120plus	catheters	one-off
+rus-21096140	Catheters	120plus	catheters	one-off
+rus-221800120	Catheters	120plus	catheters	one-off
+rus-221800140	Catheters	120plus	catheters	one-off
+rus-221800160	Catheters	120plus	catheters	one-off
+rus-221800180	Catheters	120plus	catheters	one-off
+rus-221800200	Catheters	120plus	catheters	one-off
+rus-221800220	Catheters	120plus	catheters	one-off
+rus-221800240	Catheters	120plus	catheters	one-off
+rus-318112	Catheters	60to119	catheters	one-off
+rus-318114	Catheters	60to119	catheters	one-off
+rus-318116	Catheters	60to119	catheters	one-off
+rus-318118	Catheters	60to119	catheters	one-off
+rus-318120	Catheters	60to119	catheters	one-off
+rus-318122	Catheters	120plus	catheters	one-off
+rus-318124	Catheters	120plus	catheters	one-off
+rus-318312	Catheters	120plus	catheters	one-off
+rus-318314	Catheters	120plus	catheters	one-off
+rus-318316	Catheters	120plus	catheters	one-off
+rus-318318	Catheters	120plus	catheters	one-off
+rus-318320	Catheters	120plus	catheters	one-off
+rus-318322	Catheters	120plus	catheters	one-off
+rus-318324	Catheters	120plus	catheters	one-off
+rus-390000	Catheters	under60	catheters	one-off
+rus-390060	Catheters	under60	catheters	one-off
 rus-41131	Respiratory	under60	respiratory	recurring
-rus-442622	Incontinence	120plus	incontinence	recurring
-rus-452919	Incontinence	under60	incontinence	recurring
-rus-452932	Incontinence	under60	incontinence	recurring
-rus-453919	Incontinence	under60	incontinence	recurring
-rus-453932	Incontinence	under60	incontinence	recurring
-rus-564000	Incontinence	120plus	incontinence	recurring
-rus-662530-160	Incontinence	120plus	incontinence	recurring
-rus-662530-180	Incontinence	120plus	incontinence	recurring
-rus-662530-200	Incontinence	120plus	incontinence	recurring
-rus-662530-220	Incontinence	120plus	incontinence	recurring
-rus-664130-180	Incontinence	120plus	incontinence	recurring
-rus-664130-200	Incontinence	120plus	incontinence	recurring
-rus-664130-220	Incontinence	120plus	incontinence	recurring
-rus-664130-240	Incontinence	120plus	incontinence	recurring
-rus-849100	Wound Care	120plus	wound-care	recurring
-rus-a1000	Incontinence	120plus	incontinence	recurring
-rus-a1000m	Incontinence	120plus	incontinence	recurring
-rus-a1000s	Incontinence	120plus	incontinence	recurring
-rus-b1000	Incontinence	120plus	incontinence	recurring
-rus-b1000ct	Incontinence	120plus	incontinence	recurring
-rus-ec060	Incontinence	120plus	incontinence	recurring
-rus-ec085	Incontinence	120plus	incontinence	recurring
-rus-ec100	Incontinence	120plus	incontinence	recurring
-rus-ec103	Incontinence	120plus	incontinence	recurring
-rus-ec105	Incontinence	120plus	incontinence	recurring
-rus-ec120	Incontinence	120plus	incontinence	recurring
-rus-ec123	Incontinence	120plus	incontinence	recurring
-rus-ec125	Incontinence	120plus	incontinence	recurring
-rus-ec141	Incontinence	60to119	incontinence	recurring
-rus-ec144	Incontinence	120plus	incontinence	recurring
-rus-ec145	Incontinence	120plus	incontinence	recurring
-rus-ec149	Incontinence	120plus	incontinence	recurring
-rus-ec161	Incontinence	120plus	incontinence	recurring
-rus-ec163	Incontinence	120plus	incontinence	recurring
-rus-ec165	Incontinence	120plus	incontinence	recurring
-rus-ecs140	Incontinence	120plus	incontinence	recurring
-rus-onc10	Incontinence	120plus	incontinence	recurring
-rus-onc12	Incontinence	120plus	incontinence	recurring
-rus-onc12c	Incontinence	120plus	incontinence	recurring
-rus-onc14	Incontinence	120plus	incontinence	recurring
-rus-onc14c	Incontinence	120plus	incontinence	recurring
-rus-onc16	Incontinence	120plus	incontinence	recurring
-rus-onc16c	Incontinence	120plus	incontinence	recurring
-rus-onc8	Incontinence	120plus	incontinence	recurring
-rus-ronc14	Incontinence	120plus	incontinence	recurring
-rus-sonc14	Incontinence	120plus	incontinence	recurring
-rus-sonc14f	Incontinence	120plus	incontinence	recurring
+rus-442622	Catheters	120plus	catheters	one-off
+rus-452919	Catheters	under60	catheters	one-off
+rus-452932	Catheters	under60	catheters	one-off
+rus-453919	Catheters	under60	catheters	one-off
+rus-453932	Catheters	under60	catheters	one-off
+rus-662530-160	Catheters	120plus	catheters	one-off
+rus-662530-180	Catheters	120plus	catheters	one-off
+rus-662530-200	Catheters	120plus	catheters	one-off
+rus-662530-220	Catheters	120plus	catheters	one-off
+rus-664130-180	Catheters	120plus	catheters	one-off
+rus-664130-200	Catheters	120plus	catheters	one-off
+rus-664130-220	Catheters	120plus	catheters	one-off
+rus-664130-240	Catheters	120plus	catheters	one-off
+rus-a1000	Catheters	120plus	catheters	one-off
+rus-a1000m	Catheters	120plus	catheters	one-off
+rus-a1000s	Catheters	120plus	catheters	one-off
+rus-b1000	Catheters	120plus	catheters	one-off
+rus-b1000ct	Catheters	120plus	catheters	one-off
+rus-ec060	Catheters	120plus	catheters	one-off
+rus-ec085	Catheters	120plus	catheters	one-off
+rus-ec100	Catheters	120plus	catheters	one-off
+rus-ec103	Catheters	120plus	catheters	one-off
+rus-ec105	Catheters	120plus	catheters	one-off
+rus-ec120	Catheters	120plus	catheters	one-off
+rus-ec123	Catheters	120plus	catheters	one-off
+rus-ec125	Catheters	120plus	catheters	one-off
+rus-ec141	Catheters	60to119	catheters	one-off
+rus-ec144	Catheters	120plus	catheters	one-off
+rus-ec145	Catheters	120plus	catheters	one-off
+rus-ec149	Catheters	120plus	catheters	one-off
+rus-ec161	Catheters	120plus	catheters	one-off
+rus-ec163	Catheters	120plus	catheters	one-off
+rus-ec165	Catheters	120plus	catheters	one-off
+rus-ecs140	Catheters	120plus	catheters	one-off
+rus-onc10	Catheters	120plus	catheters	one-off
+rus-onc12	Catheters	120plus	catheters	one-off
+rus-onc12c	Catheters	120plus	catheters	one-off
+rus-onc14	Catheters	120plus	catheters	one-off
+rus-onc14c	Catheters	120plus	catheters	one-off
+rus-onc16	Catheters	120plus	catheters	one-off
+rus-onc16c	Catheters	120plus	catheters	one-off
+rus-onc8	Catheters	120plus	catheters	one-off
+rus-ronc14	Catheters	120plus	catheters	one-off
+rus-sonc14	Catheters	120plus	catheters	one-off
+rus-sonc14f	Catheters	120plus	catheters	one-off
 sa-16soft750	Respiratory	under60	respiratory	recurring
 sa-3198	Wound Care	under60	wound-care	recurring
 sa-3199	Wound Care	under60	wound-care	recurring
-salt-zl0400	Incontinence	60to119	incontinence	recurring
+salt-zl0400	Catheters	60to119	catheters	one-off
 sam-55331001	Pain Relief	60to119	pain-relief	one-off
 sca-350	Incontinence	60to119	incontinence	recurring
 sca-352	Incontinence	60to119	incontinence	recurring
@@ -7146,9 +7130,9 @@ seca-354	Health Monitors	120plus	health-monitors	one-off
 slt-1005-0-25	Respiratory	60to119	respiratory	recurring
 slt-4707-7-7-25	Respiratory	120plus	respiratory	recurring
 sm-1125-8	Respiratory	under60	respiratory	recurring
-sm-1321	Incontinence	under60	incontinence	recurring
-sm-1322n	Incontinence	under60	incontinence	recurring
-sm-29-32-14	Incontinence	120plus	incontinence	recurring
+sm-1321	Catheters	under60	catheters	one-off
+sm-1322n	Catheters	under60	catheters	one-off
+sm-29-32-14	Catheters	120plus	catheters	one-off
 sm-6001	Incontinence	120plus	incontinence	recurring
 sm-67p045	Respiratory	120plus	respiratory	recurring
 sm-s570016	Respiratory	120plus	respiratory	recurring
@@ -7339,9 +7323,6 @@ snu-7461	Wound Care	60to119	wound-care	recurring
 snu-80235	Wound Care	120plus	wound-care	recurring
 snu-80236	Wound Care	under60	wound-care	recurring
 snu-80237	Wound Care	under60	wound-care	recurring
-snu-8213601033	Wound Care	120plus	wound-care	recurring
-snu-8213601037	Wound Care	120plus	wound-care	recurring
-snu-8213601072	Wound Care	120plus	wound-care	recurring
 sol-01-57-04021	Health Monitors	60to119	health-monitors	one-off
 sou-13-3102	Wound Care	under60	wound-care	recurring
 sou-13-3103	Wound Care	under60	wound-care	recurring
@@ -7358,8 +7339,8 @@ sou-cah35cp	Wound Care	under60	wound-care	recurring
 sou-comp23	Wound Care	under60	wound-care	recurring
 sou-comp44	Wound Care	under60	wound-care	recurring
 sou-ct20027	Mobility	under60	mobility	one-off
-sou-d12400	Incontinence	under60	incontinence	recurring
-sou-d12405	Incontinence	under60	incontinence	recurring
+sou-d12400	Catheters	under60	catheters	one-off
+sou-d12405	Catheters	under60	catheters	one-off
 sou-d50215	Respiratory	120plus	respiratory	recurring
 sou-dk6114	Wound Care	under60	wound-care	recurring
 sou-fm44	Wound Care	60to119	wound-care	recurring
@@ -7367,7 +7348,7 @@ sou-fm48	Wound Care	120plus	wound-care	recurring
 sou-fm66	Wound Care	120plus	wound-care	recurring
 sou-fm88	Wound Care	120plus	wound-care	recurring
 sou-n56a	Respiratory	under60	respiratory	recurring
-sou-n66a	Incontinence	under60	incontinence	recurring
+sou-n66a	Respiratory	under60	respiratory	recurring
 sou-pk82	Respiratory	120plus	respiratory	recurring
 sou-q134fm-100	Wound Care	under60	wound-care	recurring
 sou-q134fm-50	Wound Care	under60	wound-care	recurring
@@ -7375,10 +7356,66 @@ sou-up3672r	Incontinence	60to119	incontinence	recurring
 sp-41-301-00	Wound Care	under60	wound-care	recurring
 spm-10-603	Wound Care	120plus	wound-care	recurring
 spx-21-1530	Respiratory	120plus	respiratory	recurring
+squ-125257	OSTOMY	120plus	ostomy	recurring
+squ-125258	OSTOMY	120plus	ostomy	recurring
+squ-125259	OSTOMY	120plus	ostomy	recurring
+squ-125260	OSTOMY	120plus	ostomy	recurring
+squ-125261	OSTOMY	120plus	ostomy	recurring
+squ-125262	OSTOMY	120plus	ostomy	recurring
+squ-125263	OSTOMY	120plus	ostomy	recurring
+squ-125264	OSTOMY	120plus	ostomy	recurring
+squ-125265	OSTOMY	120plus	ostomy	recurring
+squ-125266	OSTOMY	120plus	ostomy	recurring
+squ-125267	OSTOMY	120plus	ostomy	recurring
+squ-125268	OSTOMY	120plus	ostomy	recurring
+squ-125269	OSTOMY	120plus	ostomy	recurring
+squ-125270	OSTOMY	120plus	ostomy	recurring
+squ-125271	OSTOMY	120plus	ostomy	recurring
+squ-125272	OSTOMY	120plus	ostomy	recurring
+squ-125273	OSTOMY	120plus	ostomy	recurring
+squ-125274	OSTOMY	120plus	ostomy	recurring
+squ-125275	OSTOMY	120plus	ostomy	recurring
+squ-125276	OSTOMY	120plus	ostomy	recurring
+squ-125277	OSTOMY	120plus	ostomy	recurring
+squ-125330	OSTOMY	120plus	ostomy	recurring
+squ-125331	OSTOMY	120plus	ostomy	recurring
+squ-125333	OSTOMY	120plus	ostomy	recurring
+squ-125334	OSTOMY	120plus	ostomy	recurring
+squ-125335	OSTOMY	120plus	ostomy	recurring
+squ-125336	OSTOMY	120plus	ostomy	recurring
+squ-125338	OSTOMY	120plus	ostomy	recurring
+squ-125339	OSTOMY	120plus	ostomy	recurring
+squ-125340	OSTOMY	120plus	ostomy	recurring
+squ-125341	OSTOMY	120plus	ostomy	recurring
+squ-125342	OSTOMY	120plus	ostomy	recurring
+squ-125343	OSTOMY	120plus	ostomy	recurring
+squ-125361	OSTOMY	120plus	ostomy	recurring
+squ-125362	OSTOMY	120plus	ostomy	recurring
+squ-125363	OSTOMY	120plus	ostomy	recurring
+squ-125364	OSTOMY	120plus	ostomy	recurring
+squ-125365	OSTOMY	120plus	ostomy	recurring
+squ-125366	OSTOMY	120plus	ostomy	recurring
+squ-125367	OSTOMY	120plus	ostomy	recurring
+squ-125368	OSTOMY	120plus	ostomy	recurring
+squ-125369	OSTOMY	120plus	ostomy	recurring
 squ-168117	Wound Care	120plus	wound-care	recurring
 squ-168210	Wound Care	60to119	wound-care	recurring
 squ-168212	Wound Care	120plus	wound-care	recurring
 squ-168214	Wound Care	120plus	wound-care	recurring
+squ-175507	OSTOMY	under60	ostomy	recurring
+squ-175611	OSTOMY	120plus	ostomy	recurring
+squ-175635	OSTOMY	60to119	ostomy	recurring
+squ-175650	OSTOMY	60to119	ostomy	recurring
+squ-175652	OSTOMY	60to119	ostomy	recurring
+squ-175777	OSTOMY	120plus	ostomy	recurring
+squ-175778	OSTOMY	120plus	ostomy	recurring
+squ-175779	OSTOMY	120plus	ostomy	recurring
+squ-175780	OSTOMY	120plus	ostomy	recurring
+squ-175781	OSTOMY	120plus	ostomy	recurring
+squ-175782	OSTOMY	120plus	ostomy	recurring
+squ-175783	OSTOMY	120plus	ostomy	recurring
+squ-175784	OSTOMY	120plus	ostomy	recurring
+squ-183910	OSTOMY	under60	ostomy	recurring
 squ-187643	Wound Care	120plus	wound-care	recurring
 squ-187644	Wound Care	120plus	wound-care	recurring
 squ-187658	Wound Care	120plus	wound-care	recurring
@@ -7396,8 +7433,93 @@ squ-187957	Wound Care	120plus	wound-care	recurring
 squ-187961	Wound Care	120plus	wound-care	recurring
 squ-187987	Wound Care	60to119	wound-care	recurring
 squ-187990	Wound Care	120plus	wound-care	recurring
-squ-27060	Incontinence	60to119	incontinence	recurring
-squ-27062	Incontinence	under60	incontinence	recurring
+squ-20917	OSTOMY	120plus	ostomy	recurring
+squ-20922	OSTOMY	120plus	ostomy	recurring
+squ-21712	OSTOMY	under60	ostomy	recurring
+squ-21715	OSTOMY	120plus	ostomy	recurring
+squ-22736	OSTOMY	under60	ostomy	recurring
+squ-22751	OSTOMY	60to119	ostomy	recurring
+squ-22764	OSTOMY	60to119	ostomy	recurring
+squ-22765	OSTOMY	60to119	ostomy	recurring
+squ-22766	OSTOMY	60to119	ostomy	recurring
+squ-22767	OSTOMY	60to119	ostomy	recurring
+squ-22768	OSTOMY	60to119	ostomy	recurring
+squ-22769	OSTOMY	60to119	ostomy	recurring
+squ-22771	OSTOMY	120plus	ostomy	recurring
+squ-25510	OSTOMY	under60	ostomy	recurring
+squ-25542	OSTOMY	120plus	ostomy	recurring
+squ-27060	Catheters	60to119	catheters	one-off
+squ-27062	Catheters	under60	catheters	one-off
+squ-400598	OSTOMY	120plus	ostomy	recurring
+squ-400599	OSTOMY	120plus	ostomy	recurring
+squ-401500	OSTOMY	60to119	ostomy	recurring
+squ-401501	OSTOMY	60to119	ostomy	recurring
+squ-401502	OSTOMY	60to119	ostomy	recurring
+squ-401503	OSTOMY	60to119	ostomy	recurring
+squ-401504	OSTOMY	60to119	ostomy	recurring
+squ-401505	OSTOMY	60to119	ostomy	recurring
+squ-401506	OSTOMY	60to119	ostomy	recurring
+squ-401507	OSTOMY	60to119	ostomy	recurring
+squ-401508	OSTOMY	60to119	ostomy	recurring
+squ-401509	OSTOMY	60to119	ostomy	recurring
+squ-401510	OSTOMY	60to119	ostomy	recurring
+squ-401511	OSTOMY	60to119	ostomy	recurring
+squ-401512	OSTOMY	60to119	ostomy	recurring
+squ-401513	OSTOMY	60to119	ostomy	recurring
+squ-401514	OSTOMY	60to119	ostomy	recurring
+squ-401515	OSTOMY	60to119	ostomy	recurring
+squ-401529	OSTOMY	60to119	ostomy	recurring
+squ-401530	OSTOMY	60to119	ostomy	recurring
+squ-401531	OSTOMY	60to119	ostomy	recurring
+squ-401532	OSTOMY	60to119	ostomy	recurring
+squ-401533	OSTOMY	60to119	ostomy	recurring
+squ-401534	OSTOMY	60to119	ostomy	recurring
+squ-401535	OSTOMY	60to119	ostomy	recurring
+squ-401536	OSTOMY	60to119	ostomy	recurring
+squ-401537	OSTOMY	60to119	ostomy	recurring
+squ-401538	OSTOMY	60to119	ostomy	recurring
+squ-401539	OSTOMY	60to119	ostomy	recurring
+squ-401540	OSTOMY	60to119	ostomy	recurring
+squ-401541	OSTOMY	60to119	ostomy	recurring
+squ-401542	OSTOMY	60to119	ostomy	recurring
+squ-401543	OSTOMY	60to119	ostomy	recurring
+squ-401544	OSTOMY	60to119	ostomy	recurring
+squ-401545	OSTOMY	60to119	ostomy	recurring
+squ-401546	OSTOMY	60to119	ostomy	recurring
+squ-401547	OSTOMY	60to119	ostomy	recurring
+squ-401548	OSTOMY	60to119	ostomy	recurring
+squ-401549	OSTOMY	60to119	ostomy	recurring
+squ-401550	OSTOMY	60to119	ostomy	recurring
+squ-401551	OSTOMY	60to119	ostomy	recurring
+squ-401552	OSTOMY	60to119	ostomy	recurring
+squ-401553	OSTOMY	60to119	ostomy	recurring
+squ-401554	OSTOMY	60to119	ostomy	recurring
+squ-401555	OSTOMY	60to119	ostomy	recurring
+squ-401557	OSTOMY	60to119	ostomy	recurring
+squ-401558	OSTOMY	60to119	ostomy	recurring
+squ-401559	OSTOMY	60to119	ostomy	recurring
+squ-401573	OSTOMY	120plus	ostomy	recurring
+squ-401574	OSTOMY	120plus	ostomy	recurring
+squ-401575	OSTOMY	120plus	ostomy	recurring
+squ-401576	OSTOMY	120plus	ostomy	recurring
+squ-401577	OSTOMY	120plus	ostomy	recurring
+squ-401614	OSTOMY	under60	ostomy	recurring
+squ-401618	OSTOMY	under60	ostomy	recurring
+squ-401905	OSTOMY	60to119	ostomy	recurring
+squ-401906	OSTOMY	60to119	ostomy	recurring
+squ-401909	OSTOMY	120plus	ostomy	recurring
+squ-401911	OSTOMY	60to119	ostomy	recurring
+squ-401912	OSTOMY	60to119	ostomy	recurring
+squ-401913	OSTOMY	60to119	ostomy	recurring
+squ-401914	OSTOMY	60to119	ostomy	recurring
+squ-401918	OSTOMY	under60	ostomy	recurring
+squ-401919	OSTOMY	under60	ostomy	recurring
+squ-401925	OSTOMY	60to119	ostomy	recurring
+squ-401927	OSTOMY	60to119	ostomy	recurring
+squ-401928	OSTOMY	60to119	ostomy	recurring
+squ-401929	OSTOMY	60to119	ostomy	recurring
+squ-401930	OSTOMY	60to119	ostomy	recurring
+squ-401989	OSTOMY	60to119	ostomy	recurring
 squ-403202	Wound Care	120plus	wound-care	recurring
 squ-403204	Wound Care	120plus	wound-care	recurring
 squ-403326	Wound Care	60to119	wound-care	recurring
@@ -7405,8 +7527,68 @@ squ-403327	Wound Care	120plus	wound-care	recurring
 squ-403332	Wound Care	120plus	wound-care	recurring
 squ-403333	Wound Care	120plus	wound-care	recurring
 squ-403770	Wound Care	120plus	wound-care	recurring
+squ-403948	OSTOMY	120plus	ostomy	recurring
+squ-404006	OSTOMY	under60	ostomy	recurring
+squ-404007	OSTOMY	under60	ostomy	recurring
+squ-404008	OSTOMY	under60	ostomy	recurring
+squ-404009	OSTOMY	under60	ostomy	recurring
+squ-404010	OSTOMY	under60	ostomy	recurring
+squ-404011	OSTOMY	under60	ostomy	recurring
+squ-404012	OSTOMY	under60	ostomy	recurring
+squ-404013	OSTOMY	under60	ostomy	recurring
+squ-404014	OSTOMY	120plus	ostomy	recurring
+squ-404015	OSTOMY	120plus	ostomy	recurring
+squ-404016	OSTOMY	120plus	ostomy	recurring
+squ-404017	OSTOMY	120plus	ostomy	recurring
+squ-404018	OSTOMY	120plus	ostomy	recurring
+squ-404030	OSTOMY	120plus	ostomy	recurring
+squ-404031	OSTOMY	120plus	ostomy	recurring
+squ-404032	OSTOMY	120plus	ostomy	recurring
+squ-404033	OSTOMY	120plus	ostomy	recurring
+squ-404034	OSTOMY	120plus	ostomy	recurring
+squ-404592	OSTOMY	120plus	ostomy	recurring
+squ-404593	OSTOMY	120plus	ostomy	recurring
+squ-404594	OSTOMY	120plus	ostomy	recurring
+squ-405406	OSTOMY	60to119	ostomy	recurring
+squ-405456	OSTOMY	120plus	ostomy	recurring
+squ-405457	OSTOMY	120plus	ostomy	recurring
+squ-405458	OSTOMY	120plus	ostomy	recurring
+squ-405474	OSTOMY	120plus	ostomy	recurring
+squ-405476	OSTOMY	120plus	ostomy	recurring
+squ-405478	OSTOMY	120plus	ostomy	recurring
+squ-405479	OSTOMY	120plus	ostomy	recurring
+squ-405480	OSTOMY	120plus	ostomy	recurring
+squ-405482	OSTOMY	120plus	ostomy	recurring
+squ-405483	OSTOMY	120plus	ostomy	recurring
+squ-409268	OSTOMY	120plus	ostomy	recurring
+squ-409269	OSTOMY	120plus	ostomy	recurring
+squ-409270	OSTOMY	120plus	ostomy	recurring
 squ-410501	Wound Care	120plus	wound-care	recurring
 squ-410510	Wound Care	120plus	wound-care	recurring
+squ-411265	OSTOMY	60to119	ostomy	recurring
+squ-411266	OSTOMY	60to119	ostomy	recurring
+squ-411267	OSTOMY	60to119	ostomy	recurring
+squ-411289	OSTOMY	120plus	ostomy	recurring
+squ-411290	OSTOMY	120plus	ostomy	recurring
+squ-411291	OSTOMY	120plus	ostomy	recurring
+squ-411490	OSTOMY	120plus	ostomy	recurring
+squ-411491	OSTOMY	120plus	ostomy	recurring
+squ-411492	OSTOMY	120plus	ostomy	recurring
+squ-411493	OSTOMY	120plus	ostomy	recurring
+squ-411633	OSTOMY	60to119	ostomy	recurring
+squ-411637	OSTOMY	60to119	ostomy	recurring
+squ-411639	OSTOMY	60to119	ostomy	recurring
+squ-411642	OSTOMY	60to119	ostomy	recurring
+squ-411658	OSTOMY	120plus	ostomy	recurring
+squ-411659	OSTOMY	120plus	ostomy	recurring
+squ-411800	OSTOMY	120plus	ostomy	recurring
+squ-411801	OSTOMY	120plus	ostomy	recurring
+squ-411802	OSTOMY	120plus	ostomy	recurring
+squ-411803	OSTOMY	120plus	ostomy	recurring
+squ-411804	OSTOMY	120plus	ostomy	recurring
+squ-411805	OSTOMY	120plus	ostomy	recurring
+squ-411806	OSTOMY	120plus	ostomy	recurring
+squ-411807	OSTOMY	120plus	ostomy	recurring
 squ-412009	Wound Care	120plus	wound-care	recurring
 squ-412010	Wound Care	120plus	wound-care	recurring
 squ-412011	Wound Care	120plus	wound-care	recurring
@@ -7415,13 +7597,123 @@ squ-412017	Wound Care	120plus	wound-care	recurring
 squ-412018	Wound Care	120plus	wound-care	recurring
 squ-412019	Wound Care	120plus	wound-care	recurring
 squ-412020	Wound Care	120plus	wound-care	recurring
+squ-413153	OSTOMY	120plus	ostomy	recurring
+squ-413154	OSTOMY	120plus	ostomy	recurring
+squ-413155	OSTOMY	120plus	ostomy	recurring
+squ-413156	OSTOMY	120plus	ostomy	recurring
+squ-413157	OSTOMY	120plus	ostomy	recurring
+squ-413159	OSTOMY	120plus	ostomy	recurring
+squ-413160	OSTOMY	120plus	ostomy	recurring
+squ-413161	OSTOMY	120plus	ostomy	recurring
+squ-413162	OSTOMY	120plus	ostomy	recurring
+squ-413163	OSTOMY	120plus	ostomy	recurring
+squ-413164	OSTOMY	120plus	ostomy	recurring
+squ-413165	OSTOMY	120plus	ostomy	recurring
+squ-413166	OSTOMY	120plus	ostomy	recurring
+squ-413167	OSTOMY	120plus	ostomy	recurring
+squ-413168	OSTOMY	120plus	ostomy	recurring
+squ-413177	OSTOMY	120plus	ostomy	recurring
+squ-413178	OSTOMY	120plus	ostomy	recurring
+squ-413179	OSTOMY	120plus	ostomy	recurring
+squ-413180	OSTOMY	120plus	ostomy	recurring
+squ-413181	OSTOMY	120plus	ostomy	recurring
+squ-413182	OSTOMY	120plus	ostomy	recurring
+squ-413183	OSTOMY	120plus	ostomy	recurring
+squ-413184	OSTOMY	120plus	ostomy	recurring
+squ-413185	OSTOMY	120plus	ostomy	recurring
+squ-413186	OSTOMY	120plus	ostomy	recurring
+squ-413187	OSTOMY	120plus	ostomy	recurring
+squ-413188	OSTOMY	120plus	ostomy	recurring
+squ-413417	OSTOMY	120plus	ostomy	recurring
+squ-413418	OSTOMY	120plus	ostomy	recurring
+squ-413419	OSTOMY	120plus	ostomy	recurring
+squ-413420	OSTOMY	120plus	ostomy	recurring
+squ-413421	OSTOMY	120plus	ostomy	recurring
+squ-413422	OSTOMY	120plus	ostomy	recurring
+squ-413423	OSTOMY	120plus	ostomy	recurring
+squ-413424	OSTOMY	120plus	ostomy	recurring
+squ-413437	OSTOMY	60to119	ostomy	recurring
+squ-413438	OSTOMY	60to119	ostomy	recurring
+squ-413509	OSTOMY	120plus	ostomy	recurring
+squ-413510	OSTOMY	120plus	ostomy	recurring
+squ-413511	OSTOMY	120plus	ostomy	recurring
+squ-413515	OSTOMY	120plus	ostomy	recurring
+squ-413516	OSTOMY	120plus	ostomy	recurring
+squ-413521	OSTOMY	120plus	ostomy	recurring
+squ-413522	OSTOMY	120plus	ostomy	recurring
+squ-413523	OSTOMY	120plus	ostomy	recurring
 squ-413566	Wound Care	120plus	wound-care	recurring
 squ-413567	Wound Care	120plus	wound-care	recurring
 squ-413568	Wound Care	120plus	wound-care	recurring
 squ-413569	Wound Care	120plus	wound-care	recurring
 squ-413570	Wound Care	120plus	wound-care	recurring
 squ-413571	Wound Care	120plus	wound-care	recurring
-squ-419800	Incontinence	60to119	incontinence	recurring
+squ-416403	OSTOMY	120plus	ostomy	recurring
+squ-416406	OSTOMY	120plus	ostomy	recurring
+squ-416409	OSTOMY	120plus	ostomy	recurring
+squ-416412	OSTOMY	120plus	ostomy	recurring
+squ-416415	OSTOMY	60to119	ostomy	recurring
+squ-416416	OSTOMY	60to119	ostomy	recurring
+squ-416417	OSTOMY	60to119	ostomy	recurring
+squ-416418	OSTOMY	60to119	ostomy	recurring
+squ-416419	OSTOMY	60to119	ostomy	recurring
+squ-416420	OSTOMY	60to119	ostomy	recurring
+squ-416421	OSTOMY	60to119	ostomy	recurring
+squ-416422	OSTOMY	60to119	ostomy	recurring
+squ-416423	OSTOMY	60to119	ostomy	recurring
+squ-416424	OSTOMY	60to119	ostomy	recurring
+squ-416472	OSTOMY	60to119	ostomy	recurring
+squ-416700	OSTOMY	120plus	ostomy	recurring
+squ-416701	OSTOMY	120plus	ostomy	recurring
+squ-416703	OSTOMY	120plus	ostomy	recurring
+squ-416704	OSTOMY	120plus	ostomy	recurring
+squ-416706	OSTOMY	120plus	ostomy	recurring
+squ-416707	OSTOMY	120plus	ostomy	recurring
+squ-416709	OSTOMY	120plus	ostomy	recurring
+squ-416710	OSTOMY	120plus	ostomy	recurring
+squ-416712	OSTOMY	120plus	ostomy	recurring
+squ-416713	OSTOMY	120plus	ostomy	recurring
+squ-416715	OSTOMY	120plus	ostomy	recurring
+squ-416718	OSTOMY	120plus	ostomy	recurring
+squ-416719	OSTOMY	120plus	ostomy	recurring
+squ-416721	OSTOMY	120plus	ostomy	recurring
+squ-416724	OSTOMY	120plus	ostomy	recurring
+squ-416725	OSTOMY	120plus	ostomy	recurring
+squ-416728	OSTOMY	120plus	ostomy	recurring
+squ-416729	OSTOMY	120plus	ostomy	recurring
+squ-416732	OSTOMY	120plus	ostomy	recurring
+squ-416733	OSTOMY	120plus	ostomy	recurring
+squ-416737	OSTOMY	120plus	ostomy	recurring
+squ-416738	OSTOMY	120plus	ostomy	recurring
+squ-416739	OSTOMY	120plus	ostomy	recurring
+squ-416740	OSTOMY	120plus	ostomy	recurring
+squ-416741	OSTOMY	120plus	ostomy	recurring
+squ-416742	OSTOMY	120plus	ostomy	recurring
+squ-416743	OSTOMY	120plus	ostomy	recurring
+squ-416744	OSTOMY	120plus	ostomy	recurring
+squ-416745	OSTOMY	120plus	ostomy	recurring
+squ-416746	OSTOMY	120plus	ostomy	recurring
+squ-416747	OSTOMY	120plus	ostomy	recurring
+squ-416748	OSTOMY	120plus	ostomy	recurring
+squ-416749	OSTOMY	120plus	ostomy	recurring
+squ-416750	OSTOMY	120plus	ostomy	recurring
+squ-416751	OSTOMY	120plus	ostomy	recurring
+squ-416774	OSTOMY	120plus	ostomy	recurring
+squ-416775	OSTOMY	120plus	ostomy	recurring
+squ-416778	OSTOMY	120plus	ostomy	recurring
+squ-416779	OSTOMY	120plus	ostomy	recurring
+squ-416781	OSTOMY	120plus	ostomy	recurring
+squ-416783	OSTOMY	120plus	ostomy	recurring
+squ-416795	OSTOMY	120plus	ostomy	recurring
+squ-416796	OSTOMY	120plus	ostomy	recurring
+squ-416798	OSTOMY	120plus	ostomy	recurring
+squ-416799	OSTOMY	120plus	ostomy	recurring
+squ-416901	OSTOMY	120plus	ostomy	recurring
+squ-416902	OSTOMY	120plus	ostomy	recurring
+squ-416908	OSTOMY	120plus	ostomy	recurring
+squ-416975	OSTOMY	120plus	ostomy	recurring
+squ-416976	OSTOMY	120plus	ostomy	recurring
+squ-419800	Catheters	60to119	catheters	one-off
 squ-420127	Wound Care	120plus	wound-care	recurring
 squ-420619	Wound Care	120plus	wound-care	recurring
 squ-420621	Wound Care	120plus	wound-care	recurring
@@ -7450,14 +7742,30 @@ squ-420672	Wound Care	120plus	wound-care	recurring
 squ-420673	Wound Care	120plus	wound-care	recurring
 squ-420680	Wound Care	120plus	wound-care	recurring
 squ-420681	Wound Care	120plus	wound-care	recurring
+squ-420695	OSTOMY	60to119	ostomy	recurring
+squ-420696	OSTOMY	60to119	ostomy	recurring
+squ-420697	OSTOMY	60to119	ostomy	recurring
+squ-420791	OSTOMY	120plus	ostomy	recurring
 squ-420804	Wound Care	60to119	wound-care	recurring
 squ-420805	Wound Care	120plus	wound-care	recurring
 squ-420806	Wound Care	120plus	wound-care	recurring
 squ-420807	Wound Care	120plus	wound-care	recurring
+squ-421033	OSTOMY	120plus	ostomy	recurring
+squ-421034	OSTOMY	120plus	ostomy	recurring
+squ-421035	OSTOMY	120plus	ostomy	recurring
+squ-421039	OSTOMY	120plus	ostomy	recurring
+squ-421040	OSTOMY	120plus	ostomy	recurring
+squ-421041	OSTOMY	120plus	ostomy	recurring
 squ-421151	Wound Care	120plus	wound-care	recurring
 squ-421153	Wound Care	120plus	wound-care	recurring
 squ-421155	Wound Care	120plus	wound-care	recurring
 squ-421156	Wound Care	120plus	wound-care	recurring
+squ-421454	OSTOMY	120plus	ostomy	recurring
+squ-421456	OSTOMY	120plus	ostomy	recurring
+squ-421458	OSTOMY	120plus	ostomy	recurring
+squ-421460	OSTOMY	120plus	ostomy	recurring
+squ-421462	OSTOMY	120plus	ostomy	recurring
+squ-421464	OSTOMY	120plus	ostomy	recurring
 squ-421553	Wound Care	120plus	wound-care	recurring
 squ-421554	Wound Care	120plus	wound-care	recurring
 squ-421555	Wound Care	120plus	wound-care	recurring
@@ -7465,49 +7773,146 @@ squ-421557	Wound Care	under60	wound-care	recurring
 squ-421559	Wound Care	60to119	wound-care	recurring
 squ-421561	Wound Care	120plus	wound-care	recurring
 squ-421563	Wound Care	60to119	wound-care	recurring
-squ-421564	Incontinence	120plus	incontinence	recurring
-squ-421565	Incontinence	120plus	incontinence	recurring
-squ-421566	Incontinence	120plus	incontinence	recurring
-squ-421567	Incontinence	120plus	incontinence	recurring
-squ-421568	Incontinence	120plus	incontinence	recurring
-squ-421569	Incontinence	120plus	incontinence	recurring
-squ-421570	Incontinence	120plus	incontinence	recurring
-squ-421571	Incontinence	120plus	incontinence	recurring
-squ-421572	Incontinence	120plus	incontinence	recurring
-squ-421573	Incontinence	120plus	incontinence	recurring
-squ-421574	Incontinence	120plus	incontinence	recurring
-squ-421907	Incontinence	120plus	incontinence	recurring
-squ-421908	Incontinence	120plus	incontinence	recurring
-squ-421909	Incontinence	120plus	incontinence	recurring
-squ-421910	Incontinence	120plus	incontinence	recurring
-squ-421911	Incontinence	120plus	incontinence	recurring
-squ-421912	Incontinence	120plus	incontinence	recurring
+squ-421564	Catheters	120plus	catheters	one-off
+squ-421565	Catheters	120plus	catheters	one-off
+squ-421566	Catheters	120plus	catheters	one-off
+squ-421567	Catheters	120plus	catheters	one-off
+squ-421568	Catheters	120plus	catheters	one-off
+squ-421569	Catheters	120plus	catheters	one-off
+squ-421570	Catheters	120plus	catheters	one-off
+squ-421571	Catheters	120plus	catheters	one-off
+squ-421572	Catheters	120plus	catheters	one-off
+squ-421573	Catheters	120plus	catheters	one-off
+squ-421574	Catheters	120plus	catheters	one-off
+squ-421615	OSTOMY	120plus	ostomy	recurring
+squ-421619	OSTOMY	120plus	ostomy	recurring
+squ-421622	OSTOMY	120plus	ostomy	recurring
+squ-421623	OSTOMY	120plus	ostomy	recurring
+squ-421626	OSTOMY	120plus	ostomy	recurring
+squ-421628	OSTOMY	120plus	ostomy	recurring
+squ-421631	OSTOMY	120plus	ostomy	recurring
+squ-421639	OSTOMY	120plus	ostomy	recurring
+squ-421641	OSTOMY	120plus	ostomy	recurring
+squ-421643	OSTOMY	120plus	ostomy	recurring
+squ-421678	OSTOMY	120plus	ostomy	recurring
+squ-421679	OSTOMY	120plus	ostomy	recurring
+squ-421680	OSTOMY	120plus	ostomy	recurring
+squ-421681	OSTOMY	120plus	ostomy	recurring
+squ-421682	OSTOMY	120plus	ostomy	recurring
+squ-421683	OSTOMY	120plus	ostomy	recurring
+squ-421687	OSTOMY	120plus	ostomy	recurring
+squ-421688	OSTOMY	120plus	ostomy	recurring
+squ-421689	OSTOMY	120plus	ostomy	recurring
+squ-421738	OSTOMY	60to119	ostomy	recurring
+squ-421739	OSTOMY	60to119	ostomy	recurring
+squ-421740	OSTOMY	60to119	ostomy	recurring
+squ-421746	OSTOMY	60to119	ostomy	recurring
+squ-421747	OSTOMY	60to119	ostomy	recurring
+squ-421748	OSTOMY	60to119	ostomy	recurring
+squ-421749	OSTOMY	60to119	ostomy	recurring
+squ-421796	OSTOMY	120plus	ostomy	recurring
+squ-421797	OSTOMY	120plus	ostomy	recurring
+squ-421798	OSTOMY	120plus	ostomy	recurring
+squ-421816	OSTOMY	120plus	ostomy	recurring
+squ-421821	OSTOMY	120plus	ostomy	recurring
+squ-421822	OSTOMY	120plus	ostomy	recurring
+squ-421848	OSTOMY	120plus	ostomy	recurring
+squ-421853	OSTOMY	120plus	ostomy	recurring
+squ-421858	OSTOMY	120plus	ostomy	recurring
+squ-421893	OSTOMY	120plus	ostomy	recurring
+squ-421907	Catheters	120plus	catheters	one-off
+squ-421908	Catheters	120plus	catheters	one-off
+squ-421909	Catheters	120plus	catheters	one-off
+squ-421910	Catheters	120plus	catheters	one-off
+squ-421911	Catheters	120plus	catheters	one-off
+squ-421912	Catheters	120plus	catheters	one-off
 squ-421927	Wound Care	under60	wound-care	recurring
 squ-421928	Wound Care	120plus	wound-care	recurring
+squ-422159	OSTOMY	120plus	ostomy	recurring
 squ-422285	Wound Care	120plus	wound-care	recurring
 squ-422357	Wound Care	120plus	wound-care	recurring
+squ-422363	OSTOMY	120plus	ostomy	recurring
+squ-422364	OSTOMY	120plus	ostomy	recurring
+squ-422365	OSTOMY	120plus	ostomy	recurring
+squ-422551	OSTOMY	120plus	ostomy	recurring
+squ-422557	OSTOMY	120plus	ostomy	recurring
+squ-422562	OSTOMY	120plus	ostomy	recurring
 squ-422567	Wound Care	60to119	wound-care	recurring
 squ-422568	Wound Care	120plus	wound-care	recurring
 squ-422572	Wound Care	120plus	wound-care	recurring
 squ-422573	Wound Care	120plus	wound-care	recurring
 squ-422576	Wound Care	60to119	wound-care	recurring
 squ-422581	Wound Care	120plus	wound-care	recurring
-squ-501002	Incontinence	60to119	incontinence	recurring
-squ-501003	Incontinence	60to119	incontinence	recurring
-squ-501004	Incontinence	60to119	incontinence	recurring
-squ-501005	Incontinence	60to119	incontinence	recurring
-squ-501006	Incontinence	60to119	incontinence	recurring
-squ-501011	Incontinence	120plus	incontinence	recurring
-squ-501012	Incontinence	120plus	incontinence	recurring
-squ-501013	Incontinence	120plus	incontinence	recurring
-squ-501014	Incontinence	120plus	incontinence	recurring
-squ-501015	Incontinence	120plus	incontinence	recurring
-squ-501016	Incontinence	120plus	incontinence	recurring
-squ-501019	Incontinence	60to119	incontinence	recurring
-squ-501020	Incontinence	60to119	incontinence	recurring
-squ-501021	Incontinence	60to119	incontinence	recurring
-squ-501022	Incontinence	60to119	incontinence	recurring
-squ-501023	Incontinence	60to119	incontinence	recurring
+squ-423642	OSTOMY	120plus	ostomy	recurring
+squ-423643	OSTOMY	120plus	ostomy	recurring
+squ-423644	OSTOMY	120plus	ostomy	recurring
+squ-423645	OSTOMY	120plus	ostomy	recurring
+squ-423646	OSTOMY	120plus	ostomy	recurring
+squ-423647	OSTOMY	120plus	ostomy	recurring
+squ-423648	OSTOMY	120plus	ostomy	recurring
+squ-423651	OSTOMY	120plus	ostomy	recurring
+squ-423652	OSTOMY	120plus	ostomy	recurring
+squ-423653	OSTOMY	120plus	ostomy	recurring
+squ-423654	OSTOMY	120plus	ostomy	recurring
+squ-423655	OSTOMY	120plus	ostomy	recurring
+squ-423656	OSTOMY	120plus	ostomy	recurring
+squ-423657	OSTOMY	120plus	ostomy	recurring
+squ-423658	OSTOMY	120plus	ostomy	recurring
+squ-423659	OSTOMY	120plus	ostomy	recurring
+squ-423660	OSTOMY	120plus	ostomy	recurring
+squ-423661	OSTOMY	120plus	ostomy	recurring
+squ-423664	OSTOMY	120plus	ostomy	recurring
+squ-423665	OSTOMY	120plus	ostomy	recurring
+squ-423667	OSTOMY	120plus	ostomy	recurring
+squ-423670	OSTOMY	120plus	ostomy	recurring
+squ-423673	OSTOMY	120plus	ostomy	recurring
+squ-423674	OSTOMY	120plus	ostomy	recurring
+squ-423676	OSTOMY	120plus	ostomy	recurring
+squ-423677	OSTOMY	120plus	ostomy	recurring
+squ-423689	OSTOMY	120plus	ostomy	recurring
+squ-423704	OSTOMY	120plus	ostomy	recurring
+squ-423712	OSTOMY	120plus	ostomy	recurring
+squ-423713	OSTOMY	120plus	ostomy	recurring
+squ-423714	OSTOMY	120plus	ostomy	recurring
+squ-423722	OSTOMY	120plus	ostomy	recurring
+squ-423725	OSTOMY	120plus	ostomy	recurring
+squ-423726	OSTOMY	120plus	ostomy	recurring
+squ-423727	OSTOMY	120plus	ostomy	recurring
+squ-501002	Catheters	60to119	catheters	one-off
+squ-501003	Catheters	60to119	catheters	one-off
+squ-501004	Catheters	60to119	catheters	one-off
+squ-501005	Catheters	60to119	catheters	one-off
+squ-501006	Catheters	60to119	catheters	one-off
+squ-501011	Catheters	120plus	catheters	one-off
+squ-501012	Catheters	120plus	catheters	one-off
+squ-501013	Catheters	120plus	catheters	one-off
+squ-501014	Catheters	120plus	catheters	one-off
+squ-501015	Catheters	120plus	catheters	one-off
+squ-501016	Catheters	120plus	catheters	one-off
+squ-501019	Catheters	60to119	catheters	one-off
+squ-501020	Catheters	60to119	catheters	one-off
+squ-501021	Catheters	60to119	catheters	one-off
+squ-501022	Catheters	60to119	catheters	one-off
+squ-501023	Catheters	60to119	catheters	one-off
+squ-64927	OSTOMY	120plus	ostomy	recurring
+squ-650803	OSTOMY	120plus	ostomy	recurring
+squ-650828	OSTOMY	120plus	ostomy	recurring
+squ-650829	OSTOMY	120plus	ostomy	recurring
+squ-650830	OSTOMY	120plus	ostomy	recurring
+squ-650831	OSTOMY	120plus	ostomy	recurring
+squ-650832	OSTOMY	120plus	ostomy	recurring
+squ-650833	OSTOMY	120plus	ostomy	recurring
+squ-839001	OSTOMY	120plus	ostomy	recurring
+squ-839002	OSTOMY	120plus	ostomy	recurring
+squ-839003	OSTOMY	120plus	ostomy	recurring
+squ-839004	OSTOMY	60to119	ostomy	recurring
+squ-839005	OSTOMY	60to119	ostomy	recurring
+squ-839006	OSTOMY	60to119	ostomy	recurring
+squ-839007	OSTOMY	60to119	ostomy	recurring
+squ-839008	OSTOMY	120plus	ostomy	recurring
+squ-839010	OSTOMY	under60	ostomy	recurring
+squ-839027	OSTOMY	60to119	ostomy	recurring
+squ-839028	OSTOMY	120plus	ostomy	recurring
 squ-839250	Wound Care	120plus	wound-care	recurring
 squ-839251	Wound Care	120plus	wound-care	recurring
 squ-839252	Wound Care	120plus	wound-care	recurring
@@ -7534,7 +7939,7 @@ tms-96040	Wound Care	under60	wound-care	recurring
 tms-96070	Wound Care	under60	wound-care	recurring
 tr-t0187591010	Respiratory	under60	respiratory	recurring
 ttr-c1001	Diabetic	120plus	diabetic	recurring
-ulb-384	Incontinence	under60	incontinence	recurring
+ulb-384	Catheters	under60	catheters	one-off
 urg-00302	Wound Care	120plus	wound-care	recurring
 urg-00303	Wound Care	120plus	wound-care	recurring
 urg-00304	Wound Care	120plus	wound-care	recurring
@@ -7550,113 +7955,113 @@ urg-00322	Wound Care	120plus	wound-care	recurring
 urg-00323	Wound Care	120plus	wound-care	recurring
 urg-00352	Wound Care	120plus	wound-care	recurring
 urg-553228	Wound Care	120plus	wound-care	recurring
-uro-4100	Incontinence	60to119	incontinence	recurring
-uro-4101	Incontinence	under60	incontinence	recurring
-uro-4140	Incontinence	120plus	incontinence	recurring
-uro-4200	Incontinence	under60	incontinence	recurring
-uro-4409	Incontinence	60to119	incontinence	recurring
-uro-4410	Incontinence	60to119	incontinence	recurring
-uro-4421	Incontinence	120plus	incontinence	recurring
-uro-5000-03	Incontinence	120plus	incontinence	recurring
-uro-5000015	Incontinence	60to119	incontinence	recurring
-uro-500330	Incontinence	60to119	incontinence	recurring
-uro-500335	Incontinence	60to119	incontinence	recurring
-uro-501003	Incontinence	under60	incontinence	recurring
-uro-5100	Incontinence	under60	incontinence	recurring
-uro-510225	Incontinence	120plus	incontinence	recurring
-uro-510230	Incontinence	120plus	incontinence	recurring
-uro-510235	Incontinence	120plus	incontinence	recurring
-uro-510435	Incontinence	120plus	incontinence	recurring
-uro-511230	Incontinence	120plus	incontinence	recurring
-uro-511235	Incontinence	120plus	incontinence	recurring
-uro-512230	Incontinence	120plus	incontinence	recurring
-uro-512235	Incontinence	120plus	incontinence	recurring
-uro-512435	Incontinence	120plus	incontinence	recurring
-uro-5124530	Incontinence	120plus	incontinence	recurring
-uro-5200	Incontinence	60to119	incontinence	recurring
-uro-520130	Incontinence	120plus	incontinence	recurring
-uro-521130	Incontinence	120plus	incontinence	recurring
-uro-521135	Incontinence	120plus	incontinence	recurring
-uro-521140	Incontinence	120plus	incontinence	recurring
-uro-522135	Incontinence	120plus	incontinence	recurring
-uro-522140	Incontinence	120plus	incontinence	recurring
-uro-530124	Incontinence	120plus	incontinence	recurring
-uro-530128	Incontinence	120plus	incontinence	recurring
-uro-530131	Incontinence	120plus	incontinence	recurring
-uro-530135	Incontinence	120plus	incontinence	recurring
-uro-530140	Incontinence	120plus	incontinence	recurring
-uro-5999	Incontinence	under60	incontinence	recurring
-uro-6000	Incontinence	under60	incontinence	recurring
-uro-6001	Incontinence	under60	incontinence	recurring
-uro-6002	Incontinence	under60	incontinence	recurring
-uro-6003	Incontinence	60to119	incontinence	recurring
-uro-6005	Incontinence	under60	incontinence	recurring
-uro-6006	Incontinence	under60	incontinence	recurring
-uro-60062	Incontinence	120plus	incontinence	recurring
-uro-600825	Incontinence	60to119	incontinence	recurring
-uro-600828	Incontinence	60to119	incontinence	recurring
-uro-600831	Incontinence	60to119	incontinence	recurring
-uro-6009	Incontinence	under60	incontinence	recurring
-uro-6010	Incontinence	under60	incontinence	recurring
-uro-6013	Incontinence	under60	incontinence	recurring
-uro-6014	Incontinence	60to119	incontinence	recurring
-uro-6016	Incontinence	under60	incontinence	recurring
-uro-6017	Incontinence	under60	incontinence	recurring
-uro-6018	Incontinence	under60	incontinence	recurring
-uro-6019	Incontinence	under60	incontinence	recurring
-uro-6020	Incontinence	under60	incontinence	recurring
-uro-6060	Incontinence	under60	incontinence	recurring
-uro-6061	Incontinence	under60	incontinence	recurring
-uro-6085	Incontinence	under60	incontinence	recurring
-uro-6310	Incontinence	under60	incontinence	recurring
-uro-6311	Incontinence	under60	incontinence	recurring
-uro-6312	Incontinence	under60	incontinence	recurring
-uro-6342	Incontinence	under60	incontinence	recurring
-uro-6343	Incontinence	under60	incontinence	recurring
-uro-6344	Incontinence	under60	incontinence	recurring
-uro-6345	Incontinence	under60	incontinence	recurring
-uro-6346	Incontinence	under60	incontinence	recurring
-uro-6347	Incontinence	under60	incontinence	recurring
-uro-6348	Incontinence	under60	incontinence	recurring
-uro-6349	Incontinence	60to119	incontinence	recurring
-uro-6350	Incontinence	60to119	incontinence	recurring
-uro-6351	Incontinence	60to119	incontinence	recurring
-uro-6355	Incontinence	under60	incontinence	recurring
-uro-6356	Incontinence	under60	incontinence	recurring
-uro-6357	Incontinence	under60	incontinence	recurring
-uro-6358	Incontinence	under60	incontinence	recurring
-uro-6360	Incontinence	under60	incontinence	recurring
-uro-6380	Incontinence	under60	incontinence	recurring
-uro-6382	Incontinence	60to119	incontinence	recurring
-uro-6383	Incontinence	60to119	incontinence	recurring
-uro-6384	Incontinence	60to119	incontinence	recurring
-uro-6390	Incontinence	under60	incontinence	recurring
-uro-6393	Incontinence	60to119	incontinence	recurring
-uro-6394	Incontinence	60to119	incontinence	recurring
-uro-6401	Incontinence	60to119	incontinence	recurring
-uro-6999	Incontinence	under60	incontinence	recurring
-uro-700110	Incontinence	under60	incontinence	recurring
-uro-700118	Incontinence	60to119	incontinence	recurring
-uro-700172	Incontinence	120plus	incontinence	recurring
+uro-4100	Catheters	60to119	catheters	one-off
+uro-4101	Catheters	under60	catheters	one-off
+uro-4140	Catheters	120plus	catheters	one-off
+uro-4200	Catheters	under60	catheters	one-off
+uro-4409	Catheters	60to119	catheters	one-off
+uro-4410	Catheters	60to119	catheters	one-off
+uro-4421	Catheters	120plus	catheters	one-off
+uro-5000-03	Catheters	120plus	catheters	one-off
+uro-5000015	Catheters	60to119	catheters	one-off
+uro-500330	Catheters	60to119	catheters	one-off
+uro-500335	Catheters	60to119	catheters	one-off
+uro-501003	Catheters	under60	catheters	one-off
+uro-5100	Catheters	under60	catheters	one-off
+uro-510225	Catheters	120plus	catheters	one-off
+uro-510230	Catheters	120plus	catheters	one-off
+uro-510235	Catheters	120plus	catheters	one-off
+uro-510435	Catheters	120plus	catheters	one-off
+uro-511230	Catheters	120plus	catheters	one-off
+uro-511235	Catheters	120plus	catheters	one-off
+uro-512230	Catheters	120plus	catheters	one-off
+uro-512235	Catheters	120plus	catheters	one-off
+uro-512435	Catheters	120plus	catheters	one-off
+uro-5124530	Catheters	120plus	catheters	one-off
+uro-5200	Catheters	60to119	catheters	one-off
+uro-520130	Catheters	120plus	catheters	one-off
+uro-521130	Catheters	120plus	catheters	one-off
+uro-521135	Catheters	120plus	catheters	one-off
+uro-521140	Catheters	120plus	catheters	one-off
+uro-522135	Catheters	120plus	catheters	one-off
+uro-522140	Catheters	120plus	catheters	one-off
+uro-530124	Catheters	120plus	catheters	one-off
+uro-530128	Catheters	120plus	catheters	one-off
+uro-530131	Catheters	120plus	catheters	one-off
+uro-530135	Catheters	120plus	catheters	one-off
+uro-530140	Catheters	120plus	catheters	one-off
+uro-5999	Catheters	under60	catheters	one-off
+uro-6000	Catheters	under60	catheters	one-off
+uro-6001	Catheters	under60	catheters	one-off
+uro-6002	Catheters	under60	catheters	one-off
+uro-6003	Catheters	60to119	catheters	one-off
+uro-6005	Catheters	under60	catheters	one-off
+uro-6006	Catheters	under60	catheters	one-off
+uro-60062	Catheters	120plus	catheters	one-off
+uro-600825	Catheters	60to119	catheters	one-off
+uro-600828	Catheters	60to119	catheters	one-off
+uro-600831	Catheters	60to119	catheters	one-off
+uro-6009	Catheters	under60	catheters	one-off
+uro-6010	Catheters	under60	catheters	one-off
+uro-6013	Catheters	under60	catheters	one-off
+uro-6014	Catheters	60to119	catheters	one-off
+uro-6016	Catheters	under60	catheters	one-off
+uro-6017	Catheters	under60	catheters	one-off
+uro-6018	Catheters	under60	catheters	one-off
+uro-6019	Catheters	under60	catheters	one-off
+uro-6020	Catheters	under60	catheters	one-off
+uro-6060	Catheters	under60	catheters	one-off
+uro-6061	Catheters	under60	catheters	one-off
+uro-6085	Catheters	under60	catheters	one-off
+uro-6310	Catheters	under60	catheters	one-off
+uro-6311	Catheters	under60	catheters	one-off
+uro-6312	Catheters	under60	catheters	one-off
+uro-6342	Catheters	under60	catheters	one-off
+uro-6343	Catheters	under60	catheters	one-off
+uro-6344	Catheters	under60	catheters	one-off
+uro-6345	Catheters	under60	catheters	one-off
+uro-6346	Catheters	under60	catheters	one-off
+uro-6347	Catheters	under60	catheters	one-off
+uro-6348	Catheters	under60	catheters	one-off
+uro-6349	Catheters	60to119	catheters	one-off
+uro-6350	Catheters	60to119	catheters	one-off
+uro-6351	Catheters	60to119	catheters	one-off
+uro-6355	Catheters	under60	catheters	one-off
+uro-6356	Catheters	under60	catheters	one-off
+uro-6357	Catheters	under60	catheters	one-off
+uro-6358	Catheters	under60	catheters	one-off
+uro-6360	Catheters	under60	catheters	one-off
+uro-6380	Catheters	under60	catheters	one-off
+uro-6382	Catheters	60to119	catheters	one-off
+uro-6383	Catheters	60to119	catheters	one-off
+uro-6384	Catheters	60to119	catheters	one-off
+uro-6390	Catheters	under60	catheters	one-off
+uro-6393	Catheters	60to119	catheters	one-off
+uro-6394	Catheters	60to119	catheters	one-off
+uro-6401	Catheters	60to119	catheters	one-off
+uro-6999	Catheters	under60	catheters	one-off
+uro-700110	Catheters	under60	catheters	one-off
+uro-700118	Catheters	60to119	catheters	one-off
+uro-700172	Catheters	120plus	catheters	one-off
 uro-700216	OSTOMY ACCESSORIES	under60	ostomy-accessories	recurring
-uro-76180	Incontinence	under60	incontinence	recurring
-uro-76320	Incontinence	under60	incontinence	recurring
-uro-76321	Incontinence	under60	incontinence	recurring
-uro-77180	Incontinence	under60	incontinence	recurring
-uro-77181	Incontinence	under60	incontinence	recurring
-uro-77320	Incontinence	under60	incontinence	recurring
-uro-77321	Incontinence	under60	incontinence	recurring
-uro-8509	Incontinence	120plus	incontinence	recurring
-uro-8510	Incontinence	120plus	incontinence	recurring
-uro-8516	Incontinence	120plus	incontinence	recurring
-uro-8518	Incontinence	120plus	incontinence	recurring
-uro-8526	Incontinence	120plus	incontinence	recurring
-uro-8532	Incontinence	120plus	incontinence	recurring
-uro-9510	Incontinence	120plus	incontinence	recurring
-uro-9516	Incontinence	120plus	incontinence	recurring
-uro-9526	Incontinence	120plus	incontinence	recurring
-uro-9532	Incontinence	120plus	incontinence	recurring
-uro-9544	Incontinence	120plus	incontinence	recurring
+uro-76180	Catheters	under60	catheters	one-off
+uro-76320	Catheters	under60	catheters	one-off
+uro-76321	Catheters	under60	catheters	one-off
+uro-77180	Catheters	under60	catheters	one-off
+uro-77181	Catheters	under60	catheters	one-off
+uro-77320	Catheters	under60	catheters	one-off
+uro-77321	Catheters	under60	catheters	one-off
+uro-8509	Catheters	120plus	catheters	one-off
+uro-8510	Catheters	120plus	catheters	one-off
+uro-8516	Catheters	120plus	catheters	one-off
+uro-8518	Catheters	120plus	catheters	one-off
+uro-8526	Catheters	120plus	catheters	one-off
+uro-8532	Catheters	120plus	catheters	one-off
+uro-9510	Catheters	120plus	catheters	one-off
+uro-9516	Catheters	120plus	catheters	one-off
+uro-9526	Catheters	120plus	catheters	one-off
+uro-9532	Catheters	120plus	catheters	one-off
+uro-9544	Catheters	120plus	catheters	one-off
 ver-v38-121d	Wound Care	under60	wound-care	recurring
 vol-00095	Incontinence	under60	incontinence	recurring
 vol-h100-07	Home Healthcare	under60	home-healthcare	one-off
