@@ -173,7 +173,7 @@ ac-ua291a	Health Monitors	under60	health-monitors	one-off
 ac-ua420a	Health Monitors	under60	health-monitors	one-off
 ac-uaup200ble-tm	Health Monitors	60to119	health-monitors	one-off
 ac-uaup200cn	Health Monitors	under60	health-monitors	one-off
-acm-8702ty	Home Healthcare	under60	home-healthcare	one-off
+acm-8702ty	Diabetic	under60	diabetic	recurring
 adc-500128	Health Monitors	under60	health-monitors	one-off
 adc-603lv	Health Monitors	120plus	health-monitors	one-off
 adc-604bk	Health Monitors	120plus	health-monitors	one-off
@@ -185,7 +185,6 @@ ahp-018-600	Wound Care	under60	wound-care	recurring
 ahp-052123	Wound Care	under60	wound-care	recurring
 ahp-08500	Home Healthcare	60to119	home-healthcare	one-off
 ahp-1341	Incontinence	60to119	incontinence	recurring
-ahp-20-08-0003	Respiratory	120plus	respiratory	recurring
 ahp-90-3100	Respiratory	60to119	respiratory	recurring
 ahp-s1160ba-rpl	Respiratory	under60	respiratory	recurring
 ai-02al	Braces	60to119	braces	one-off
@@ -1035,7 +1034,6 @@ alm-090	Home Healthcare	120plus	home-healthcare	one-off
 alm-10-2800	Health Monitors	under60	health-monitors	one-off
 alm-80-9265	PPE	under60	ppe	one-off
 alm-disag	Home Healthcare	120plus	home-healthcare	one-off
-ambu-1055	Respiratory	120plus	respiratory	recurring
 ambu-520612000	Respiratory	120plus	respiratory	recurring
 amd-6660	Wound Care	under60	wound-care	recurring
 amd-a2100-ch	Wound Care	under60	wound-care	recurring
@@ -1091,7 +1089,6 @@ amg-705-520	Respiratory	under60	respiratory	recurring
 amg-705-530	Respiratory	under60	respiratory	recurring
 amg-705-552	Respiratory	under60	respiratory	recurring
 amg-705-560	Respiratory	under60	respiratory	recurring
-amg-715-530	Pain Relief	under60	pain-relief	one-off
 amg-715-715	Pain Relief	under60	pain-relief	one-off
 amg-730-444	Mobility	under60	mobility	one-off
 amg-730-446	Mobility	under60	mobility	one-off
@@ -1385,7 +1382,6 @@ bax-001206	Respiratory	under60	respiratory	recurring
 bax-001225	Respiratory	under60	respiratory	recurring
 bax-001263	Respiratory	under60	respiratory	recurring
 bax-001901a	Respiratory	under60	respiratory	recurring
-bax-2c9216	Respiratory	120plus	respiratory	recurring
 bax-5007p	Respiratory	120plus	respiratory	recurring
 bax-5207	Respiratory	under60	respiratory	recurring
 bax-n52a	Respiratory	120plus	respiratory	recurring
@@ -1433,7 +1429,6 @@ bd-rtu14f	Catheters	120plus	catheters	one-off
 bd-rtu14m	Catheters	120plus	catheters	one-off
 bd-rtu16c	Catheters	120plus	catheters	one-off
 bd-rtu16m	Catheters	120plus	catheters	one-off
-bec-64151	Health Monitors	120plus	health-monitors	one-off
 bel-udb-4462000	Catheters	120plus	catheters	one-off
 bel-udb-4462010	Catheters	under60	catheters	one-off
 bio-21026-05ca	Catheters	120plus	catheters	one-off
@@ -1472,8 +1467,6 @@ bios-bd064c	Health Monitors	under60	health-monitors	one-off
 bios-bd201	Health Monitors	60to119	health-monitors	one-off
 bios-bd240	Health Monitors	120plus	health-monitors	one-off
 bios-bd252	Health Monitors	120plus	health-monitors	one-off
-bios-bdf880	Health Monitors	120plus	health-monitors	one-off
-bios-bdf881	Health Monitors	120plus	health-monitors	one-off
 bios-lf180	Bath Safety	under60	bath-safety	one-off
 bios-lf182	Bath Safety	under60	bath-safety	one-off
 bios-lf357	Bath Safety	under60	bath-safety	one-off
@@ -3020,7 +3013,6 @@ chc-122770a	Respiratory	under60	respiratory	recurring
 chc-771111e	Enteral Feeding	120plus	enteral-feeding	recurring
 chc-at74635	PPE	under60	ppe	one-off
 chc-eyp22s	Wound Care	under60	wound-care	recurring
-chs-4125l	Aids to Daily Living	60to119	aids-to-daily-living	one-off
 chs-43-4100	Enteral Feeding	120plus	enteral-feeding	recurring
 chs-7149-00	Enteral Feeding	under60	enteral-feeding	recurring
 chs-pc-anc	Enteral Feeding	120plus	enteral-feeding	recurring
@@ -4387,7 +4379,6 @@ dm-12063	Bath Safety	under60	bath-safety	one-off
 dm-12065	Bath Safety	60to119	bath-safety	one-off
 dm-12066	Bath Safety	60to119	bath-safety	one-off
 dm-12112-3	Bath Safety	60to119	bath-safety	one-off
-dm-1233	Bath Safety	120plus	bath-safety	one-off
 dm-1239rd	Mobility	120plus	mobility	one-off
 dm-12402	Bath Safety	60to119	bath-safety	one-off
 dm-12403	Bath Safety	60to119	bath-safety	one-off
@@ -4403,7 +4394,6 @@ dm-18031	Respiratory	under60	respiratory	recurring
 dm-18111	Respiratory	60to119	respiratory	recurring
 dm-18112	Respiratory	120plus	respiratory	recurring
 dm-18113	Respiratory	120plus	respiratory	recurring
-dm-18141	Respiratory	120plus	respiratory	recurring
 dm-18143	Respiratory	120plus	respiratory	recurring
 dm-18149kd	Respiratory	120plus	respiratory	recurring
 dm-18600-kitn	Respiratory	under60	respiratory	recurring
@@ -4414,9 +4404,6 @@ dm-3076	Bath Safety	120plus	bath-safety	one-off
 dm-3655d	Respiratory	60to119	respiratory	recurring
 dm-3655d-602	Respiratory	under60	respiratory	recurring
 dm-3655d-621	Respiratory	120plus	respiratory	recurring
-dm-412100200	Bath Safety	120plus	bath-safety	one-off
-dm-460900252	Bath Safety	120plus	bath-safety	one-off
-dm-460900312	Bath Safety	120plus	bath-safety	one-off
 dm-535d	Respiratory	120plus	respiratory	recurring
 dm-5650c	Respiratory	120plus	respiratory	recurring
 dm-610-12b	Respiratory	120plus	respiratory	recurring
@@ -4442,7 +4429,7 @@ dm-727-180	Mobility	under60	mobility	one-off
 dm-730-320	Mobility	under60	mobility	one-off
 dm-730-325	Mobility	under60	mobility	one-off
 dm-730-330	Mobility	under60	mobility	one-off
-dm-730-340	Bath Safety	under60	bath-safety	one-off
+dm-730-340	Mobility	under60	mobility	one-off
 dm-730-345	Mobility	under60	mobility	one-off
 dm-730-464	Mobility	under60	mobility	one-off
 dm-730-466	Mobility	under60	mobility	one-off
@@ -4534,7 +4521,6 @@ dm-atc19-bk	Mobility	120plus	mobility	one-off
 dm-atc19-bl	Mobility	120plus	mobility	one-off
 dm-atc19-rd	Mobility	120plus	mobility	one-off
 dm-atc22-r	Mobility	120plus	mobility	one-off
-dm-b02-306	Mobility	120plus	mobility	one-off
 dm-bls16fbd-elr	Mobility	120plus	mobility	one-off
 dm-bls16fbd-sf	Mobility	120plus	mobility	one-off
 dm-bls18fbd-elr	Mobility	120plus	mobility	one-off
@@ -4612,7 +4598,6 @@ dm-pla418rbdda	Mobility	120plus	mobility	one-off
 dm-pla418rbdfa	Mobility	120plus	mobility	one-off
 dm-pla420rbdda	Mobility	120plus	mobility	one-off
 dm-pla420rbdfa	Mobility	120plus	mobility	one-off
-dm-pltcdr	Aids to Daily Living	120plus	aids-to-daily-living	one-off
 dm-r726bk	Mobility	120plus	mobility	one-off
 dm-r726bl	Mobility	120plus	mobility	one-off
 dm-r726rd	Mobility	120plus	mobility	one-off
@@ -4623,8 +4608,8 @@ dm-rtl10131	Mobility	under60	mobility	one-off
 dm-rtl10254bfl	Mobility	under60	mobility	one-off
 dm-rtl10254gr	Mobility	under60	mobility	one-off
 dm-rtl10254tfl	Mobility	under60	mobility	one-off
-dm-rtl10255nv	Aids to Daily Living	under60	aids-to-daily-living	one-off
-dm-rtl10255pk	Aids to Daily Living	under60	aids-to-daily-living	one-off
+dm-rtl10255nv	Mobility	under60	mobility	one-off
+dm-rtl10255pk	Mobility	under60	mobility	one-off
 dm-rtl10256nv	Mobility	under60	mobility	one-off
 dm-rtl10261bl	Mobility	120plus	mobility	one-off
 dm-rtl10261rd	Mobility	120plus	mobility	one-off
@@ -4767,7 +4752,7 @@ dm-std30ecddasf	Mobility	120plus	mobility	one-off
 dm-std30ecdfa	Mobility	120plus	mobility	one-off
 dm-std30ecdfasf	Mobility	120plus	mobility	one-off
 dm-stds1034	Mobility	under60	mobility	one-off
-dm-stds1040s	Aids to Daily Living	under60	aids-to-daily-living	one-off
+dm-stds1040s	Mobility	under60	mobility	one-off
 dm-stds1093	Mobility	120plus	mobility	one-off
 dm-stds1094	Mobility	120plus	mobility	one-off
 dm-stds1095	Mobility	120plus	mobility	one-off
@@ -4784,14 +4769,14 @@ dm-stds818	Mobility	120plus	mobility	one-off
 dm-stds819	Mobility	60to119	mobility	one-off
 dm-stds829	Mobility	120plus	mobility	one-off
 dm-stds833n	Mobility	60to119	mobility	one-off
-dm-stds834	Aids to Daily Living	60to119	aids-to-daily-living	one-off
+dm-stds834	Mobility	60to119	mobility	one-off
 dm-stds850	Mobility	under60	mobility	one-off
 dm-stds851	Mobility	under60	mobility	one-off
 dm-stds855	Mobility	under60	mobility	one-off
 dm-stds856	Mobility	under60	mobility	one-off
 dm-stds860	Mobility	120plus	mobility	one-off
 dm-stdsf-tf	Mobility	60to119	mobility	one-off
-dm-stdsshk	Aids to Daily Living	120plus	aids-to-daily-living	one-off
+dm-stdsshk	Mobility	120plus	mobility	one-off
 dm-tc005gy	Mobility	120plus	mobility	one-off
 dm-tr18	Mobility	120plus	mobility	one-off
 dm-tr20	Mobility	120plus	mobility	one-off
@@ -5116,7 +5101,6 @@ fac-63900	Wound Care	under60	wound-care	recurring
 for-1882	Incontinence	under60	incontinence	recurring
 for-4213	Wound Care	under60	wound-care	recurring
 for-77560403060	Wound Care	under60	wound-care	recurring
-fw-031-3855	Braces	120plus	braces	one-off
 fxp-01r0125	Diabetic	under60	diabetic	recurring
 fxp-02r0125	Diabetic	under60	diabetic	recurring
 fxp-03e0125	Diabetic	under60	diabetic	recurring
@@ -6303,10 +6287,6 @@ ler-109-05	Wound Care	under60	wound-care	recurring
 ler-109-08	Wound Care	under60	wound-care	recurring
 ler-119-01	Wound Care	120plus	wound-care	recurring
 ler-126-01	Wound Care	under60	wound-care	recurring
-lm-980010	Braces	60to119	braces	one-off
-lm-980020	Braces	120plus	braces	one-off
-lm-980100	Braces	under60	braces	one-off
-lm-980200	Braces	under60	braces	one-off
 lm-985001	Respiratory	60to119	respiratory	recurring
 lmg-010701	Incontinence	120plus	incontinence	recurring
 lsfm5121br	Incontinence	60to119	incontinence	recurring
@@ -6357,14 +6337,11 @@ mdl-extrasrb303	Incontinence	120plus	incontinence	recurring
 mdl-fitultramd	Incontinence	60to119	incontinence	recurring
 mdl-g00841	Mobility	60to119	mobility	one-off
 mdl-g05161	Mobility	60to119	mobility	one-off
-mdl-g222-0716	Bath Safety	120plus	bath-safety	one-off
-mdl-g222-0864	Home Healthcare	120plus	home-healthcare	one-off
 mdl-g30300	Bath Safety	120plus	bath-safety	one-off
 mdl-hcs4485	Respiratory	under60	respiratory	recurring
 mdl-hcs4486	Respiratory	under60	respiratory	recurring
 mdl-hcs4514	Respiratory	60to119	respiratory	recurring
 mdl-hcs4525	Respiratory	60to119	respiratory	recurring
-mdl-hcs4568fs	Respiratory	120plus	respiratory	recurring
 mdl-hcs4640b	Respiratory	120plus	respiratory	recurring
 mdl-hcs8725m	Respiratory	under60	respiratory	recurring
 mdl-m102124c	Catheters	under60	catheters	one-off
@@ -6852,7 +6829,6 @@ poi-54356	Incontinence	under60	incontinence	recurring
 poi-54386	Incontinence	under60	incontinence	recurring
 poi-54939	Incontinence	under60	incontinence	recurring
 poi-54943	Incontinence	under60	incontinence	recurring
-pos-4125c	Aids to Daily Living	60to119	aids-to-daily-living	one-off
 pos-6239g	Aids to Daily Living	under60	aids-to-daily-living	one-off
 pos-6239lp	Aids to Daily Living	under60	aids-to-daily-living	one-off
 pos-6239lr	Aids to Daily Living	under60	aids-to-daily-living	one-off
@@ -6890,9 +6866,6 @@ rmc-38303	Catheters	120plus	catheters	one-off
 rmc-50614	Catheters	120plus	catheters	one-off
 roch10398411119	Diabetic	60to119	diabetic	recurring
 ros-ab6631113	Enteral Feeding	120plus	enteral-feeding	recurring
-rus-100380025	Respiratory	60to119	respiratory	recurring
-rus-100380030	Respiratory	60to119	respiratory	recurring
-rus-111781055	Respiratory	120plus	respiratory	recurring
 rus-122480	Respiratory	under60	respiratory	recurring
 rus-122490	Respiratory	under60	respiratory	recurring
 rus-123312	Respiratory	60to119	respiratory	recurring
@@ -7128,7 +7101,6 @@ sca-81780	Incontinence	120plus	incontinence	recurring
 sca-81920	Incontinence	120plus	incontinence	recurring
 seca-354	Health Monitors	120plus	health-monitors	one-off
 slt-1005-0-25	Respiratory	60to119	respiratory	recurring
-slt-4707-7-7-25	Respiratory	120plus	respiratory	recurring
 sm-1125-8	Respiratory	under60	respiratory	recurring
 sm-1321	Catheters	under60	catheters	one-off
 sm-1322n	Catheters	under60	catheters	one-off
@@ -7937,8 +7909,6 @@ swp020	Wound Care	under60	wound-care	recurring
 tms-10-790-20	Diabetic	under60	diabetic	recurring
 tms-96040	Wound Care	under60	wound-care	recurring
 tms-96070	Wound Care	under60	wound-care	recurring
-tr-t0187591010	Respiratory	under60	respiratory	recurring
-ttr-c1001	Diabetic	120plus	diabetic	recurring
 ulb-384	Catheters	under60	catheters	one-off
 urg-00302	Wound Care	120plus	wound-care	recurring
 urg-00303	Wound Care	120plus	wound-care	recurring
